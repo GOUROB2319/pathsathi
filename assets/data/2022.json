@@ -1,0 +1,3529 @@
+{
+  "year": 2022,
+  "books": [
+    {
+      "id": "2022-class_1-english-for-today-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/10QoWhNxnKZOQXre4LHQcVs2qWqGNtwZ1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-english-for-today-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/10QoWhNxnKZOQXre4LHQcVs2qWqGNtwZ1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-english-for-today-en",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1WlBLDnxjDedX2aAPVBxDtbIJujinGMoo/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-english-for-today-en-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/10QoWhNxnKZOQXre4LHQcVs2qWqGNtwZ1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-english-for-today-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/10QoWhNxnKZOQXre4LHQcVs2qWqGNtwZ1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-english-for-today-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/10QoWhNxnKZOQXre4LHQcVs2qWqGNtwZ1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-english-for-today-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/10QoWhNxnKZOQXre4LHQcVs2qWqGNtwZ1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-english-for-today-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/10QoWhNxnKZOQXre4LHQcVs2qWqGNtwZ1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-akaid-o-phikh-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1J-jj6kcsB6j8HQegRkxRIr3os1JGHMW3/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-ad-durusul-arabijjah-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1m4NsJgRlFikOoniKVnH-OVJxU_6Y4k-O/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1u9PWYorQ0EnQyy0H4tviPwTeV59KAiGY/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-bn-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DmsuTQ9v5BCmiUoqKnpKL3ou-mp2pl-r/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1KkpKQlCVW9AkUR9DeoUeevGyljWf_gnw/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1DmsuTQ9v5BCmiUoqKnpKL3ou-mp2pl-r/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1zPnvKEW01KwY6OffyfRUx5nF7FfOSKSl/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/13bAUsT5UPIu442GM9cOVt5S8G_H9lTCw/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/1z3J-HxcHy4iNjvGa6tAoANmswYxZYPxt/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-amar-bangla-bi-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/16DJr0YWAmOJiKHVeN93y5VfBmXdWWRkA/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-kuran-majid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1wArmSxkqa4DKPhdGV9Zan8UHtICQCtfL/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-gnit-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1eZgvMBKchrbjLBgFColQQlT4O-tl10w8/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-gnit-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1N_rWUXo9vxqOmkFvqUYwUq1H3p5DEaTt/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-gnit-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1dbwy5gyzp2xD4lcuax1OBrPqasXLQ6qA/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-gnit-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/124uBAXfZogXuzb2_4edEnLZ9C8NjjxYC/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-gnit-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/1vpYH81SVDEm_dqoYPNiygxYueN3pjWTe/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-gnit-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/12C10qgYcWpW6WEba43tROzO4sdV-0b4d/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-prathmik-gnit-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1siUN1QwjG0ShXafp2vc4UD2PTSMk6_KE/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_1-prathmik-gnit-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1XVpkkZmLAq6ea4uK2J0PXWhyPb4VWk48/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-en-2",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/123bxdW-Lf864hX7lhC7YaS_QqA-Aq_vX/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1p-3JeK9U7oBxG5nSPdPRKhBVpLGkoT18/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1p-3JeK9U7oBxG5nSPdPRKhBVpLGkoT18/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1p-3JeK9U7oBxG5nSPdPRKhBVpLGkoT18/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1p-3JeK9U7oBxG5nSPdPRKhBVpLGkoT18/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/1p-3JeK9U7oBxG5nSPdPRKhBVpLGkoT18/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/1p-3JeK9U7oBxG5nSPdPRKhBVpLGkoT18/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-english-for-today-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/1p-3JeK9U7oBxG5nSPdPRKhBVpLGkoT18/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-akaid-o-phikh-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1zduwqFc3xPw10C59iUHiNMMd3kt9K6zF/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-ad-durusul-arabijjah-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1wb2lMVOrToSgejxs-tz6DKg1lrjIB2Pr/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/100PjG_WbhZx0wB6briUgv09-3Xw34Siw/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-bn-2",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1mZd4hfcqQ62VCu4LtJG50bBLFDCbvKNV/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1vuJs9bGFD1VkZqsacJpRGA611bTLwO4-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/100PjG_WbhZx0wB6briUgv09-3Xw34Siw/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/13Uvzgg0O72GfgLwtJGdi3UuX03XJ5F0e/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/1DjRv8DFqx42M2pE_BCDsuNHUFqBV7VLk/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/1lm1qHZZp7nGbEUvYTGn_WQhEXi3T-RO3/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-amar-bangla-bi-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/1ZADQ-UhehhZKIuUyEg6-z93p8awcfx8x/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-kuran-majid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/12u0JhcSXR8GJ4COAoMLWg1E8KXBbctYn/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-gnit-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/18xxwMcQfgFt0X5SAQK8Pwv8uUdyOZ-EO/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-gnit-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1oMEv-AoE5RQpz5YhMPb0ub6pWNQhcJz3/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-gnit-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1423wVe5nssKcOu3h-md3Ox9AqV3jkiPK/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-gnit-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/10SWr8iVCIoxyLDlFRUvFl6sE_B47lq1X/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-gnit-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/1C5bVkcE9aSBGhBSNQzIEx6jacu3Y8DsW/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-gnit-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/1LneY3EqW5bKh_1ShHwpZuuab_g4f_da5/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-prathmik-gnit-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/10bylQbD1SbcBpPFlMKzNrKD8ye3dTbRG/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_2-prathmik-gnit-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1iLYADpSJ0SUBHgbEe30Y38uTKgbm3yCv/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1akqoiew6ISxV4aEZgofx_p9UfS5QSWD-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-en",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1fe3HMVnXNPd0EDfZge-t9RLJ1UIpmCfL/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-en-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1akqoiew6ISxV4aEZgofx_p9UfS5QSWD-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "English for Today",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1akqoiew6ISxV4aEZgofx_p9UfS5QSWD-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "English for Today",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1akqoiew6ISxV4aEZgofx_p9UfS5QSWD-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "English for Today",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/1akqoiew6ISxV4aEZgofx_p9UfS5QSWD-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "English for Today",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/1akqoiew6ISxV4aEZgofx_p9UfS5QSWD-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-english-for-today-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "English for Today",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/1akqoiew6ISxV4aEZgofx_p9UfS5QSWD-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-akaid-o-phikh-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1p2bNzR7fJD8xPkFMlAr6Sy-2QkRq81ZV/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-ad-durusul-arabijjah-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1k8xzDOiszuAy_OKoo1jw5MmivqZyutyr/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1SiVk_PkKCLY7q-YxGbhgCvQQFfn0P4tY/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-bn-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1fOE7-P9tJQ4bL4JvuiNx0eiCeZQzlpKj/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-ccp",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1J5ogulXgpNxpkm2yLA2s-dV9N5_8NBe2/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1fOE7-P9tJQ4bL4JvuiNx0eiCeZQzlpKj/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-grt",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1frF7DTTy__eB6UJd60FEpX1J39rs2rzv/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-mhx",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/1P0r-H2vRCP-5Yfi_x6STDImJSCIPfEKR/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-sdr",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/1aO8ZR_yqOwb2QITTr1leoJmAbjLvkbWl/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-amar-bangla-bi-tpe",
+      "year": 2022,
+      "level": "ethnic_minority",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/11qquiCaYOTQHDbIz06-SEeU6iM1pFdhb/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-islam-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/19q0QyhYZtZamZ7NZq4g2_KRIdkqfaKjv/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-islam-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1hLifyobJLR2xfyhaC3Z0i11m8BJme_Wq/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-kuran-majid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1tMYF-DPo7jL1MQN7egDQh-OUwKJ06e6H/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1mTciqSvjdl7Y_s5riKbex_7HqcgBRue_/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1nRO6UEO248mMQbrWkUBFhH8tmQvFpdW1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-gnit-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1FHXLPIZFGNEdxKL9s8gnEOK5aT4_TxFl/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-prathmik-gnit-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CvhFZqPWpKPQpN0fXMZPmjN-EwoqohCV/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-prathmik-gnit-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1F2GUSJtCxHag8sjYVK6hPMOIvMP8aoqI/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-prathmik-bijnan-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1idJG8ECciW6olc15dQKS4caXrCOfBUQ7/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-prathmik-bijnan-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1bpWyIpQgQP_JsFbwq13Ia1DA1du-5rt_/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-bangladesh-o-bishbprichj-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1vBgIc0e_z0kFSjr3opgbuOFJCkaX7szR/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-bangladesh-o-bishbprichj-bn-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1krByf7tepXgTUpc-p1Z64Ee8_5HhuY6e/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-bangladesh-o-bishbprichj-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1R_2WQMU6E4pLSD3y81BCtb1Ewdte8yfW/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-bijnan-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/13r828Rhsa0cP1IAO-pL7_DZnZ9V48N2I/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1wtl8jfjf1bcm5BoCe43We_QEX0l_Tka9/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/10t0_pm2xoz98uBQqb_wjmcjTxBGqW18P/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1GmrpUGlLOB_MkxZlSshPWdXMAOmC6B9p/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_3-hindudhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1q_osf9Nl6EOqsYW5pmgdFomN-Pv1qzAM/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-english-for-today-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1G5gMP02a66gU6tqnkHNfkCsxwA5ACds9/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-english-for-today-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1G5gMP02a66gU6tqnkHNfkCsxwA5ACds9/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-amar-bangla-bi-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1opTQDbSHrOHVpYYped8E00enc5oIrbmu/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-amar-bangla-bi-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1opTQDbSHrOHVpYYped8E00enc5oIrbmu/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-islam-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vQVoRZPt2TXEi2n6wm7bVpSdv1c6X7qu/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-islam-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1yTmrRG3OCddRz6eEBgr0cD7NgSwuArq-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BQ3ZyDBpZ4Uec7YiFPvQHKmIqj8IVwXm/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1x2sboOpnpMyXPzuwg8EmzP65jUb_Pmi5/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-prathmik-gnit-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1fGJsLPeKXPlO3B9RNsW-4CQgg1qI_Gn9/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-prathmik-gnit-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1qC2vF5ZYTnj-8SSz48ZKnErkmN_QuzDd/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-prathmik-bijnan-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1FibtewZSPTQ0At9H-VZy8FyyO7avmt6p/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-prathmik-bijnan-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1wf0KAcfb3ai7AmA0aTmmU3jXi5-0HRhS/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-bangladesh-o-bishbprichj-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1JwOZ-sDjBXYaO1y_AuDfLs2_kH2OqlvE/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-bangladesh-o-bishbprichj-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1tW89irArrvU6Y-EOAjCWs0_NxsEMLSyQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1OoNzTYKyMRhBRw-RMMYzt-dWPnZBe9aE/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/11JkgNKP6S9SByLfmZqmrnSxLYWxHddcQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vo5dSUgQxoe9AIrsBUsKwteuY_YcsVpv/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_4-hindudhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1Q1ixjm5M17nLFqL1baurkDayDxD_dljf/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-english-for-today-en",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1AYH3HiLqsreHRwybaWweScAfquGce15P/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-english-for-today-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Jh-pn8GmrJGYblmieMwUf9sfKQRUZJ4F/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-english-for-today-en-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1Jh-pn8GmrJGYblmieMwUf9sfKQRUZJ4F/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-akaid-o-phikh-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1c1rfWjxWJWl-XJcxwO-Ma02-Lc4eFsjO/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-ad-durusul-arabijjah-ojal-kaojajed-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্ ওয়াল কাওয়ায়েদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ebOzCX8sBuFW-JBPa1_FBZMIpQt5vmkL/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-amar-bangla-bi-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Fyi5X_ZbZcNWM7GhrpSr82cKGLxSCgMB/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-amar-bangla-bi-bn-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ztjvNvIQuFHMkqGFry3HsPGMKarV29iQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-amar-bangla-bi-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ztjvNvIQuFHMkqGFry3HsPGMKarV29iQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-islam-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ALCHF_zNKg-u2Jk219F8J-Mk3hMGCeY0/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-islam-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1tdDwT9sfU1BhpFytoUcaUX6j7-UyP-UV/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-kuran-majid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1gsOVyXl6r53OwC76KQ-vBC6gQPKf42cA/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1UQ-3NnitOiDGHyxrgYRFmKuQVoBssSkg/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/14UeVHbZ2ixVwF24wboMhxgPKwxPYB4EH/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-gnit-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1QHDyuwLDy5Tey0WBD72A70QcKMW_Sl1y/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-prathmik-gnit-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1zFQ5sdrHt3CW2OGoBwVuI582b9DS8RAs/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-prathmik-gnit-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1579ERF45_vZC5qG1Q3skJV-XrgXQWHOr/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-prathmik-bijnan-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Cdj5eCUdVQkDcroXRTNbISEDZgbm5r-I/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-prathmik-bijnan-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1QJ8icgHAogR2pVbyhQG7GReSv8vXoKGM/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-bangladesh-o-bishbprichj-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1YeiTUvkaDiW9F0OxmZUPTu2tsn9RwyyU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-bangladesh-o-bishbprichj-bn-2",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hE0R1tqjtKvRsNO-sg0bej3GMFqhBYTW/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-bangladesh-o-bishbprichj-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ybskB3JxMUL1zOogqvruAbqmW5zHTO44/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-bijnan-bn",
+      "year": 2022,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1S56yMDVY7IpL6j4QxI3Bn64XQ6a7nJT2/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iQ5QPs-_bKvgwlt83dYsAs8qDYLQ_NUt/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ij7LFy3fl7JTo6MFC_Eqxu-4tEKEyjSg/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1UxtHsjgmDiCCRJZXJidXqSzwwXlLtlkH/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_5-hindudhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1uG1KdrzAzNej-flBJAKpY9qqItNyL_6k/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-english-grammar-and-composition-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1wwQx2LU7ekGali-5qd_uu_UkXI-T9K3d/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-english-grammer-and-composition-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1QTF5MmGTybEYZC2L2VDEQ0I8pLCe8Im2/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-english-grammer-and-composition-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1QTF5MmGTybEYZC2L2VDEQ0I8pLCe8Im2/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-english-for-today-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Bx1qA7ejBbtqLmn8GNYuamB5kZLikje0/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-english-for-today-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/18H6Geaw3aBPUwKFd_NytraiYeX-Qhpah/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-english-for-today-en-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1Bx1qA7ejBbtqLmn8GNYuamB5kZLikje0/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-annd-path-bangla-drut-pthn-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1lJe77StiP9XU05l5N1TpFHYYZfdrPHYG/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-annd-path-bangla-drut-pthn-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1lJe77StiP9XU05l5N1TpFHYYZfdrPHYG/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-al-akajed-ojal-phikh-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1bOWCjA6Y7x8yxqSaSU57Saij_zVbxWhU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1PxxXg3ECHXvDWz8C_6D9xHIL7vTMFrRD/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-islam-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1j8tEFdyV4r0eZA4oo1JU9IjIA_Qbap23/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-islam-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/16a1_cZ-w9fseR-CeYqPJrtXwsYZaCPYp/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/15yW-sGSggvletmgII0K0RXPLITMrMXfT/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/17AJoSeFlu4GrzTIt34e2A-b_Q0_bozEU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-krishi-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1R0ehVC_Cgpz2_Rddt7Y975Irk93ddeQl/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-koran-mjid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কোরআন মজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/15BF8eWo4r9veBjNCYe8ji-w290zuCw3H/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-gnit-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1f273dGQs_8Vp_O1AQgWajObOdWPlxhnB/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-gnit-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1opJ_ElO9K6FsbwA4O9lyg41qh0KY2Vj9/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-gnit-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/10Xd4qgYdDiorcJzGzzzeocTDtlNwP_dC/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-garhsthj-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/17OZ7I0o1XPD0QhewjsP3LKuWLGCvMmto/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-charu-o-karukla-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1fmjmXwOrJlGRhQfwjLpz4hUlGZz0i-HI/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-charu-o-karukla-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারু ও কারুকলা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1q3P1CfxV1k2tpj4f0e2Kyq62Y60um7dO/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-charupath-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1qWlasEraPwZkRcYca0uDO6QU9En6s7zQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-charupath-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1qWlasEraPwZkRcYca0uDO6QU9En6s7zQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-charupath-bangla-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "চারুপাঠ (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/17vgaqO7vV4ycMyCy5o2SabkSuBTOfD8J/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-tthj-o-jogajog-prjukti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1lLVYYS4GCbSd_SVQbpzJJ-_-kc01V9uU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1mWebTbdMa0jfRLIWlNfwRIi7_JLlF5kM/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-tthj-o-jogajog-prjukti-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1nTdzh6SEc4uXimXU4OG-kCZElLuem8ET/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1POrKkMF01UbJ95IjVVGrZHY21jZahLnd/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1MkbHLio_XGDcPek4QTIvARmqG4n1Y33g/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bangla-bjakrn-o-nirmiti-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1MkbHLio_XGDcPek4QTIvARmqG4n1Y33g/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bangladesh-o-bishbprichj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1PeQJcpMIuZmoecHjzGmCEqUrsDZn1O6x/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bangladesh-o-bishbprichj-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1IMqW99KPRx6kYjqnV4o9KmrmeQYNCftA/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bangladesh-o-bishbprichj-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1MLdE_GBYysaYKCLwRn_TiCIbQDmp7f00/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bijnan-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1kT-pGVUaW31-TwTXIfld7oec1U-YE4Qm/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-bijnan-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1PQ2c30eaZokDfvtWdwoEbBEms0ElZsyh/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Bzou44Lj-bnIl8RS2t-NCu-zEWA6z2Z7/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-sadharn-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "সাধারণ বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1kCnpk9CZMbylnW6xEDpDspaIS1liW9vD/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1U50oQ6Mzs-Xdp8PFkjExv3UOkk-UfQ47/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_6-hindudhrm-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1zVUFa4txwZqA22Q09Zw1P3L4pzYADD38/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-english-grammar-and-composition-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1XDRbwv4oXscsR7g3kLp4kDDntARPK8X7/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-english-grammer-and-composition-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1OgqTsBtE0IPnfUVYFUcu8Bobt_qHDUg6/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-english-grammer-and-composition-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1OgqTsBtE0IPnfUVYFUcu8Bobt_qHDUg6/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-english-for-today-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/18ZmkoiAjM-WDUDHWRYGK9BsDbNt5tNt-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-english-for-today-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1c8bEtdWbGwDRLtMJKXiOesytQfXYUYVe/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-english-for-today-en-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/18ZmkoiAjM-WDUDHWRYGK9BsDbNt5tNt-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-annd-path-bangla-drut-pthn-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1--_FJruc6h3RP2z4J3D6MEgzkyYFd7rS/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-annd-path-bangla-drut-pthn-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1--_FJruc6h3RP2z4J3D6MEgzkyYFd7rS/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-al-akajed-ojal-phikh-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/10bHixFHpzBXuxXxewdI7MIsq9Us8r2HB/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1gs30mjGu-QBNKg_DX5paNPit6S86Jw9O/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-islam-o-noitik-shiksha-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1hsAtIoveZWzDEwZppTbxmkDyogrnhyXu/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-islam-o-noitik-shiksha-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1PKmxcCMq_cPKBNAjWBnFeWJa79dCdAAY/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1og7EhbKgieB55oDOQ4uYhKWEzL7gBL7T/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1_D2pVlXxMWCNN_qNoBNIAh-uGtwCO_lk/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-krishi-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Dx_tsVlktseXE3UNSO_0nyA3_gsyvHv_/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-koran-majid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ZuyE3VF3GxpBkno2VMAy7JDxMGrCytmF/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-gnit-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1kxQab4E-23G71XBPVajLApWKVe2QA5up/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-gnit-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ReXrHNs8ZN0sNBCC9jdOIWiSaELxhOWk/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-gnit-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1c9mojRsOKd_0wSLdWaMpH6PIl9oiGMVt/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-garhsthj-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1YxzPx7YGf45VLXXXd36ZMlLmrGFdeCw4/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-garhsthj-bijnan-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/12vX-Dq3fvlzW4rjU8Za2Q0eL1OoOHKRV/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-garhsthj-bijnan-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/173ar--gefElH1npeOoOoDO3sBRqT1BeA/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-charu-o-karukla-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1djrnwN0jkPGmGDeUdvHIGH0Me3RFgBEr/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-charu-o-karukla-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "চারু ও কারুকলা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/11v24ZKmhBxCYlOV-3fpg-DCRT-3IK6uU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-tthj-o-jogajog-prjukti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1_cFCJo9Aoe5vWBlfzKb3kEn8WQobuNkA/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1hZjhIVNcHgmzsxJiE1N0UTlXkl1pPygU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-tthj-o-jogajog-prjukti-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/129KPHSzVjrEKk9y4dnSA1dSNmcyP23Fp/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1XEcPhlUxIqgeuwyDNdRogwEN9eQaA6GU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bangla-bjkrn-o-nirmiti-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1XEcPhlUxIqgeuwyDNdRogwEN9eQaA6GU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Mz8F2HSN0KOm40Okaf58h1MjX6n7sXjm/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bangladesh-o-bishbprichj-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1emcopi48FZ9fuYloJ8G-p3plaW1AaZTo/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bangladesh-o-bishbprichj-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/13uyED4ZAS_gjcdqz5alHJIIzfSKiGNqc/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-baladesh-o-bishbprichj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বালাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1_MQtvNbBjrzgAiWqh7_YREDzfSAIRXE_/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1R8bzR8j_N4pst0zM2akzWIHR-1hpz8Z-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bijnan-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/19GUv5q2wR8UwzDRb89vM5W-oC9hrClUt/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-bijnan-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1iLKXYHIQC6lRByZWnPFlk-DkBbPgD3nN/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1lOHUe0s1R5JecPTL_FqlsFpsacFSZlg5/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-sharirik-shiksha-o-sbasthj-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1G0rtrbXJnk7mbmr-jz4sLBHor81I049v/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-sharirik-shiksha-o-sbasthj-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1SN3UDd74sOn7DPUgcuymJoVeVIuofg59/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-sptbrna-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/12xtR4HeQYFObRahh31FLAezKTKoaAu5l/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-sptbrna-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/12xtR4HeQYFObRahh31FLAezKTKoaAu5l/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_7-sptbrna-bangla-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1I62gfjA9aPGy_ahCU3uvfwDytd1vQMwn/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-english-grammar-and-composition-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1v-5agplbu3uWe-savIsQMuk8H8Hg8yNI/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-english-grammer-and-composition-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1cTrGw-wIz4DEXguic3OqR549TEKG7XvR/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-english-grammer-and-composition-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1cTrGw-wIz4DEXguic3OqR549TEKG7XvR/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-english-for-today-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1z0wqeogZB1oLokdXfwuoPxnnwwOkoIsi/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-english-for-today-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1I7w38KKZBGwvXLNeTjP4cHJOSDtmwB6G/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-english-for-today-en-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1z0wqeogZB1oLokdXfwuoPxnnwwOkoIsi/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-annd-path-bangla-drut-pthn-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1lYhBM45Ez3tpTYiRLqspnFaWUgsKatHG/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-annd-path-bangla-drut-pthn-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1lYhBM45Ez3tpTYiRLqspnFaWUgsKatHG/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-al-akajed-ojal-phikh-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/13fEYMdk91kiLxnkVAPwBRQy9cevYn2fg/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Pp4EkZ4osZsbyEkfc8wL9hO8oHFJ20KL/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1RXVDvPtwpB8t35IJsIn4Ce7TgmZLlRd4/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-krm-o-jibnmukhi-shiksha-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1svslGt9HeVMRyladAaZQwWIUdXFPMrJY/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-krm-o-jibnmukhi-shiksha-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1RoOrRkAry6Nn3RUTIQbSuh7qzHzDak-0/view?usp=share_link"
+    },
+    {
+      "id": "2022-class_8-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1cFyC41_qiU3AV7UyhWgT5AcgmupCJmc7/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-krishi-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/10-D2n_rAeYNI_M38S4EkzL3svFytUbh1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-krishi-shiksha-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Nt4fUWIkMfEPYyeXlxHSpCHLj6ELes7F/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-krishi-shiksha-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1jwQOJU5ymaCG_iErDnLGpQLNpxX5ooEZ/view?usp=share_link"
+    },
+    {
+      "id": "2022-class_8-koran-majid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Q7eIlCwugvpxJggXPhq5o1djXAevZnT7/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-gnit-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1RW_UFGtGrcnH4UkA1arfgdGJNooDW_2Y/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-garhsthj-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1rF9GoSJjlyrcd8WEWzvm6iwsG5lpc77M/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-garhsthj-bijnan-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1S9hn8v4tQJewcXm6p6nU227ZzcxpRhSF/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-garhsthj-bijnan-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1N-wz2IZtCf9RVV5-YTBjXaqQb8cnPMy4/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-charu-o-karukla-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1e3dKzRQh_XHlkAWafvBXQepErSE5hoxE/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-charu-o-karukla-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "চারু ও কারুকলা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1ETV5MJynXKCLeHfctN2ddAeGempV4e0Z/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-tthj-o-jogajog-prjukti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1nAFdcRWDJ0FwJ6wdPILVrjSam23ClRv0/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1wCBCcXBzcqfMj4jr6eAWcVs7RpeVuwzm/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-tthj-o-jogajog-prjukti-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1y2ZNN9Lauom00L0lttWHHaBEA8GpI_fh/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1IDoZoUvO6Fm3TFDJ_6v9cj1eFuvEJ-wc/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bangla-bjkrn-o-nirmiti-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1IDoZoUvO6Fm3TFDJ_6v9cj1eFuvEJ-wc/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1mwRzEqQDP9-1Te93JzenyQUV8Tz2Lfrn/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bangladesh-o-bishbprichj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/10Apfn6k8AHAnOORoA7adjmBOFp0LorSD/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bangladesh-o-bishbprichj-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1GXGg4FzXjDpMyJmh7YfVbguBOpRmAJ-k/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bangladesh-o-bishbprichj-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1J0JIpLmkl6uuWENmRLRkTPc4995gptRn/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1LDrR8Iwpx4XCHsv33Rru7irmYQAFPMEJ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bijnan-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1BTHK9_DX3LLxU2UkrRTShCzr05bSi8vK/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-bijnan-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1cKCSROCOnnucSKbq3Ud5NXsi-5CrC8EE/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1zVfGyt5Ubwe0aEFyaoM87XP_k8itK1Rr/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-sharirik-shiksha-o-sbasthj-bn-2",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1yHUQE_t8iu37d1giLefix_Ns71RaeuHd/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-sharirik-shiksha-o-sbasthj-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1HHvZPU98I4J0AOE3N83XLnav5xd3thBv/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-sahitj-knika-bangla-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "সাহিত্য কণিকা (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1tybBctIL9VqfdllkmwTV0aL5sHsk9gI4/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-sahitj-knika-bn",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য কনিকা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1FBZFZObFSu6l6ssBfGLK1baPkqVjAIc1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_8-sahitj-knika-en",
+      "year": 2022,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য কনিকা",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1FBZFZObFSu6l6ssBfGLK1baPkqVjAIc1/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-english-grammar-and-composition-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1Fc3x3h86jgDCiEZr21_lCrSVVelgeFrP/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-english-grammar-and-composition-en-2",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1iD8Q2nMhEwKBZdWbFpMilvZBYAxQmXQj/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-english-for-today-en",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1jqZXUruRP9gbcGCrBUzkhZ075NsIx2_w/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-akajed-o-phikh-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আকায়েদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Pu9gWo1Y8cyQCkfjQsSHPyrlE8A82Mrb/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-al-akajed-ojal-phikh-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1YlmW1HHg-1u41M1UZ2zVvEBiVrnq1L1i/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1DyXMI6mZ5o6UYM85YhuovtccK3o53PdE/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-al-lugatul-arabijatul-ittesalija-bn-2",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1djQe41Jy5f8Cjdo7PMkC3bsjqXjkYFk9/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-islamer-itihas-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ইসলামের ইতিহাস",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/14he7iR6skWPhlhNtHJ1Hdx0nXTr7v5YQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-islamer-itihas-bn-2",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ইসলামের ইতিহাস",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1bUrtlNj9OTjjeiAxjHOpiQ0BSz1jQRSH/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-uchchtr-gnit-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Tk5RUGXATOjY-0o0Drc59o_ibYxIDmKu/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1jnufT9qflddZ0QoJU4tzU4s1EEFWVoaX/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-kaojaidul-lugatil-arabijjah-bn-2",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1UPHONSxFsB7PRm8F2wG_l9zC92EnWP7Q/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-krishi-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Tje0rr-941vvlAcq5w-yu5YN-ONcEODO/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-krishi-shiksha-bn-2",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1PpJ4O9YrOwr63w131s_tJ0PHSKi51uaI/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-koran-majid-o-tajbhid-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1NKkc8I5ETEfVy0P5LZb8oIFSym4YLyEw/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-koran-majid-o-tajbhid-bn-2",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1xsqnznYu7_yE6UbY7tkzeFqZzhIsvN74/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-kjarijar-shiksha-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1O2QcargrfcPmrJLgoZbHxabtulPtQWWe/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-gnit-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1zOOy2eoC8rjXLMCMCE2zsj9M1lx6_-Ta/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-garhsthj-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1O69of6T3847f5dW0jPkNXkn-BehWgIaT/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-jib-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "জীব বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1SBopb7BoEzDopCy_qVxJ4w4kq-fHZHQW/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-jenarel-ilektrniks-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CBM3PZiHgO7o7Un7yNbirBcLqxFE8Hbz/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-jenarel-ilektrniks-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hCWI_be8e6dKDrMGPMEDlh1njCaFiSQl/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-jenarel-ilektrikjal-ojarks-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MOgenRT5_NVjFGr3FSQ2KV8ichHhw2qY/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-jenarel-ilektrikjal-ojarks-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Wlv0e3r3m5ohDNbJrNWRn5s0uAk0nNUS/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-jenarel-mekaniks-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স- ১",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1wRWslpU9nhNCsyv0-mcJ0czIQ_0M_xE5/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-jenarel-mekaniks-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স- ২",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/19k-ndwfG8xRI8vnC-a2-_Ms3Ru7dwsIV/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-dres-meking-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ড্রেস মেকিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HwyeyVNorI8wZezb8-lOgAXFTnlqEnL-/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-tthj-o-jogajog-prjukti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/11xsaUnQKJLEOinoHuneDcCkEQ2Md0vxF/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-pdarth-bijnan-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পদার্থ বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1uULvoaeurV1r58vLIeXdXlIrbOhjtKhJ/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-peshent-kejar-teknik-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-১",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1-3znwiUnyGn1pH78nEX4DnB7AexUl_u6/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-peshent-kejar-teknik-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-২",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1PIYvfjNstP3tZemAx-o8hadziW_D025s/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-poltri-rijaring-ojand-pharming-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1kycpMPvCRJrt4I3S-oSU9YRzhbJMI-9i/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-poltri-rijaring-ojand-pharming-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1OLpQqXaDkdZSoFaLChR-zGr7rdcOJa4i/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-pourniti-o-nagrikta-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/10GPew1v4JKZ-ENco4x77Rh61EEs8wEcF/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1LCWGEeqjKsluwO0vFjTxFTDjDdjZBcod/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/18XUyIdNRlS6Ig7yi0Ja0-sfFJpNVZDPo/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-bangla-sahitj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1pYA-Nz-PuzZUBDhPsNH_xOaUPQcqd3YU/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-bangladesh-o-bishb-prichj-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্ব পরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1npSZZhLIKbt9Gjz7ETMShTU9IZjkof3O/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-mekanikjal-draphting-uith-kjad-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1qIYTbGv4Fuv8xahIhaSkSU5IGtIF9EU_/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-mekanikjal-draphting-uith-kjad-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Ok1uJ5M9EzCslYarJvs_2PRyVr7A_eVk/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-meshin-tuls-opareshn-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন টুলস অপারেশন-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1KT5iYgL5GuXY7kwp-wMWUnQ03xgBuuQl/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-meshin-tuls-opareshn-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন টুলস অপারেশন-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1xu0PztcUOOmjsAY4XtdKrYHrlx3Aunva/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-rchna-smbhar-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রচনা সম্ভার",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2022-class_9-rchnasmbhar-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রচনাসম্ভার",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2022-class_9-rsajn-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/19yqdOFjJOx-R2yLuUfOuEP02W0d6tMWp/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-rephrijareshn-ojand-ejarkndishning-1-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CpXHzg5t89x6CREQ1VdmBWS2I3xL6Z40/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-rephrijareshn-ojand-ejarkndishning-2-bn",
+      "year": 2022,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1s_pmueimNP4PztpLAOh7j_KxcvQN5dLi/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-sharirik-shiksha-sbasthjbijnan-o-kheladhula-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "শারীরিক শিক্ষা,স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1wYLCNQDsdqLSxlHocm0EmFgkC34FaJPW/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-hadis-shrphi-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "হাদিস শরফি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1w2MY9QlkmNgzMGM8rqWeiMMGxyM0AfWB/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_9-hadis-shriph-bn",
+      "year": 2022,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "হাদিস শরিফ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Nvkr1NWb8Tf_dNLwZcZGc_X2KrfM7RiE/view?usp=sharing"
+    },
+    {
+      "id": "2022-class_11-english-for-today-en",
+      "year": 2022,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1C8DiDZR6HFF3Zk5-jmenE5PjaU1VuZI6/view?usp=drive_link",
+      "academicYear": "2022-2023"
+    },
+    {
+      "id": "2022-class_11-tthj-o-jogajog-prjukti-bn",
+      "year": 2022,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1IV-Llcqbu9nQEkbHe-Mi7ZeUCgl0RvwP/view?usp=drive_link",
+      "academicYear": "2022-2023"
+    },
+    {
+      "id": "2022-class_11-tthj-o-jogajog-prjukti-inglish-bharsn-bn",
+      "year": 2022,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি (ইংলিশ ভার্সন)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Qv0PFQnK2VHUql_btbSqV_PDEsPR6bid/view?usp=drive_link",
+      "academicYear": "2022-2023"
+    },
+    {
+      "id": "2022-class_11-shpath-bn",
+      "year": 2022,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "সহপাঠ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1bL7kQJv_pyAsP3BlqaiwIzq9CUPygscR/view?usp=sharing",
+      "academicYear": "2022-2023"
+    },
+    {
+      "id": "2022-class_11-sahitjpath-bn",
+      "year": 2022,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "সাহিত্যপাঠ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Rp7-NdDHeRtdva1uz6q3T7qe0n0bPkNq/view?usp=sharing",
+      "academicYear": "2022-2023"
+    },
+    {
+      "id": "2022-pre_primary-ambe-aro-do-bull-kruni-golpo-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "AMBE ARO DO&bull;KRUNI GOLPO",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1x3DXED8UNwYhGKG3oQpqxOQ1WcjAchGA"
+    },
+    {
+      "id": "2022-pre_primary-an-sengatani-atchu-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "AN.SENGATANI ATCHU",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=11d42j8IsYzm3pBVNJDjOiS7CPtBIRYYi"
+    },
+    {
+      "id": "2022-pre_primary-awang-bajalchi-re-anga-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "AWANG BAJALCHI RE.ANGA",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=15rcILjy1cEjSNBNwButTVe7cfAM7sqvd"
+    },
+    {
+      "id": "2022-pre_primary-bibal-balana-katchaani-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "BIBAL BALANA KATCHAANI",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1bts7IfFYqu8-__-Z3WgnDyo510Qy3fuA"
+    },
+    {
+      "id": "2022-pre_primary-borgoraja-o-trivujrani-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "BORGORAJA O TRIVUJRANI",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1HJ-_7kVgc1jeMCK7MloGnay1FVpwvQ0N"
+    },
+    {
+      "id": "2022-pre_primary-borgoraja-trivujrani-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Borgoraja Trivujrani",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1OZpQ3oj39qH5tYeQAgC925zuacUprlaZ"
+    },
+    {
+      "id": "2022-pre_primary-buju-ganang-sial-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Buju ganang sial",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1SldHD9ba831t7fgI6QhxdmV0sGje03qc"
+    },
+    {
+      "id": "2022-pre_primary-caca-bazare-jan-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Caca bazare jan",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1P2gbOIFSI_K2R3SImaf1uBiPnDqCUnFr"
+    },
+    {
+      "id": "2022-pre_primary-do-bull-pinchep-aro-uni-ripengrang-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "DO&bull;PINCHEP ARO UNI RIPENGRANG",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1JodsyjZuS72h1jnocx4p713G2AdfmQ-k"
+    },
+    {
+      "id": "2022-pre_primary-ful-fotar-anondo-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Ful Fotar anondo",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1oyeb5pUBvP2owDxBr2M2Ald09v97Mn1S"
+    },
+    {
+      "id": "2022-pre_primary-gong-bai-poyathop-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Gong bai Poyathop",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=154siXa2yzsh2cqZKBfp9STEEZw3gQrMi"
+    },
+    {
+      "id": "2022-pre_primary-hadulsa-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Hadulsa",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1LEWW9KJ_qNp4IEi-xmw_Eh62iZAyNOzQ"
+    },
+    {
+      "id": "2022-pre_primary-khusi-salsa-kusumpuro-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "KHUSI SALSA KUSUMPURO",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1xcQJcnQkEWTADDkdQyTBUbAUoQLTbgUa"
+    },
+    {
+      "id": "2022-pre_primary-kising-aro-chipu-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "KISING ARO CHIPU",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=19OtgOgWNKH111DeL3nI4mUU7TL0bSUKT"
+    },
+    {
+      "id": "2022-pre_primary-khusi-ek-din-kusupure-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Khusi ek din kusupure",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1bA4qK3bOqCQ2z60o3drrIc040EvRhb4p"
+    },
+    {
+      "id": "2022-pre_primary-masandwi-bai-mayung-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Masandwi bai Mayung",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1uf1EUu-shdVRYxknEseGW6n4yaxjSykq"
+    },
+    {
+      "id": "2022-pre_primary-mwsa-bai-kerang-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Mwsa bai Kerang",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1v1kEC07Gt5XsfLdAQpExgKouFuQLTMPQ"
+    },
+    {
+      "id": "2022-pre_primary-pakmari-aro-bibal-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "PAKMARI ARO BIBAL",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1UoeH60YxPXRMKJ-CU1d17gnrp-8zIJoy"
+    },
+    {
+      "id": "2022-pre_primary-sonani-bitchi-chi-gipa-gagak-gangsi-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "SONANI BITCHI CHI.GIPA GAGAK GANGSI",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1fNzf5h20m-t8Ni6Q3ewavSRsdPTyfg7w"
+    },
+    {
+      "id": "2022-pre_primary-swicha-bai-tokla-en",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "Swicha bai Tokla",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=19v3LqhlPWCZSCftItfcGrqMPqVaTt7h6"
+    },
+    {
+      "id": "2022-pre_primary-otithi-pakhi-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "অতিথি পাখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_aAeH6kSLuQVTvN9LkuFqAEHC-Wv6i_p"
+    },
+    {
+      "id": "2022-pre_primary-opuker-bilei-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "অপুকের বিলেই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1S3C6QmH0HWXs_LHhu8esBugzhJt6ll1J"
+    },
+    {
+      "id": "2022-pre_primary-amar-bi-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HvKRqfbpo2mQuCNsud809mlj2kC7Vpx-/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-amar-bi-bn-2",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1SVzE8tbTGqOHdbNJUtxItPPxkLFFNRcy/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-amar-bi-bn-3",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EOqRNK7YQF9GqKFx4yV74eTk0LyM2JnQ/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-amar-bi-bn-4",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1XU-cqBw-ZCIF1od5H7VGIIzjDrfzJCS4/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-amar-bi-bn-5",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1mILLolMTgyyQvCrYr-iWM5tXb0XnqRRs/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-amar-bi-bn-6",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1V3yyS35O3taP0Sekt4AhAOKUM9uTTzMX/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-rishi-ar-chutijar-gpp-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ঋষি আর চুটিয়ার গপ্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1co5tBj8rtyrvYjv5l0sVsTpgG-9hx4u5"
+    },
+    {
+      "id": "2022-pre_primary-eso-lkhite-shkhii-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লখিতে শখিি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1jUCIlDR8XUwRzzas4H-k8aGAe-6jDMwL/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-eso-likhte-shikhi-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1R7J6T6Wsv1zAvi669rKZQOBc3e58wChE/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-eso-likhte-shikhi-bn-2",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1xSVhY_vzX81T6rTP_bVKqtahRLwbqHhF/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-eso-likhte-shikhi-bn-3",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1pySz1Mb5Ee4JgzkJzkfTsj9ahblNQq_X/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-eso-likhte-shikhi-bn-4",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-uxXloM_CBFMHifMd3V_zSOLMZ6XSdvf/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-eso-likhte-shikhi-bn-5",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EkwPPpk3VVuzN4HX1iPeQUp4wRYgx27w/view?usp=sharing"
+    },
+    {
+      "id": "2022-pre_primary-kaha-hamar-maj-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "কাঁহা হামার মায়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10uk4UhusYDBqExalKlAhw82Xq2JtewoB"
+    },
+    {
+      "id": "2022-pre_primary-kak-hriner-bndhu-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "কাক হরিণের বন্ধু",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dx-pf8LuJULpaWrIP736mpV3OS40IRc8"
+    },
+    {
+      "id": "2022-pre_primary-karam-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "কারাম",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1eCrx85U2xSS0D9kO1evtsVLhW_RClRZU"
+    },
+    {
+      "id": "2022-pre_primary-kuno-bjang-o-tuntuni-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "কুনো ব্যাঙ ও টুন্টুনি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1VbyMo4rMs-mVSBYrg1OPFen1N7hR-hQK"
+    },
+    {
+      "id": "2022-pre_primary-khushi-ekdin-kusumpure-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "খুশি একদিন কুসুমপুরে",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1MX6Z3Xz1BAi28CEJJJmMGO1hylqIv1J9"
+    },
+    {
+      "id": "2022-pre_primary-glper-bi-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "গল্পের বই",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2022-pre_primary-ghur-bedak-ek-din-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ঘুর বেড়াক এক দিন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ccTs-2kvI4wBQksgc5YOqA8Xr8fqXRQ7"
+    },
+    {
+      "id": "2022-pre_primary-chacha-bajaae-jan-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "চাচা বাজাাে যান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1jufEcQclUOk_qvEdkL1r4bmU2gprMM7a"
+    },
+    {
+      "id": "2022-pre_primary-char-bndhu-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "চার বন্ধু",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Ir8haQyqzA-psuZ6tRPbb1bMxkAz93ME"
+    },
+    {
+      "id": "2022-pre_primary-ting-tng-er-kand-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "টিং টং এর কান্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mshuVS7qiWwkWIFEf8-1Zn9tL9FknkAh"
+    },
+    {
+      "id": "2022-pre_primary-ting-tngker-kand-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "টিং টংকের কান্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1530-bjvz5p7wnNEfxznsXsgkOW6TkDQo"
+    },
+    {
+      "id": "2022-pre_primary-ting-tngker-glp-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "টিং টংকের গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1fKJmAVQ2D_xIhU7JxV_0VReN2okSV2Qm"
+    },
+    {
+      "id": "2022-pre_primary-dulei-kumari-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "দুলেই কুমারী",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1R5uceLHLiv3sCaUkQem7snvVbnMAxkKA"
+    },
+    {
+      "id": "2022-pre_primary-phul-photar-an-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফুল ফোটার আন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Y-tsu4QIWbW9MvS5QGt11_yDfgVLclVs"
+    },
+    {
+      "id": "2022-pre_primary-phul-photar-annd-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফুল ফোটার আনন্দ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ISpvx0VlWV3kB3GerJDpCmbZDVZT46rk"
+    },
+    {
+      "id": "2022-pre_primary-phlpi-rchat-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লপি র্চাট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Dw8SNxzmSZDB0bTJQgr7hOair8keM_yQ"
+    },
+    {
+      "id": "2022-pre_primary-phlip-chart-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1e8dWlUGRfiDVgb2ZFEKmqsthQZlkMh4r"
+    },
+    {
+      "id": "2022-pre_primary-phlip-chart-bn-2",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1h8zTg62QtNF2iGZ_t7Hn6NFIifRz0GxB"
+    },
+    {
+      "id": "2022-pre_primary-phlip-chart-bn-3",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-DQLxkPUY7FKuVvs-FgUqq50SZZGobpB"
+    },
+    {
+      "id": "2022-pre_primary-phlip-chart-bn-4",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10nUX70wH8q9m92JeKMl7SMku6F6ptE_V"
+    },
+    {
+      "id": "2022-pre_primary-phlip-chart-bn-5",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YbeBTZBGk_8F-hZXPrGA7NFXbZzE8NI7"
+    },
+    {
+      "id": "2022-pre_primary-phljash-kard-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2022-pre_primary-phljash-kard-bn-2",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17QPOxJ1wUQINrh2-TXBkogPtihUmHJxB"
+    },
+    {
+      "id": "2022-pre_primary-phljash-kard-bn-3",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ho0bnHqsGyVcJ3tCZlmy2USdC2iKiQ4l"
+    },
+    {
+      "id": "2022-pre_primary-phljash-kard-bn-4",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-uVYa8-8J0ti4b6wbtB_5r7JewoBBjKZ"
+    },
+    {
+      "id": "2022-pre_primary-phljash-kard-bn-5",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mMqdjfMUfJ8d3ZwIjXp5agFvQjWD5Ptm"
+    },
+    {
+      "id": "2022-pre_primary-phljash-rkad-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ র্কাড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=19bC_76qOtlrXujGuvQ9dMPyGPjvVgvDy"
+    },
+    {
+      "id": "2022-pre_primary-bker-glp-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "বকের গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1N2TmA6OScFz55r39QwdnBSmQkuycz6Py"
+    },
+    {
+      "id": "2022-pre_primary-bdjnke-snman-krte-hj-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "বড়জনকে সন্মান করতে হয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1V5vAYI5SzxDzm74s001mm8hHxC_ChDYI"
+    },
+    {
+      "id": "2022-pre_primary-brgraja-o-tribhjrani-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "বর্গরাজা ও ত্রিভজরানি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1xoO6UTwsv5op80K08wcccX-njjB5QtSq"
+    },
+    {
+      "id": "2022-pre_primary-brgraja-o-tribhujrani-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "বর্গরাজা ও ত্রিভুজরানি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=16BkgAUdHabbUWqgyePpP1pHa6rmazI5S"
+    },
+    {
+      "id": "2022-pre_primary-bagh-ar-shijar-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "বাঘ আর শিয়ার",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-DrGotBzh3r6G_B3UpTxR8U2mclrmrmS"
+    },
+    {
+      "id": "2022-pre_primary-bandra-ar-kumhir-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "বানদরা আর কুমহির",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1QNxvd4vSiJ7KaYo6Xs197oELZ4N3Pwbq"
+    },
+    {
+      "id": "2022-pre_primary-bedanor-ekdin-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "বেড়ানোর একদিন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1DNaXesKP-d_MK4oxx_ZbRo6NYlRWr8wu"
+    },
+    {
+      "id": "2022-pre_primary-bjnjnchart-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ব্যঞ্জণচার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YapmpgwHr4fdXKjz9sFd8ZIdqjNst11F"
+    },
+    {
+      "id": "2022-pre_primary-mjaker-mamu-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "মজাকের মামু",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1T60Y8rm4FgDWKoFC_qUu2lG26HWxT1VL"
+    },
+    {
+      "id": "2022-pre_primary-morg-o-kukurer-glp-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "মোরগ ও কুকুরের গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1yjEM81xeCk2id_0cA5BnosxSCX1BthML"
+    },
+    {
+      "id": "2022-pre_primary-lal-pokaker-gpp-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "লাল পোকাকের গপ্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1rkFzIxLS_p0Z_1KllZGbtbTFXMT_KOW1"
+    },
+    {
+      "id": "2022-pre_primary-lal-pokar-glp-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "লাল পোকার গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=19B6LMq7UHsOuAvplpzaou4M1jNtC5xcM"
+    },
+    {
+      "id": "2022-pre_primary-shkunraja-o-rajknjar-glp-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "শকুনরাজা ও রাজকন্যার গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PVSp60rH80LOMvLAz-Syq3S2U2EP8OKl"
+    },
+    {
+      "id": "2022-pre_primary-shijaler-buddhi-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "শিয়ালের বুদ্ধি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Tb7r-h8CIvCv8Y7SIme0JM8M3ecmtNZ_"
+    },
+    {
+      "id": "2022-pre_primary-shriphl-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "শ্রীফল",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1xB30BcqB73PaI2TK1sLlNzGydFLHQetl"
+    },
+    {
+      "id": "2022-pre_primary-sbrbrn-chart-bn",
+      "year": 2022,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "স্বরবর্ণ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17F0yOZxR0U946R1OlYcCXVks0Ihn_vaO"
+    }
+  ]
+}

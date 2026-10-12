@@ -1,0 +1,26 @@
+﻿JSON files found: 10
+
+=== PER-FILE SUMMARY ===
+2017.json  books=101  missing_pdf=2    unknown_lang=0   levels={'primary': 46, 'secondary': 55} langs={'en': 12, 'bn': 89}
+2018.json  books=437  missing_pdf=5    unknown_lang=0   levels={'primary': 66, 'ebtedayi': 36, 'dakhil': 81, 'secondary': 154, 'technical': 20, 'higher_secondary': 3, 'ethnic_minority': 70, 'pre_primary': 7} langs={'bn': 292, 'en': 145}
+2019.json  books=428  missing_pdf=2    unknown_lang=0   levels={'primary': 66, 'ethnic_minority': 30, 'ebtedayi': 36, 'dakhil': 81, 'secondary': 117, 'technical': 17, 'higher_secondary': 3, 'pre_primary': 78} langs={'bn': 272, 'ccp': 6, 'en': 126, 'grt': 6, 'mhx': 6, 'sdr': 6, 'tpe': 6}
+2020.json  books=469  missing_pdf=2    unknown_lang=0   levels={'primary': 66, 'ethnic_minority': 40, 'ebtedayi': 28, 'dakhil': 81, 'secondary': 118, 'technical': 61, 'higher_secondary': 4, 'pre_primary': 71} langs={'bn': 303, 'ccp': 8, 'en': 126, 'grt': 8, 'mhx': 8, 'sdr': 8, 'tpe': 8}
+2021.json  books=308  missing_pdf=6    unknown_lang=0   levels={'primary': 42, 'ebtedayi': 30, 'dakhil': 65, 'secondary': 104, 'technical': 55, 'higher_secondary': 5, 'pre_primary': 7} langs={'bn': 223, 'en': 85}
+2022.json  books=391  missing_pdf=4    unknown_lang=0   levels={'primary': 66, 'ethnic_minority': 40, 'ebtedayi': 28, 'dakhil': 81, 'secondary': 76, 'technical': 17, 'higher_secondary': 5, 'pre_primary': 78} langs={'bn': 246, 'ccp': 8, 'en': 105, 'grt': 8, 'mhx': 8, 'sdr': 8, 'tpe': 8}
+2023.json  books=484  missing_pdf=41   unknown_lang=0   levels={'primary': 48, 'ethnic_minority': 40, 'ebtedayi': 36, 'dakhil': 75, 'secondary': 146, 'technical': 61, 'pre_primary': 78} langs={'bn': 317, 'ccp': 8, 'en': 127, 'grt': 8, 'mhx': 8, 'sdr': 8, 'tpe': 8}
+2024.json  books=292  missing_pdf=14   unknown_lang=0   levels={'primary': 69, 'ebtedayi': 36, 'dakhil': 67, 'secondary': 78, 'technical': 30, 'higher_secondary': 5, 'pre_primary': 7} langs={'bn': 210, 'en': 82}
+2025.json  books=272  missing_pdf=56   unknown_lang=0   levels={'ebtedayi': 36, 'primary': 64, 'dakhil': 70, 'secondary': 80, 'technical': 20, 'pre_primary': 2} langs={'en': 38, 'bn': 234}
+2026.json  books=304  missing_pdf=41   unknown_lang=0   levels={'ebtedayi': 30, 'primary': 25, 'dakhil': 54, 'secondary': 77, 'technical': 104, 'pre_primary': 14} langs={'en': 28, 'bn': 266, 'ccp': 2, 'grt': 2, 'mhx': 2, 'sdr': 2, 'tpe': 2}
+
+total books     : 3486
+unique ids      : 3486
+
+=== HARD PROBLEMS === 0
+
+=== NOTES ===
+  missing_pdf            173
+         2017.json class_3/bn 'প্রাথমিক গণিত'
+         2017.json class_9/bn 'গার্হস্থ্য বিজ্ঞান'
+         2018.json class_9/bn 'পেশেন্ট কেয়ার টেকনিক-১'
+         2018.json class_9/bn 'পেশেন্ট কেয়ার টেকনিক-২'
+         2018.json class_9/bn 'মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১'

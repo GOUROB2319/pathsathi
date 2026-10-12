@@ -1,0 +1,8 @@
+{
+ "stats": {
+  "OK stored link is the best usable link in the cell": 3372,
+  "OK empty: cell href is #/internal/unusable": 2,
+  "OK empty: cell has no href at all": 175
+ },
+ "problems": []
+}

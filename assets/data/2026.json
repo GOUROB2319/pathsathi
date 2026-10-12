@@ -1,0 +1,2741 @@
+{
+  "year": 2026,
+  "books": [
+    {
+      "id": "2026-class_2-english-for-today-en",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/11ocXh6iuZtju1iD2jaJzJ6kPFLELOeqq/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_2-akaid-o-phikh-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আকাইদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WEPCCSJrt8JGdYiS7H4GSzv7F75k15fk/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_2-addurusul-arabijjah-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আদদুরুসুল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1zLNF4oNTktMiKB8dXSpIZOPRxFc7g4XX/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_2-amar-bangla-bi-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_7ZrKovn4gnFnnxt84e6XyzzyDbvOFQY/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_2-kuran-majid-o-tajbhid-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1njavjLmMBLhzo0JsPLwUM9Dh3WSOaohZ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_2-gnit-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/13BW0cJQrEUpA4wHxnlMUbtDfyfpnQhPC/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-english-for-today-en",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1knrgbdhFf5iZm2Z8LNs4olTva5pnvwG3/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-english-for-today-en-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1gy7q4njDpOKGULXzGQVvhq2ZGpZMOfif/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-english-for-today-en-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-akaid-o-phikh-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আকাইদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/10wclR9enVOkYcDZ_ZCj0wUSVNrh4V8rM/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-addurusul-arabijjah-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আদদুরুসুল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sXdcipJWYDAyZOlPUgR2k8INLEnLExXj/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-amar-bangla-bi-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ZnVluNrViWEBFXNLHdgRA_GBneXFPqWG/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-amar-bangla-bi-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Je1KylPoJBiYt-lW5qqaH8BszIk0VJVz/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-amar-bangla-bi-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-islam-shiksha-bn",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1KSegBPjHNygGuJJE77byNjBAv-HNvz9y/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-islam-shiksha-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-islam-shiksha-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_guOxSH27DQo8TWnoe5d0oeoF69jROfT/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-kuran-majid-o-tajbhid-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ycWL_c8SKX08xtPd8t1kzCKTaMlRBY_X/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-khrishtdhrm-shiksha-bn",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1g5celNzNGe0pLzfT28PWxCIEg1pmOg_Y/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-khrishtdhrm-shiksha-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-khrishtdhrm-shiksha-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1FoJO18h0TmwupjFBoLjAJlJW1gwYdoRn/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-gnit-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1UUENxZqFaumaueCb6ygHadr5Bv1Noi4w/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-prathmik-gnit-bn",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sd7ebdMkuU6Wv0BUgccqYV4UxpwUmTyC/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-prathmik-gnit-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-prathmik-gnit-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/115wNAy7MFdjmux9UvW7YzCwTYe8-tF-n/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-prathmik-bijnan-bn",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1jn-X5lOgECnoypp29eYtYAw_DHZ9qhm6/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-prathmik-bijnan-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-prathmik-bijnan-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Z_dMhkriUM96PjEHDbuWoZ6J6wHmzXFk/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-bangladesh-o-bishbprichj-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iGjTCkn3GWvJSNNnboRY_s0wHB_jMeLB/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-bangladesh-o-bishbprichj-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/15XHREkEQf7PioxmaVo7fW-EWLRKYrDEw/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-bangladesh-o-bishbprichj-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-bangladesh-o-bishbprichj-bn-4",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WWn8zYXo56hGUYzl20_TJokOgr05ltig/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-bijnan-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1NS8dghx-5RCyDEy4QKw3iXFq8t1Nh7a0/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-bouddhdhrm-shiksha-bn",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hStfhnRzkyVi-LIJ65Z2XNn-Ul-2wfC2/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-bouddhdhrm-shiksha-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-bouddhdhrm-shiksha-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hPTTEmTG2XqcwYNAkEOq6PG13ulQC6in/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-hindudhrm-shiksha-bn",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MnUeQUpgNz83fslF3lCT-ttuWaPkrRs0/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_3-hindudhrm-shiksha-bn-2",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_3-hindudhrm-shiksha-bn-3",
+      "year": 2026,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1xSpVBi0VNZEqb1N1prIjqC945StT8Jvm/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-english-for-today-en",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1jAYbdXXv3Ssj83C3aRvfMDjs16WfERKv/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-akaid-o-phikh-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আকাইদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hEwEXqeE9omSCGc_uQqkKqcOKcKav5-L/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-addurusul-arabijjah-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আদদুরুসুল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1xv3fiAjOaj4rQtYNQlVVJvZf0vn-geyu/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-amar-bangla-bi-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DwA4VyeXq8zQwyb1yzTBs7kcZJ2gfFzL/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-kuran-majid-o-tajbhid-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_BoWlbnyPjiiR7VBbhJSsYbG9YCIdhSy/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-gnit-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vnX9wkO0qjom7DAbsOFAZMuHgq9WYNCP/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-bangladesh-o-bishbprichj-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1cBpBK0mYNA-sNqOxwOPtaARld5taGTZ9/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_4-bijnan-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MYZZ6TnSVjxUoIeKpqaWNjix9iupW9BF/view?usp=sharing"
+    },
+    {
+      "id": "2026-class_5-english-for-today-en",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/112C9w-PHTLTjy6agdDjmWoYRa1Taz3sH/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_5-akaid-o-phikh-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আকাইদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iLgK5HSOTeoXo2ytTr1TMNe1OP_k_bCe/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_5-addurusul-arabijjah-ojal-kaojaid-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আদদুরুসুল আরাবিয়্যাহ ওয়াল কাওয়াইদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1o07FiDkV0-RvMcUCicaOcV7aron0O-Fg/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_5-amar-bangla-bi-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1xr4GvdhmHYG8a9JI7DJlkNA9_ZmcI6dG/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_5-kuran-majid-o-tajbhid-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BIE0FSp-PyV-DoOhKmz8LcEO9rcaxchp/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_5-gnit-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1K_cBXyel3gy2MRZy6Bp8VH5NhH5ExHT1/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_5-bangladesh-o-bishbprichj-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1X-_EqoLXLB3y4Dn28Qjmq_lJ4ekNV9Cz/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_5-bijnan-bn",
+      "year": 2026,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1aHTCSSWeBC64nYWSehCwcsQJVU6_B6MG/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-english-for-today-en",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1fW4DrixN5T6D6tyaPH_ukwGtd0nUSsWW/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-english-for-today-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1MsLUFdmZoZ8qKSVH74rpXm-wQCHEESiB/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-english-for-today-en-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-english-grammar-and-composition-en",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1m6PqA8vqD-mUVVqzqlKdaDSQHsA0bfYb/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-english-grammar-and-composition-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1WhdraA55PFWAigg2UcN9_LpQcy1lEMfe/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-english-grammar-and-composition-en-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-akaid-o-phikh-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আকাইদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1RexfMFVRKH4R8S3J44J2W9PMkX90Jdvx/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-anndpath-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "আনন্দপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1tflfTwzd2s8maa45Vw7xjpShlQxQ3S0O/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-anndpath-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "আনন্দপাঠ",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-allugatul-arabijjatul-ittisalijjah-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/10DmphJ7IFpiwtiiN1zccRmJsdNg2YTVl/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1lHtDGleEErb82E6A1dy2W4tO9iduVfXz/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-krmmukhi-prkoushl-shiksha-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_6",
+      "title": "কর্মমুখী প্রকৌশল শিক্ষা-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1NPpobeFqF6MvaDoFGU-R7QlgTE7BoRSX/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1RA67guStXzeec5-SScE2scC2tVJwn08j/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-kuran-majid-o-tajbhid-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EZHcarOGPxX8zotAh-zuNhXa9HH8XrYk/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-krishishiksha-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কৃষিশিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hE5MPU8Zx2YvdAhBlUpksTekrky6-Gd3/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-gnit-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BgtvHGIKb9IstXkn_OziI0ECQ76s4W-b/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-gnit-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1oqu8SmpC5WmAOy4kT4ETViYJCq02Oojm/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-gnit-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-gnit-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1fj63KVxmVoaAOQ8IpbOCp8nJ2ewwkwi3/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-garhsthj-bijnan-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1K74HUUVPok1vpoUAFvtB9v70SsS4ULMn/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-charupath-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1wuzaKieUBLCip_XrQITyjc1GrldoujeQ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-charupath-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1jbIqeDMYPZMNIi0X54CLZ5DvJE_UChY9/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-charupath-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-tthj-o-jogajog-prjukti-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1e41toBjC48CRIeuN3CJ2B0e4lQzmzthM/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1m95qutwK8KqlcvmJiAoiT2Bi1LYF3um-/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-tthj-o-jogajog-prjukti-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-tthj-o-jogajog-prjukti-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1nbu5OQxUUXQ3aqmrnu8bIxvH7soILyRz/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1qh_BUX2LMauZZJKFawbsMELTbE7CtPmm/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1rQ3XbgX7azu9CWBvyWNtI8uB9PDa-DYX/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-bangla-bjakrn-o-nirmiti-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-bangladesh-o-bishbprichj-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1xhYuwb3edu8bLBxsfCn1foloMUArOYva/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-bangladesh-o-bishbprichj-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MwPARV0cDBIPEvIcyBLyI_ywLfrqOHNI/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-bangladesh-o-bishbprichj-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_6-bangladesh-o-bishbprichj-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HRumSBLdYXxOYQTnoaFe5okVUCz1Nq8o/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-bijnan-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1kwlR7XZyuhKBv1vuYREIYkTPPFETtM_e/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_6-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1qOIvmKcAUEeK_hfqwMTLaJJJopbsjoHx/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-english-for-today-en",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1AbN87zg7ipqFJhtySGK3JEvHL5Uv4zak/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-english-for-today-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1Wtqc-MSvKsZoXX_oag7tTZpQ_VB8z8DG/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-english-for-today-en-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_7-english-grammar-and-composition-en",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1VObRqdZYh7TJo37QBRV8mqCWaO5tV-1n/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-english-grammar-and-composition-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ZGVzHw8KHYDxWTU_2m5JEDrhhW_bkyNF/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-english-grammar-and-composition-en-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_7-akaid-o-phikh-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "আকাইদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1mFJyUB84005KU9Rx4h5Wv4Y5QSgJf1H8/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-anndpath-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Lny99FCqRPj0B1OkNE6TmuBVmlyIdht0/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-anndpath-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দপাঠ",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_7-allugatul-arabijjatul-ittisalijjah-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WpdwWKbF5DNLG2PpvUdVjRIbyN8h_12Q/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-2RuyQoTUZEwDlllxireViHHPhF8_Z88/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-krmmukhi-prkoushl-shiksha-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_7",
+      "title": "কর্মমুখী প্রকৌশল শিক্ষা-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/17-VmdNBgsDKqK4VhDW1fOaG9CE7GUbZA/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1T5s0DcCKTMv5lQAXaX2gkDY-pA4yLQU1/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-kuran-majid-o-tajbhid-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Zo5hTyVLqctJNKvknOlrlXOXuZSQkcZb/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-krishishiksha-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কৃষিশিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1NxplpBpLOZ9TxDXYRp1ck9GRsRXnM46K/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-gnit-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1RxFvF4Fnq2O6zcnsDDQUafz8CA5RwUxz/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-gnit-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1kMlc6PdjKBo7zNw_8wFg7-zMpTe__JTQ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-gnit-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_7-gnit-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ApxmGjYUBOiXprHvEPaPnKMVIDTgnPWy/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-garhsthj-bijnan-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1K67xyp78Gu1aKKTDqAWvghGAGoT6VdyD/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-tthj-o-jogajog-prjukti-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1cBWEpfSmjrE4_2J3uHFkotGAbXgfEcHA/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vCUjD8YODj5iaMFu3j-Br1xbbukUhfzj/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-tthj-o-jogajog-prjukti-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_7-tthj-o-jogajog-prjukti-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1apkdtwiTShAEUw8uyPQgXMNsnSZLSH-F/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1bLOjQjU4bYHp-v0RX7K1XbWMlOcXw0II/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sjIDgfX268s2YwuFzVN9xD1-59V8el_L/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-bangla-bjakrn-o-nirmiti-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_7-bangladesh-o-bishbprichj-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BKM_6BwzDo_bbk9ADX9Kf-zNFpKDTI1y/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-bangladesh-o-bishbprichj-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-Bh4zciohlzPkTm_TZ_AMUgOCipWCIZp/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-bangladesh-o-bishbprichj-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_7-bangladesh-o-bishbprichj-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1dEMvAZFn1Oq3sB9noqRfJNrYcbis8okK/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-bijnan-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1B2DG6YjA2umNgtR1XKBPB1JtaIAshvLs/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1YDLeVp3dGeIpWqubZP90gKPTCnJrV3qb/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-sptbrna-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1J8ojYQm-ArSuDshe3JDBqAdBj13rPyLN/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-sptbrna-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ckEB1y0SGO10-pfmplYFbxEUlOAWZ6tx/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_7-sptbrna-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-english-for-today-en",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1m7TlILofUr64YC61XBW96rhW0fvCI_dv/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-english-for-today-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-english-grammar-and-composition-en",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1OfJd_F1uVMqE1KDaQHKhN3mQ-LcPm7rt/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-english-grammar-and-composition-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-anndpath-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1g77qC2lEOdnFqMYxM8DpyYzhS3m0wgLK/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-anndpath-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দপাঠ",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-anndpath-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দপাঠ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1g77qC2lEOdnFqMYxM8DpyYzhS3m0wgLK/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-krmmukhi-prkoushl-shiksha-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_8",
+      "title": "কর্মমুখী প্রকৌশল শিক্ষা-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1PCL2hTvpzVzMFy1g2ApN_7edN5iuDNQv/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-gnit-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/12ygatNBK0ilJdccpnpuoT1N2G4pcaCya/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-gnit-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-gnit-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_1n5BHhXtccoSvh030AijjVwrJe9an6Z/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-tthj-o-jogajog-prjukti-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Iiil02LWRp7cZDjOyRF3Lsw3ECkuMWfn/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-tthj-o-jogajog-prjukti-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1oEuI_Jz62F3PrBn3M1doKwG2Y_qvf7d5/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1O0aS5cJsRDqc47nIWY2uVLqldAEZGtk-/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-bangladesh-o-bishbprichj-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1aY3sFRDEQsAGUlUg3SvKgh5TI3lKJ1RB/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-bangladesh-o-bishbprichj-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_8-bangladesh-o-bishbprichj-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iS0uz1Ug1-J8NuJTnhXefVhGXNinltfc/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-sahitj-knika-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য-কণিকা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CRDDFTH32XZoy78SrFQ3m8wUujbLeuFY/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_8-sahitj-knika-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য-কণিকা",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-english-for-today-en",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1i-1A6trC16MyWRhMuX45RBETLatYGp56/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-english-for-today-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/119HUFSrDZ9GrG_cLGAgVVzM4XMPkA_1g/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-english-for-today-en-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-english-grammar-and-composition-en",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1IhHnxcgBeFF1wxkaLy3nra2nWK333lO_/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-english-grammar-and-composition-en-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1bcIWidHEPsNpwx4Q9EXHdCbFA6HBQWbr/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-english-grammar-and-composition-en-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-otomobail-ojand-ilektrik-besiks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1FVtLyRT0qjOGA_rB_fehag0NLrOr7mrl/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-otomobail-ojand-ilektrik-besiks-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1SqhUrd7YayR_MogVej30wRMSxWg7EoOj/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ojagrobesd-phud-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অ্যাগ্রোবেসড ফুড- ১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1mIWFC38ESkruWIozwTKp4muHM5BU0o2k/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ojagrobesd-phud-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অ্যাগ্রোবেসড ফুড- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Ki0Oegy6qb7S2JKbKnFfUT3lS_StpPVk/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ojaparel-mjanuphekcharing-besiks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/14a-YueiRRY16Y8Vg4YlEErqiGmg8Q9Ya/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ojaparel-mjanuphekcharing-besiks-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1m-WwS8GNwX3NabgAZQHBdJ06wfoh1tDL/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-aiti-saport-ojand-aioti-besiks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-djDdUlhnsOs6zawaIVgNkEKkfqAOKf5/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-aiti-saport-ojand-aioti-besiks-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WuXXShFLGmaP7VLrRViwag3_WtzQdj6E/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-akaid-o-phikh-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আকাইদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1LQ5RWNTcOg3w1n9mPD_fubpxOpMqOXrB/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-allugatul-arabijjatul-ittisalijjah-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আললুগাতুল আরাবিয়্যাতুল ইত্তিসালিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/13MstdEbMTdP7cF2z463gtV3MHMe9tKqk/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ilektrikjal-meintenjans-ojarks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1F-Sd7B7Gst5Mi3azJPVKzYw5engB1czt/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ilektrikjal-meintenjans-ojarks-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1YwWXCjX4QRuI5Q_ezj-dgLTB7gX3qSu7/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-islamer-itihas-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ইসলামের ইতিহাস",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_1T6TRO-QOGxZ_SvcypzJKKthf0TJqBY/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-uchchtr-gnit-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1TJiSwtu-Zi4L5tCeSeCcWtq4tBBcgWwr/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ud-ojarking-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "উড ওয়ার্কিং -১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/15itF58ZK0LCvvvDCJCap9NRiUauQzJLS/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-ud-ojarking-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "উড ওয়ার্কিং -২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CNR3yF--GkZzZtSD-7POKcUQLIQsKp_X/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1pOukZFtHMtn7eLaDUPy6awaZu8BXeSbM/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-kuran-majid-o-tajbhid-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Cpw25zwLigpxOlY_NOIj_R056GEbM0DG/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-krishishiksha-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কৃষিশিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Ymtfu-xqPqaX9GwAeNo5q8yqEcJ4Rb7h/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-kjarijar-shiksha-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1GFQOYx4uOVWDCmT0wUct-b9wIWnHOQOA/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-gnit-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1co10gjXyx81bj3kgwP3NxRBsgtgm2M8P/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-gnit-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-Dj-9Y1Q79AWN7fViMR8fj4jvzDVNYYl/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-gnit-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-gnit-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1QkznFQZy71k2xylde15XouVNxa-hVgKc/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-garhsthjbijnan-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গার্হস্থ্যবিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hssG9n0yKEsG5Y6_dUown2T4E4HUmjkG/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-jibbijnan-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "জীববিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/16Tkk9scLsNr9Pn9jgLwHOYWOF0fnpKBD/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-jenarel-ilektrniks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স- ১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/197xJmkFGCh9OE4B6IF0HzqMWIfwUeCZ6/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-jenarel-ilektrniks-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1rufpJclPRaSOS36jD0Cd3UTEdbSfhDZJ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-jenarel-mekaniks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Fo8XY-5YQHbDFyIzcZsP0LKqJzgLzIK0/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-jenarel-mekaniks-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1qeDKeKmZiOtAoxVkVRqLr2haFYFzQxSW/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-jenarele-ilektrikjal-ojarks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1LvTSNYmm-G8sweQ8WyU_KIyKZqEaBxWQ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-daing-printing-ojand-phinishing-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EMTCT1EBJnoOuQlzWzbcb2eVMkmz1_3J/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-daing-printing-ojand-phinishing-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1PokQSmkOEnaTPc4Y5Nn2zn5J2_5lrGxI/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-tthj-o-jogajog-prjukti-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1YROt8TH3VbZp0DIBhUdzDBvrQUIKdHlX/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1jgAhqSmR6zXZzcSr0fpkWbcw3_07pPGe/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-tthj-o-jogajog-prjukti-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-tthj-o-jogajog-prjukti-bn-4",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1qMc0X8jBaazNGRdENW_4RQrNFsiO3NRt/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-pdarthbijnan-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পদার্থবিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1butSoI_Azj9szRutRycXqFBN6T-EfG9L/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-peshent-kejar-teknik-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1GosCs5IpBTPWrliCGjkxfBa38TqIfgSx/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-peshent-kejar-teknik-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1dBujPH0CnPyZHn-VwQgfRtLK11SpnD_3/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-poltri-rijaring-ojand-pharming-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1M7leS84Q4_KhwUr9TNjgFoiPe4bXdnp6/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-poltri-rijaring-ojand-pharming-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1P7L8bAqLYnhHe-UufX1oMUHKtNBgVUxx/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-pourniti-o-nagrikta-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Zrb5hq0RLv-1PEMGVsn7-X0LDDIw-uyo/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-pharm-meshinari-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফার্ম মেশিনারি-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DuJ6yqYW_3qxwpmtjRpGzBQxFukO78RS/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-pharm-meshinari-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফার্ম মেশিনারি-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hvBGJvyv1Q76G7YASy7kMNix1_0qRqBo/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-phis-kalchar-ojand-briding-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফিস কালচার অ্যান্ড ব্রিডিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1f16NT7WgWTJVTdsA9YepFHebxV6XxTxu/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-phis-kalchar-ojand-briding-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফিস কালচার অ্যান্ড ব্রিডিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/15lRcV4P7xzQ7c1Ypm7rn5XCpuST5j59z/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-phud-prsesing-ojand-prijarbheshn-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-wicYlbAL0ftI4D3NK9dhIejjLEhiir8/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-phud-prsesing-ojand-prijarbheshn-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1R5FWYOS1NiZcQUmnTkQVpzJ0JjwZ_2hT/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bangla-bhashar-bjakrn-o-nirmiti-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1oHzR0ffOAp1lK5chBNrUQ7UvuSsgwz-S/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bangla-bhashar-bjakrn-o-nirmiti-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1yqoG73PYj6F8xlB-WTNfGSUk9Yf1z_tR/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bangla-bhashar-bjakrn-o-nirmiti-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-bangla-shpath-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সহপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1NqVcm3tt4olBGRPqi_tVksF__yknMNL8/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bangla-shpath-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সহপাঠ",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-bangla-sahitj-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/195L44HYMRbQAHT-ThH2ENCnlLWjRP-OS/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bangla-sahitj-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1yjdxHcyFeQLBKLD8tykuqGABh_CaCXIn/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bangla-sahitj-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-bangladesh-o-bishbprichj-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/14sGflcjHDD85wgFnSjvczwyCaHAPyLRa/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bijnan-bn",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1AYg7uY_WjVYJmoskhb0-D58iFPvgwmpJ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bijnan-bn-2",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2026-class_9-bijnan-bn-3",
+      "year": 2026,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1TCyuezoQIAUCGYLUzDKJIb448kg0_7cQ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bilding-meintenjans-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "বিল্ডিং মেইনটেন্যান্স-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1dwxaTMC6YDvszR-mSZUWMSIiNHBITSFJ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-bilding-meintenjans-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "বিল্ডিং মেইনটেন্যান্স-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vMY2vf-EomoFQsozJtWg5hRUTCuPOrCx/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-mekanikjal-draphting-uith-kjad-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1R9DWGRr5Ck4Qe7chwrLQUNdWCvnM0mFa/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-mekanikjal-draphting-uith-kjad-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1YlPPHBuGbkEW7fN7V8iTKd0d7FjqYn-g/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-meshin-opareshn-besiks-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন অপারেশন বেসিকস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1JGwFd9HFF4pBH3YzSE3ixKbXgPhl__4o/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-meshin-opareshn-besiks-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন অপারেশন বেসিকস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/10926MN4KUqyOspffJ4YChejWxnx8MZhU/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-rsajn-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1UDwHDfqFMToPTrq4GCZ7bc-R1oWFKAna/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-laibhstk-rijaring-ojand-pharming-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1fuR-4vZ0iMpcxtuYgWxnJJnU6ryUB-Rq/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-laibhstk-rijaring-ojand-pharming-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1uZlmlEbeNitbTqwBr42Ggjnc8sQwuMo-/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-sharirik-shiksha-sbasthjbijnan-o-kheladhula-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "শারীরিক শিক্ষা, স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1flDqNcAUBDAdLbLBfFJFi_vj1gDe_QKG/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-sibhil-knstrakshn-ojand-sephti-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1s_U-vePyy97q4NLNtPKPTiYSB36xXTp9/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-sibhil-knstrakshn-ojand-sephti-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EKgUG2jJMZUsG0Z-pQvXpyNs9X2dnEq3/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-sibhil-draphting-uith-kjad-1-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "সিভিল ড্রাফটিং উইথ ক্যাড-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1mR52vc-9qamUrx_8JfZMWZfI9nm8WPXE/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-sibhil-draphting-uith-kjad-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "সিভিল ড্রাফটিং উইথ ক্যাড-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1VaRj5yNu5YKrRPci052yZiQOLFBvm-oZ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_9-hadis-shriph-bn",
+      "year": 2026,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "হাদিস শরিফ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ZdYp6fx9FMye-9sV_Pu6HH2Rxl708Qh-/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-otomobail-ojand-ilektrik-besiks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1LDOPqalchq4Yal2EJ2fTKQUNTiKf2YWD/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-otomobail-ojand-ilektrik-besiks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "অটোমোবাইল অ্যান্ড ইলেকট্রিক বেসিকস-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Yi0trZfn738RIJWMwl1ROsySc91a0y79/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ojagrobesd-phud-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "অ্যাগ্রোবেসড ফুড- ৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1PxepX4ubmLTpyYEcuQEQzL8lqJVo06q0/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ojagrobesd-phud-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "অ্যাগ্রোবেসড ফুড- ৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1axtwge6cdp9yvdnM2jNEBhlRsOFojs1a/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ojaparel-mjanuphekcharing-besiks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sI4M_F2R1zQEoTdZGL8s8je59VlqFsQZ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ojaparel-mjanuphekcharing-besiks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "অ্যাপারেল ম্যানুফেকচারিং বেসিকস-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iYZY53RwQ6QzrK3JMQ2KrnC2ag2ypbDJ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-aiti-saport-ojand-aioti-besiks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1bn500GUn5rZ6W9CNa-yAvYgqOU0Czejk/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-aiti-saport-ojand-aioti-besiks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "আইটি সাপোর্ট অ্যান্ড আইওটি বেসিকস-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_-O5GmG9Irw_0z4m439sqhiHhXepxUbg/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-atmkrmsngsthan-o-bjbsaj-udjog-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "আত্মকর্মসংস্থান ও ব্যবসায় উদ্যোগ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/14tHqv0c3SDHGJXJWbLj5i5z-qE0ZaCiy/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-arkitekcharal-draphting-uith-kjad-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1TFMl-RLmDe5SKTvFKz2dVvvDGuQBFNn2/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-arkitekcharal-draphting-uith-kjad-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "আর্কিটেকচারাল ড্রাফটিং উইথ ক্যাড-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/13P4Mg9f-F2sP9IkltxUNV0gGXRtPBtPC/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ilektrikjal-meintenjans-ojarks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1XvqkwpJJd0Q9fnwXSL8M6dsRZAdV9Gzz/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ilektrikjal-meintenjans-ojarks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স ওয়ার্কস-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1aSh8dtR6pi_P1F07RMm23pMe1IrNLRqO/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-uibhing-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "উইভিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1R2m7wspH04spiP3NwoUm8EdylzbFi4SP/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-uibhing-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "উইভিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1VpbJmXv7mk3EliKxIyl9TPJ_380oZA7L/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ud-ojarking-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "উড ওয়ার্কিং -৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Q-AO-KOOOHO-GG64CJEW-8nUYsXvwXwX/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ud-ojarking-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "উড ওয়ার্কিং -৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1o8bF68oMsz8AIIPmEQxRsNweJKp9RFfQ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ojending-ojand-phebrikeshn-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1pR1lFty6HuPwS3Qa_XE70OoU0DUh1pQa/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-ojending-ojand-phebrikeshn-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ওয়েন্ডিং অ্যান্ড ফেব্রিকেশন-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1k5B6CSRYUYPIuBfmSAizhYAWMEVAYiFI/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-kmpiutar-eplikeshn-2-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "কম্পিউটার এপ্লিকেশন-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18YEr2p_K8_BOVhTlxQ3Dy1mA9CTBtqiM/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-jenarel-ilektrniks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "জেনারেল ইলেকট্রনিক্স- ৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Xw1SWXPHLK92h_i8Fr6P2Bnv08SeT7uT/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-jenarel-ilektrniks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "জেনারেল ইলেকট্রনিক্স- ৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Fl3xks4-8U25MPPjgc37L-Aqh3wTuMJ_/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-jenarel-mekaniks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "জেনারেল মেকানিক্স-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Bujp_JmUi4KvXn1jRGVDg4MnKWTY2eS9/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-jenarel-mekaniks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "জেনারেল মেকানিক্স-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ooqofq9iaaG-dmlS07p43lG3m0vuuEk3/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-jenarele-ilektrikjal-ojarks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ONyUzPPoOMpKtz07tJvTBP-tCE4S3Szb/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-jenarele-ilektrikjal-ojarks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "জেনারেলে ইলেকট্রিক্যাল ওয়ার্কস-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1OrsEbUAv-5fCLB96H6x6-Xs6XWoV1tYJ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-daing-printing-ojand-phinishing-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Sjd5eejDNZEddRbOMiWWBqT7Tunclexn/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-daing-printing-ojand-phinishing-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ডাইং, প্রিন্টিং অ্যান্ড ফিনিশিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hlFhJuybfBf8HCaI9uOx9SehaMRCza2a/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-niting-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "নিটিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1d6FiT7UDmacy7yUSNK5k-Cu4wKIY7bWR/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-niting-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "নিটিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1pvfnDqtwPPKIqYCP688NrSU6jbfHBfen/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-peshent-kejar-teknik-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "পেশেন্ট কেয়ার টেকনিক-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1dUNajYWXnKWjqNpCUE3BuHER2dW2FVJZ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-peshent-kejar-teknik-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "পেশেন্ট কেয়ার টেকনিক-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.egovcloud.gov.bd/index.php/s/y08CUyCgy5nahpM"
+    },
+    {
+      "id": "2026-class_10-poltri-rijaring-ojand-pharming-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18GDIPxPNi5xpu5dMZ06obhxy5yGi-MLb/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-poltri-rijaring-ojand-pharming-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1LEfxQEp9zlne4naDef_w3pP6SZw1MSnY/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-plambing-ojand-paip-phitings-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HP_pHlIZunIUjApSfWg28HGR1scHuOcZ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-plambing-ojand-paip-phitings-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "প্লাম্বিং অ্যান্ড পাইপ ফিটিংস-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1tUwI166qhMO-ryPCSfJT9FWeJD2gRcic/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-pharm-meshinari-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফার্ম মেশিনারি-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/12kIUTuFT_h8X1xzJpd2hDtYNoFW4sFkk/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-pharm-meshinari-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফার্ম মেশিনারি-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1lPZppNwjYmFioZHvy-SkSTgNN688FT1n/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-phis-kalchar-ojand-briding-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফিস কালচার অ্যান্ড ব্রিডিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1rygwD4-sYde45ct0Qe_FxLCgzdNhJRd1/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-phis-kalchar-ojand-briding-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফিস কালচার অ্যান্ড ব্রিডিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-f0iQvTlOrrdjTVexgWii4b-Rka4AcHn/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-phud-prsesing-ojand-prijarbheshn-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1gAFb0ZKsn_-0dxaWX27VdJwwrGxdZfm2/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-phud-prsesing-ojand-prijarbheshn-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফুড প্রসেসিং অ্যান্ড প্রিজারভেশন-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1lEqaA2F4FY9_gkegUfYNUL0nTVHTRx57/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-phrut-ojand-bhejitebl-kaltibheshn-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vbVtJd_9drEr6yEulpTOLPjcJMmwbF7D/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-phrut-ojand-bhejitebl-kaltibheshn-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "ফ্রুট অ্যান্ড ভেজিটেবল কাল্টিভেশন-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1NtLM3hRa_Hp9W4yXAPI0Nw-7XKsYdngi/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-bilding-meintenjans-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "বিল্ডিং মেইনটেন্যান্স-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1UqalVZOhbNe7DXcDz-pCmjldrrR5Ebki/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-bilding-meintenjans-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "বিল্ডিং মেইনটেন্যান্স-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1JREgHyx6ItBsTbD2QwuaNe1Snih4EgC2/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-mekanikjal-draphting-uith-kjad-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1mL9Up1mQ-LgmI_FdMGHCBjBTGQImj7Y0/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-mekanikjal-draphting-uith-kjad-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18VsJhHiDNLatfE6zAiJ-5RWQzrtcC21r/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-meshin-opareshn-besiks-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "মেশিন অপারেশন বেসিকস-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1eLJc04kdv33rTOZPy8wm3POyREG0zmex/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-meshin-opareshn-besiks-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "মেশিন অপারেশন বেসিকস-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/17OIyFrwlYqqgvS32AcYgBpaoGW_06IB-/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-rephrijareshn-ojand-ejar-kndishning-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1H6vunQtftfT3HfWS8MoJ5nn_wB11Qfme/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-rephrijareshn-ojand-ejar-kndishning-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ার কন্ডিশনিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/11OElk_0Rv8q6snq5K6F0sOw0HrmY9MI9/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-laibhstk-rijaring-ojand-pharming-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1YPLXAKMgS34xffLerufi58JUVu72vFXL/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-laibhstk-rijaring-ojand-pharming-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "লাইভস্টক রিয়ারিং অ্যান্ড ফার্মিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1jZGzPL3kvKPAew2fpMI1kod1yihQWmk5/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-shrimp-kalchar-ojand-briding-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "শ্রিম্প কালচার অ্যান্ড ব্রিডিং-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sdGB2tNDr2JSrwz9Q5_OOP1HkhNL32be/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-shrimp-kalchar-ojand-briding-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "শ্রিম্প কালচার অ্যান্ড ব্রিডিং-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1h4XZmnxSRwLUGWjVRBv1ztP0isJmgUbj/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-sibhil-knstrakshn-ojand-sephti-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1B70ICNEQtC0zrLtwRwI24VDgGqwT487H/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-sibhil-knstrakshn-ojand-sephti-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "সিভিল কনস্ট্রাকশন অ্যান্ড সেফটি-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18izYdx0BADqr3UzYnA1Uu0QjYCUwOtHQ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-sibhil-draphting-uith-kjad-3-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "সিভিল ড্রাফটিং উইথ ক্যাড-৩",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1UwgYKMMCxDrwcneaEXlmW-hX8YxDQ-vx/view?usp=drive_link"
+    },
+    {
+      "id": "2026-class_10-sibhil-draphting-uith-kjad-4-bn",
+      "year": 2026,
+      "level": "technical",
+      "classId": "class_10",
+      "title": "সিভিল ড্রাফটিং উইথ ক্যাড-৪",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1VEcaPMIZvrm0OogciaeTVJ497xq1Zrvz/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-amar-bi-bn",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WE0p5DwiJacZg_l4QeP9NnZ5XJLe90cJ/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-amar-bi-ccp",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1NBVcKjToPV0rnJbjFejzGxxtx5TJL6f-/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-amar-bi-grt",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1HlvBA_oD4ZkyDcFFOChiI64mBdfjku4_/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-amar-bi-mhx",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/1iM8vDGtgPzHW9VOs5571XpvoU_KSCjxr/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-amar-bi-sdr",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/18fn3hoOIiotMniijZhEL6g6k-nnYnKox/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-amar-bi-tpe",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/10wfFYdQjy_1JSaAIKfR_DexQV6uuqMXD/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-eso-akibuki-kri-bn",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো আঁকিবুঁকি করি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/16ELFBjBQeVZDUOVeLUZ83-T14-1KCB9R/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-eso-likhte-shikhi-bn",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vPStWPLk45B6L05srKxOb9V5BK8WaC2p/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-eso-likhte-shikhi-ccp",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "ccp",
+      "pdfUrl": "https://drive.google.com/file/d/1D3-ueZKInOfN9LCJi-OgZoMxpk560HaS/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-eso-likhte-shikhi-grt",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "grt",
+      "pdfUrl": "https://drive.google.com/file/d/1YsmWuieTrLym_PZvyUpOwjyD5ADgPa9S/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-eso-likhte-shikhi-mhx",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "mhx",
+      "pdfUrl": "https://drive.google.com/file/d/1hrULCS2RhiXd0QzVKr1v1iP-LYd0yMk3/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-eso-likhte-shikhi-sdr",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "sdr",
+      "pdfUrl": "https://drive.google.com/file/d/19o3_8WYMKpZwFDi_CemL-muji4jMr0RC/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-eso-likhte-shikhi-tpe",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "tpe",
+      "pdfUrl": "https://drive.google.com/file/d/1mLnAOU2mt6d4F9VpAweLV3Faiu1ROK6a/view?usp=drive_link"
+    },
+    {
+      "id": "2026-pre_primary-glper-bi-bn",
+      "year": 2026,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "গল্পের বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1viu3K4d-wK9bGCD-Db6LoupHVuXiFJYi/view?usp=sharing"
+    }
+  ]
+}

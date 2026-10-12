@@ -1,0 +1,914 @@
+{
+  "year": 2017,
+  "books": [
+    {
+      "id": "2017-class_1-english-for-today-en",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1kTW8nTinaHwYrZCAi5e_d9Ol4o1bGahX/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_1-english-for-today-en-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1kTW8nTinaHwYrZCAi5e_d9Ol4o1bGahX/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_1-amar-bangla-bi-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1iBJuNDh8j-NbkSbNiNuCqCxjb_sz_nrb/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_1-amar-bangla-bi-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1iBJuNDh8j-NbkSbNiNuCqCxjb_sz_nrb/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_1-prathmik-gnit-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1J4YiEIKjN2qD-MkXRR3q99jx5xr03v2y/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_2-english-for-today-en",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1KD07ZYKehQ6zuYCroVkxFVCZrBAFpn0p/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_2-english-for-today-en-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1KD07ZYKehQ6zuYCroVkxFVCZrBAFpn0p/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_2-amar-bangla-bi-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1sSJ5MnTO5yQLCQtV2Wb6avNynwltl1lj/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_2-amar-bangla-bi-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1sSJ5MnTO5yQLCQtV2Wb6avNynwltl1lj/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_2-prathmik-gnit-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/12HdqPVdsyhVHqiRbHhEnM8hHUIx6i62f/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_3-english-for-today-en",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1H3PMvh9vJpSb8C-uCfqzxSPO5hbmU7m_/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_3-english-for-today-en-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1H3PMvh9vJpSb8C-uCfqzxSPO5hbmU7m_/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_3-amar-bangla-bi-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/17D7qJz4BaI095Lot1pd83q8FlvazXyR1/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_3-amar-bangla-bi-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/17D7qJz4BaI095Lot1pd83q8FlvazXyR1/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_3-islam-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=0B8L6VJQZe3EERThEbHk4UHZ6cnM"
+    },
+    {
+      "id": "2017-class_3-islam-o-noitik-shiksha-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1X7yjxsFiOoTv65qWSpDvRN2noFvA7Za9/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_3-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1qPxfDV4qxnbShIJOzpbUHBpuvJbmMPrH/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_3-khrishtan-dhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টান ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1zfbEgfgK_yEZcLk24FDEASDGgHS3GimB/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_3-prathmik-gnit-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1PLHQx9x42Fose7EoAU5FIkIVP44dQV6f/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_3-prathmik-gnit-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2017-class_3-bangladesh-o-bishbprichj-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ZhACUT6YLzT7vHfa8uJfZ8_-TlNV9oYA/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_3-bouddh-dhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধ ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/16uPy9Opak9H9b18gjfTJ1vvcW_qDkUyD/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_3-hindu-dhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1GP14235GBxuwwkq3S5MjtZ7JyJhn0Q_w/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_3-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1dAXfQ1_efFgESt4KRIDjGPo4HriWLVE9/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_4-english-for-today-en",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1ffjwhG3lXIuUaANlD4dhMYNpANkGywk6/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_4-english-for-today-en-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1ffjwhG3lXIuUaANlD4dhMYNpANkGywk6/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_4-amar-bangla-bi-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1v2kkhz7FK0IdRdligvUsLuyQmNSkd9_9/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_4-amar-bangla-bi-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1v2kkhz7FK0IdRdligvUsLuyQmNSkd9_9/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_4-islam-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1iPSdVAVYErtJ-C6GyXR8SobDStytQCbc/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_4-islam-o-noitik-shiksha-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1qg06gxaGYyg9qAgGQnbK3MTKkNDlk_Jf/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_4-prathmik-gnit-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1rXU60rCkpTXK-_3B93YTVzG46-IUmtdI/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_4-prathmik-gnit-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Fhvdrkh81oR8IpFQwk8ZYClHJm9K-xc_/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_4-prathmik-bijnan-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1v6Xm33LGVtSR031f7KwPECrziqNlkmTF/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_4-prathmik-bijnan-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1PzBzgA_vTYv7Q2J8TEVWxTzt0aEqeIMQ/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_4-bangladesh-o-bishbprichj-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ohYqrb2Nj_HPaNSDPquQZMJyhp3T19bQ/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_4-bangladesh-o-bishbprichj-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1yXHkDytdXD_U3stx50iizAd8925djNCI/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_4-hindu-dhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ZzC87zXFnvL1BLqRfysekSnM6U0O5RCn/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_4-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1t6lqJjSHdNwfshxXLwWDqgn0XTvH3Yn4/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_5-english-for-today-en",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/18uBcsT6EaqJ57iM8S1HiX7R8Zh8SDOlw/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_5-english-for-today-en-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/18uBcsT6EaqJ57iM8S1HiX7R8Zh8SDOlw/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_5-amar-bangla-bi-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1gD5rycd8oKQd_WgAXqO7xapneww2utga/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_5-amar-bangla-bi-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1gD5rycd8oKQd_WgAXqO7xapneww2utga/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_5-islam-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1YWMhpHH3Wffp_IxozJSJNxbk7t-qzqay/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_5-prathmik-gnit-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1mmIIU4sUarbDHQFxIbKIHF90xmYcp8ND/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_5-prathmik-bijnan-bn",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1wNdof-x5cnvhkivs2F9mNB52vi61Yzzz/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_5-prathmik-bijnan-bn-2",
+      "year": 2017,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1DWAyy9ffzbAqwoXhPEResCSQ0q__Xp4G/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-english-for-today-en",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1INVhqAdK2q7UF_0TDF6nD9YBxpCf4DGb/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-annd-path-bangla-drut-pthn-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1CtYV58mw8AAgNWzHL_AOOCQ_kCVkiPQV/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-islam-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1xVbplPVXWoJI2xERVH3_Ceuz-K0Op9e-/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-krm-o-jibnmuki-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1QOKmAh-u8DogEKy1ASCrL27NkCFycJwj/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-krishi-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1efNHR5XKnqanLO6zTWqmg60YmzWbem-p/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-kshudr-o-nrigoshthir-bhasha-o-sngskriti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "ক্ষুদ্র ও নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1rkf7lfies6fyOBB39So3VrVFivu_u9HP/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1hN9ZHkFGdclFbG62GiZhp2tmhWwA2Dz3/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-garhsthj-bijnan-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/19JzEFBnnrtSvPmUeBjQozWArteCDk319/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-charupath-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1TdOyf_Y_VY9--f6w75JRXKO0xNCX4eXc/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-tthj-o-jogajog-prjukti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1oTX4GKWx9wy2XIyS00JbPqR3cf1rNG5A/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/11Ft-emlH6342ZHx2yRgNX5veoXDxH6-j/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-bangladesh-o-bishbprichj-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1XxfWquHXWcE7islpbXq7Iwi33DUlCNFF/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-bijnan-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1cU4TxyiP5JvWU86syrbYUPTM6Zj4w2xB/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1DItQvja72xgDGNC47JDT7Ps3mjTKD_-6/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1lxWviNujACfo66_k_0pCt9c8ADhEzPft/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_6-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=0B8L6VJQZe3EEcmF0Vm1YZjJFdXc"
+    },
+    {
+      "id": "2017-class_7-english-for-today-en",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1HjHIAPcYRG1VSX8f5IOv1ETK-1vBMoxP/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-annd-path-bangla-drut-pthn-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1u6GScE-J8CcNrcpmuQBwjs8a6fmPb4-E/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-islam-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ml5LEHdmxucb1eEofIQKgrP68OoibqaA/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-krm-o-jibnmuki-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Y4iCrtqrx6daGaNEEDnwZ7cVn4eUSgzW/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-krishi-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1bH_Eunb9ePU2x2NnTzbqBc0We-s1c1Fj/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-kshudr-nrigoshthir-bhasha-o-sngskriti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1iGrEIYbDg8MP3jwVhxvWyQmW4VKpkLom/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1w6Tnpn8E16O6XJEYVfEs2CX-3-i4kL6s/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-gnit-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1TXFFCPaB54WpbP-VrG7PsyAwNKCZnqCk/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-garhsthj-bijnan-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1IDBQHTzbkqpcobEGO7NDjj4UaX_65gEp/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-charu-o-karukla-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/13vJwKizzITpLDE0WWcv3SodWgj0Z6sOa/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_7-tthj-o-jogajog-prjukti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1VJCy13V7TAkQ8H1Y6Jxy8-caRJJQmDAL/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1LL3mrNy4DS3RbxB770D6P80ByNDmcCYg/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-bangladesh-o-bishbprichj-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/12A88LHbbfQRa8vquEx7gSZ-3Ayp46CZm/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1dLzPytyh9ja3PPip600it7lWuio1Hpk4/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1Z4pzuhjwoC2pmGN-ATWcC9_ndFTgLOBR/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-sptbrna-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1QQ9PC2oMKMas_4ZLdmc_yoAlXdW5Tc19/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_7-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1-mL0lzM92Awk9bP4drg7za2_iUxdg51L/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-annd-path-bangla-drut-pthn-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1ir-gb9yUqC0DUYVZ07nYqtibxDQeKF3h/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-krm-o-jibnmuki-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1j1ap4ESpD_KxoE758nPrf8deZzm9UYjt/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-krishi-shiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1YTlqnGoW5QYluGEaQIXLzGW_-biBzjVg/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-garhsthj-bijnan-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1kL0gKSBxp3JlmGLIgNWQpVi1krEk3M-w/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-charu-o-karukla-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1wpAUVH5N6Wke_hIj_Ydp1TFo9Wxr4Bx9/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-tthj-o-jogajog-prjukti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1GinOXG_GkKqulCZHHRhPnzSigqQ6BLXL/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1DRe8vnJj-yQKCGOCJo3LWoos-fAy32IV/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_8-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1iQolC-ZDoHdwZjXdpF02fsGHB45qyrIx/view?usp=drive_link"
+    },
+    {
+      "id": "2017-class_9-krishishiksha-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "কৃষিশিক্ষা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1mQamYYP3xTNzLKr-l-Gm5Ui1wkVHgJNB/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-kjarijar-edukeshn-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার এডুকেশন",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1YGf-XwvG1sdCxlxfuZ5iYJmk34_JJCft/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-gnit-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/16oscA0tsdcMPgs8BLckD8glQAnwl_Fws/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-garhsthj-bijnan-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2017-class_9-charu-o-karukla-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/16ptR4cXSQOBSbcDdMZdJLd-9LJDTEj-3/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-tthj-o-jogajog-prjukti-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1yM4ACSpgIZIbQLbDERgRSSlNwp4jkWE6/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-pdarthbijnan-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পদার্থবিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1GOwvuIS7n2t6yXs7kHOJmPCChiuZKW_m/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-pourniti-o-nagrikta-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1B80ZAVTVdX1kHKq7XSbr0sSX4Z_adIV7/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-phinjans-o-bjangking-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ফিন্যান্স ও ব্যাংকিং",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1kmrYlp4v9PAUZrTGkapvls6hlQsJQ_QU/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-bangla-bhashar-bjkrn-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যকরণ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1CaZzniK1XcsyTI3dyL9lzWYSBHGd6PNZ/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-bangla-shpath-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সহপাঠ",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1E_EBOIZnUw-yNpY4sUCpGAjQobHBNgAG/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-bangladesher-itihas-o-bishbsbhjta-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1fEtFJlDT9kjhMTzf-pj2X8CaLsJ1alXU/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-rsajn-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1xZCSbKJdZvZiMNlMO-qdegTUfw53WeSY/view?usp=sharing"
+    },
+    {
+      "id": "2017-class_9-hisabbijnan-bn",
+      "year": 2017,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিসাববিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "http://drive.google.com/file/d/1qiLxg4dYLcQ5x_GIA7SCy14REssM7KB_/view?usp=sharing"
+    }
+  ]
+}

@@ -1,0 +1,3938 @@
+{
+  "year": 2018,
+  "books": [
+    {
+      "id": "2018-class_1-english-for-today-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1aTFb-lLslj_1R09kF7iXS0aEook5AI4z"
+    },
+    {
+      "id": "2018-class_1-english-for-today-en",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1KYdmpOI_elk1HdMLxHYWgVHdupCrajpW"
+    },
+    {
+      "id": "2018-class_1-english-for-today-en-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1aTFb-lLslj_1R09kF7iXS0aEook5AI4z"
+    },
+    {
+      "id": "2018-class_1-akaid-o-phikh-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=15zzeYEkURJdvqa-NvAe56PyxbXyXSvOV"
+    },
+    {
+      "id": "2018-class_1-ad-durusul-arabijjah-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1j-TS4dv94xPev0GGk5zBuiFe2askXxUZ"
+    },
+    {
+      "id": "2018-class_1-amar-bangla-bi-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1JJgEhJHP15DdCbOEtkIM9Mdpw7M64-iC"
+    },
+    {
+      "id": "2018-class_1-amar-bangla-bi-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1eMzvoNsFTY6hfnOeokPGFd-HNhxlNky2"
+    },
+    {
+      "id": "2018-class_1-amar-bangla-bi-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1eMzvoNsFTY6hfnOeokPGFd-HNhxlNky2"
+    },
+    {
+      "id": "2018-class_1-kuran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PX16CuaalpQGSynlPA6uXX_J43KQHCGx"
+    },
+    {
+      "id": "2018-class_1-gnit-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1LktO3N2JyU8Pv74yuOH5BOAhhGD4r66f"
+    },
+    {
+      "id": "2018-class_1-prathmik-gnit-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1EiJYeXx7oNvWtDvNX4VtNEWbsFoNMkrl"
+    },
+    {
+      "id": "2018-class_1-prathmik-gnit-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1iHfgRYBVvB9wjLvNbjBCseIsLrP_RSS_"
+    },
+    {
+      "id": "2018-class_2-english-for-today-en",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1NCrr_gW1BrMVcgzdiPfmLM9vbtXXWrdD"
+    },
+    {
+      "id": "2018-class_2-english-for-today-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1nYdgkU6zfnNBYjb_-FsLGkRLmTEyXPjq"
+    },
+    {
+      "id": "2018-class_2-english-for-today-en-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1nYdgkU6zfnNBYjb_-FsLGkRLmTEyXPjq"
+    },
+    {
+      "id": "2018-class_2-akaid-o-phikh-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1c4JglRVBeGZmyo831RVAfpwsip_L27Px"
+    },
+    {
+      "id": "2018-class_2-ad-durusul-arabijjah-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1rIipx3jFLj3ZTrgYd2nh94RYQvF4vlni"
+    },
+    {
+      "id": "2018-class_2-amar-bangla-bi-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1RsVY7cXiKkpcBOWExmu6kG64lFPDP8Nl"
+    },
+    {
+      "id": "2018-class_2-amar-bangla-bi-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1NqNYZJqVAU6lXoTnatpA_BSI8EBeSuOd"
+    },
+    {
+      "id": "2018-class_2-amar-bangla-bi-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1NqNYZJqVAU6lXoTnatpA_BSI8EBeSuOd"
+    },
+    {
+      "id": "2018-class_2-kuran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=12lGGEMtyAwrXPOjAdv_RPqUwhdbR1oOW"
+    },
+    {
+      "id": "2018-class_2-gnit-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_2",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PFMDRUZFz_atuGv-Q-85LG4hCCxBYrB0"
+    },
+    {
+      "id": "2018-class_2-prathmik-gnit-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1nzijurTsmG_I28XhBNXIu5Q2THqRZeoF"
+    },
+    {
+      "id": "2018-class_2-prathmik-gnit-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_2",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1A4EWxcJU50oD9yyX8uyAaGb_rWV81wYE"
+    },
+    {
+      "id": "2018-class_3-english-for-today-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1fIezqtUdp6fUekzJXzLDdJfRbAoMQ6eE"
+    },
+    {
+      "id": "2018-class_3-english-for-today-en",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1J0m5EEx2oVJRIPeexISwTXdGxAOnGITe"
+    },
+    {
+      "id": "2018-class_3-english-for-today-en-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1fIezqtUdp6fUekzJXzLDdJfRbAoMQ6eE"
+    },
+    {
+      "id": "2018-class_3-akaid-o-phikh-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_ymfnZcNyNQBzHlfFXvv1oXyWP2ADaM7"
+    },
+    {
+      "id": "2018-class_3-ad-durusul-arabijjah-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mcvyNSalekx5hNwx9iEhrGmkjhD8MgQu"
+    },
+    {
+      "id": "2018-class_3-amar-bangla-bi-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1VSkq6aw74fVqq3GKadW8Yo5XY5kxWgmH"
+    },
+    {
+      "id": "2018-class_3-amar-bangla-bi-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=11tqH9dd6V0Ngxv-v_Ov5AMSkCKQxjmDJ"
+    },
+    {
+      "id": "2018-class_3-amar-bangla-bi-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=11tqH9dd6V0Ngxv-v_Ov5AMSkCKQxjmDJ"
+    },
+    {
+      "id": "2018-class_3-islam-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1qj4qFicdqKrDTKzUW6N_gW1pX4YQbMGz"
+    },
+    {
+      "id": "2018-class_3-islam-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1SSi472m_VPqysZW39N-6oZ_sfk-FEHNk"
+    },
+    {
+      "id": "2018-class_3-kuran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1nQS2qykJwwWLYLP3qqzjqjB1qLWpd7k6"
+    },
+    {
+      "id": "2018-class_3-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1QttoWrfZLomLQv7rSQar2lZO-VOBX7VX"
+    },
+    {
+      "id": "2018-class_3-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=16aSAf_qTr_d5uBQYu0S9t718lCmCJmQU"
+    },
+    {
+      "id": "2018-class_3-gnit-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ajyeX7M7H6fjYMyFjOlUNnBnMkm6abQz"
+    },
+    {
+      "id": "2018-class_3-gnit-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1izXLRxpPmA8Ms3uyoS6POfG4zbY_aKnV"
+    },
+    {
+      "id": "2018-class_3-gnit-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=10M9m6ts4cPz9ARug9TJwXX3aVLO_KBgM"
+    },
+    {
+      "id": "2018-class_3-prathmik-bijnan-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1t82eZQxPJXfTgxGJlzU9E7JY9KLDRrcx"
+    },
+    {
+      "id": "2018-class_3-prathmik-bijnan-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1ZYPBeGnmbR-Sn0RpQTaLoIVoi13Wwf-M"
+    },
+    {
+      "id": "2018-class_3-bangladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1lQrsPbwW16Gt91NDbfAcu6cmADCIp0iS"
+    },
+    {
+      "id": "2018-class_3-bangladesh-o-bishbprichj-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1u6j8GqGI9D7ClgrDPpJVv0HbSdUyNfyT"
+    },
+    {
+      "id": "2018-class_3-bangladesh-o-bishbprichj-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=10mZZGNn-HCqj13GNi-Kr6ZMdBOoKLCkz"
+    },
+    {
+      "id": "2018-class_3-bijnan-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1lbxnacIOwxuxJGjM5ft8Bu0-arq3rOAl"
+    },
+    {
+      "id": "2018-class_3-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-0mW83x6mSMO5HJ1JSKebqR_XQo5284_"
+    },
+    {
+      "id": "2018-class_3-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Jjp9FX6fp-bKYfoWbEFqmNG94pvlSMI5"
+    },
+    {
+      "id": "2018-class_3-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1F8H1P2MQDS4MFuPASLQSAll_f5esbOGn"
+    },
+    {
+      "id": "2018-class_3-hindudhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1E8R5buV_iL_MEl6ewWmfEFSnfL0fbmea"
+    },
+    {
+      "id": "2018-class_4-english-for-today-en",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Ha6iu6iCJWnqhNeRrvhNMt_ezN2Wl64p"
+    },
+    {
+      "id": "2018-class_4-english-for-today-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1COcr2PIlEjeoDRvW3ZT2D8SLRtOfRc_Q"
+    },
+    {
+      "id": "2018-class_4-english-for-today-en-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1COcr2PIlEjeoDRvW3ZT2D8SLRtOfRc_Q"
+    },
+    {
+      "id": "2018-class_4-akaid-o-phikh-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17fW-qn5V7e-2v6Jl74r6wZkuvHW6blg-"
+    },
+    {
+      "id": "2018-class_4-ad-durusul-arabijjah-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1luwqvBwoJvtnRIAlj2Fj9btKxN_qkErm"
+    },
+    {
+      "id": "2018-class_4-amar-bangla-bi-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=13s1o-yp0v5bHpx0DLulMq2lE4KD3yNJ1"
+    },
+    {
+      "id": "2018-class_4-amar-bangla-bi-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1NQGsbjp9ZDRtEOlXbCqzN_tyWOhpWOUR"
+    },
+    {
+      "id": "2018-class_4-amar-bangla-bi-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1NQGsbjp9ZDRtEOlXbCqzN_tyWOhpWOUR"
+    },
+    {
+      "id": "2018-class_4-islam-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_RO82nebtmwyScWRsyHmrioZF6qEVlYK"
+    },
+    {
+      "id": "2018-class_4-islam-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1oBStTxNpy-pDPxlHXDoK9ZzGeTtPRyK5"
+    },
+    {
+      "id": "2018-class_4-kuran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17YlOpwOuT_pmjU3qZL3vwCwoUFmHPeNt"
+    },
+    {
+      "id": "2018-class_4-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1JKUe_KkrccLprjYQFy0NzFq1dWKQrhK3"
+    },
+    {
+      "id": "2018-class_4-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1E5uXcXwMcJ6zONrgJIfcShzffJ8ub-cw"
+    },
+    {
+      "id": "2018-class_4-gnit-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=162dxZYb1A44PqayUdEIQ7zPWVAqNVsEB"
+    },
+    {
+      "id": "2018-class_4-prathmik-gnit-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1H4pdRZo3RrT4ljKSQGlTXmZQEaU2za8f"
+    },
+    {
+      "id": "2018-class_4-prathmik-gnit-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1yl2bFVfJt6ZX84B02KsWs0rg3cTJm2vi"
+    },
+    {
+      "id": "2018-class_4-prathmik-bijnan-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1o_y1NeTu5HkLZl6tvmCxeA5RF4bl87j0"
+    },
+    {
+      "id": "2018-class_4-prathmik-bijnan-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1s_eW4ZPsHWxajLGiq7qd9IOPSBN5qiu5"
+    },
+    {
+      "id": "2018-class_4-bangladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1rh9quZ9tj6aGT4s3VuEoEisoEh1BKxPz"
+    },
+    {
+      "id": "2018-class_4-bangladesh-o-bishbprichj-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1JStWn397hJUra4wpk41RpZYAUDR1v6V6"
+    },
+    {
+      "id": "2018-class_4-bangladesh-o-bishbprichj-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1NXcPXoGddH6nPIjaM1qWdiUocYxJbFwx"
+    },
+    {
+      "id": "2018-class_4-bijnan-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1nWVgvAT1251y0UM02zV0vbH3pn67Ogwp"
+    },
+    {
+      "id": "2018-class_4-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dPEMIX065KbwbgYg0VrYgL4E9M8b8rqB"
+    },
+    {
+      "id": "2018-class_4-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1QJtVMZBghBf3KEA9lw3EXIaHutAdFzkA"
+    },
+    {
+      "id": "2018-class_4-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YkYLLCb_yMn30yWzLHJ7MrrVNG5szGtg"
+    },
+    {
+      "id": "2018-class_4-hindudhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_4",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1n6GJ9Fjvpmyt7h4TLDhRMIV7qsC06Yyk"
+    },
+    {
+      "id": "2018-class_5-english-for-today-en",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=14rEK04DidqszTgTaImQYqjiGlSiB7IlX"
+    },
+    {
+      "id": "2018-class_5-english-for-today-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1rEP3lyJPIpE7-8ZIBiBi5AitMi8tehEp"
+    },
+    {
+      "id": "2018-class_5-english-for-today-en-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1rEP3lyJPIpE7-8ZIBiBi5AitMi8tehEp"
+    },
+    {
+      "id": "2018-class_5-akaid-o-phikh-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1qJUs0wgA3xIJXdbXb-hpk-bTIJpfXyNa"
+    },
+    {
+      "id": "2018-class_5-ad-durusul-arabijjah-ojal-kaojajed-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্ ওয়াল কাওয়ায়েদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mzezF8CFNtOVp3gcylJ0qoWnOoMU2uba"
+    },
+    {
+      "id": "2018-class_5-amar-bangla-bi-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ygAI75WGbJI7fE-eZJpzETPm6hxbNbnr"
+    },
+    {
+      "id": "2018-class_5-amar-bangla-bi-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1g-0J9Ol-u3urOoVW6Vkoomksw-O4xHzq"
+    },
+    {
+      "id": "2018-class_5-amar-bangla-bi-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1g-0J9Ol-u3urOoVW6Vkoomksw-O4xHzq"
+    },
+    {
+      "id": "2018-class_5-islam-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1C5Y3fkDuMmc59sMnAmKesbf_o5lAr0A_"
+    },
+    {
+      "id": "2018-class_5-islam-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1BNn7ZnLPHWkfcVd2hiF2WwrhL-NU52VK"
+    },
+    {
+      "id": "2018-class_5-kuran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Uw72xTiVvHdpAcNu5N6jWLcMJ7Ko02UU"
+    },
+    {
+      "id": "2018-class_5-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1cJX8u3OaUk9IwlQMylh5nnRthS1xtdsL"
+    },
+    {
+      "id": "2018-class_5-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=16aSAf_qTr_d5uBQYu0S9t718lCmCJmQU"
+    },
+    {
+      "id": "2018-class_5-gnit-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1NYnRnJ9mYSIDsuN3ZFR3PXv08IUWLg7J"
+    },
+    {
+      "id": "2018-class_5-prathmik-gnit-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1WfPWzodai0e478ZobXtRoXGAvYq0xeN9"
+    },
+    {
+      "id": "2018-class_5-prathmik-gnit-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=188tRLCvUux0s19fkah8Gyy1fNXzFEX-W"
+    },
+    {
+      "id": "2018-class_5-prathmik-bijnan-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ZQ0yFYCpBgWWxfc86Zm1XJMJ-EcBFw1v"
+    },
+    {
+      "id": "2018-class_5-prathmik-bijnan-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1dpMfxG0uZhQ7VgR3edG8_M-sbrHRur_L"
+    },
+    {
+      "id": "2018-class_5-bangladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=11lS8GF33m_-CU41CJmRv41x8DLF4-fC8"
+    },
+    {
+      "id": "2018-class_5-bangladesh-o-bishbprichj-bn-2",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1BKoRYuKuCaIeLcTtS5PaBOU0xv7bHAi1"
+    },
+    {
+      "id": "2018-class_5-bangladesh-o-bishbprichj-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=11kHNOpzzg6yC1TpqR_c4FRKTJHSSny1u"
+    },
+    {
+      "id": "2018-class_5-bijnan-bn",
+      "year": 2018,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=11FZbvkihFrTgnzgQsrTwL88IToq0e3t0"
+    },
+    {
+      "id": "2018-class_5-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1yXR2WxLg3vFY7lTHowPA3uTeHaR9eJZ6"
+    },
+    {
+      "id": "2018-class_5-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=19zlv6OOf0HNFeQ9VqhlSmS2n3xCTwTKz"
+    },
+    {
+      "id": "2018-class_5-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1WnBOU4QAfrFASmT3Lk083A7SabMkCFcc"
+    },
+    {
+      "id": "2018-class_5-hindudhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1E8R5buV_iL_MEl6ewWmfEFSnfL0fbmea"
+    },
+    {
+      "id": "2018-class_6-english-grammar-and-composition-en",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=163yIii__OP7J5ybOKaYKPUklbPnjY1Er"
+    },
+    {
+      "id": "2018-class_6-english-for-today-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=19Qnu9xABrV3q_JtBvGa4Jv5WX9_sHGLp"
+    },
+    {
+      "id": "2018-class_6-english-for-today-en",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1SPtB4AeeqSx8ovAAEr1ob7iUPWkXq7S-"
+    },
+    {
+      "id": "2018-class_6-english-for-today-en-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=19Qnu9xABrV3q_JtBvGa4Jv5WX9_sHGLp"
+    },
+    {
+      "id": "2018-class_6-annd-path-bangla-drut-pthn-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1rV2_BTSieVUPlSE6C4Mdl1px89HlZ2Hn"
+    },
+    {
+      "id": "2018-class_6-annd-path-bangla-drut-pthn-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1rV2_BTSieVUPlSE6C4Mdl1px89HlZ2Hn"
+    },
+    {
+      "id": "2018-class_6-al-akajed-ojal-phikh-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10q9K17KfrJzxpbw7-G6XcbGlsHCZJ3nN"
+    },
+    {
+      "id": "2018-class_6-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1rAeZXFU9FnLrznxGzttRLZBYeqUxtWl3"
+    },
+    {
+      "id": "2018-class_6-islam-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1qVVaj0LTe5BJRXnoTrP5ZIpT2NFbsVnU"
+    },
+    {
+      "id": "2018-class_6-islam-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1-jV6FTOzb-jNpIaOCX6-gUl9iz7wvrWe"
+    },
+    {
+      "id": "2018-class_6-krm-o-jibnmuki-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1U3T42ihDWNRKDiN4J59XP3Tz4S8KFlMm"
+    },
+    {
+      "id": "2018-class_6-krm-o-jibnmuki-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1CEH5EPRxicr0Klsyj7GnYJDYyRb-QSyO"
+    },
+    {
+      "id": "2018-class_6-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=15XF_oaiZNZlUBpS0xaFP-NYk9OHvVPpM"
+    },
+    {
+      "id": "2018-class_6-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YHKG37-QURgfxB_NemfOyM-zutplcP5B"
+    },
+    {
+      "id": "2018-class_6-krishi-shiksha-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_PJwkBC14ervWwfoN8fYociApwXU6l3s"
+    },
+    {
+      "id": "2018-class_6-krishi-shiksha-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1aK6huU8JxorHPoQOvAg4e8IYZDeLsF96"
+    },
+    {
+      "id": "2018-class_6-krishi-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "কৃষি শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Trn8lVi9tJaPpGN9RBDGTWr_n2W3wHy7"
+    },
+    {
+      "id": "2018-class_6-koran-mjid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কোরআন মজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1U1ROoFrk4EllDANhY7JxMWFs0YLV-8KZ"
+    },
+    {
+      "id": "2018-class_6-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1S2BlsFpM3DcWsBM5KhVyhv1COmn7afzd"
+    },
+    {
+      "id": "2018-class_6-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Aa9HpYMsSSYipejgnOO1YQOjcOz-k_Sz"
+    },
+    {
+      "id": "2018-class_6-gnit-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1iqe7A2kWKT0BIrZkuVOEYrrBS44yPSZD"
+    },
+    {
+      "id": "2018-class_6-garhsthj-bijnan-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1KG9mWFeWijszFK_bzSNwAMp1Z95VhKNN"
+    },
+    {
+      "id": "2018-class_6-garhsthj-bijnan-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10p6DyBNiVQIaVTkfAncExmnYkwdRnr9N"
+    },
+    {
+      "id": "2018-class_6-garhsthj-bijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1RzAiGQvI1qGN-xNiL4xkUZt7M5RxYOmx"
+    },
+    {
+      "id": "2018-class_6-charupath-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1n0L7veA_kGa9GsF9vyCUo14yZXoVfZ5m"
+    },
+    {
+      "id": "2018-class_6-charupath-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "চারুপাঠ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1n0L7veA_kGa9GsF9vyCUo14yZXoVfZ5m"
+    },
+    {
+      "id": "2018-class_6-charupath-bangla-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "চারুপাঠ (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PRp4uhiCOXsVTJhMrOrKzfP6oCFZQFxe"
+    },
+    {
+      "id": "2018-class_6-tthj-o-jogajog-prjukti-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1WeO_DpiK9CBiEapskDg_TSJEcseI4-2A"
+    },
+    {
+      "id": "2018-class_6-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Ko-OOHYyZ-bfPn2Uihi7j_7EZ2uJNpfB"
+    },
+    {
+      "id": "2018-class_6-tthj-o-jogajog-prjukti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1ydQbm-6IMBNBtM90O_VPORUmbZLBLr-t"
+    },
+    {
+      "id": "2018-class_6-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YsbVrMRPs69ABn5kZ7WeX5iXpOZxb_cf"
+    },
+    {
+      "id": "2018-class_6-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1o97sg-_Z1EA2diaJQIT-F4d7qAWX4jKV"
+    },
+    {
+      "id": "2018-class_6-bangla-bjakrn-o-nirmiti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1o97sg-_Z1EA2diaJQIT-F4d7qAWX4jKV"
+    },
+    {
+      "id": "2018-class_6-bangladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YFOugqnqoSxXZx09-a_yd4Bww7i_0_j3"
+    },
+    {
+      "id": "2018-class_6-bangladesh-o-bishbprichj-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=18Dd3PQ4Gu6wCyUs42SzMeFxDSZpBb2lN"
+    },
+    {
+      "id": "2018-class_6-bangladesh-o-bishbprichj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1CMo-wM85wvqjFPedozLOTfLwMuZV2Q94"
+    },
+    {
+      "id": "2018-class_6-bijnan-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=11sED9NrDCJ1fp3NTl_CBQ67tyMVzin9l"
+    },
+    {
+      "id": "2018-class_6-bijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1cTYLGIAy6HsBcbo4rPLehFoJpIK5xLuy"
+    },
+    {
+      "id": "2018-class_6-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1lFfmfDkVx2wi63vLhKrtTfc5a2Id8zxV"
+    },
+    {
+      "id": "2018-class_6-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=125lJEN2aHdbPU2puuT7jU8mQRJgus2_0"
+    },
+    {
+      "id": "2018-class_6-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=14tV1T1JrBk34vNHL2-F_4Yf8fvNtVeli"
+    },
+    {
+      "id": "2018-class_6-sharirik-shiksha-o-sbasthj-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1J61J_wraY5IK3fGYOyHl7-9XCEW3AWFp"
+    },
+    {
+      "id": "2018-class_6-sharirik-shiksha-o-sbasthj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=12YmqDDpwR-0RTePO9vemjN4tRK4z0lae"
+    },
+    {
+      "id": "2018-class_6-sadharn-bijnan-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "সাধারণ বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1hL5HePAOncEfEsHhNWV_lDmXspk9CfoJ"
+    },
+    {
+      "id": "2018-class_6-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=18Ij8mwaJOK_jRv25qp3Ysj4DY-YEF2mv"
+    },
+    {
+      "id": "2018-class_6-hindudhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_6",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=113RY244qAr2FHJZ1FY0BijJGLHi3Otol"
+    },
+    {
+      "id": "2018-class_7-english-grammar-and-composition-en",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=15mLmKZeyvpElIvq1_d9qF4pqLQe-P89_"
+    },
+    {
+      "id": "2018-class_7-english-for-today-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1VAamLGfZsido46So5-_CZZRPr3BxkJcQ"
+    },
+    {
+      "id": "2018-class_7-english-for-today-en",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=17q98nt24tgGkJ4sCmmGPJ3Xmg4n6Xyxj"
+    },
+    {
+      "id": "2018-class_7-english-for-today-en-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1VAamLGfZsido46So5-_CZZRPr3BxkJcQ"
+    },
+    {
+      "id": "2018-class_7-annd-path-bangla-drut-pthn-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1xlKZ6HELOSoKcL4F-jWIfzpVprAyabi0"
+    },
+    {
+      "id": "2018-class_7-annd-path-bangla-drut-pthn-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1xlKZ6HELOSoKcL4F-jWIfzpVprAyabi0"
+    },
+    {
+      "id": "2018-class_7-al-akajed-ojal-phikh-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1vlJDAUjITFREIcayN3PY3M9G0YtX3JHk"
+    },
+    {
+      "id": "2018-class_7-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=11txuaWhjgYCh8_TJK3aCoxJLDkMrmixV"
+    },
+    {
+      "id": "2018-class_7-islam-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1RHm0JjUuW0uI6IzrU_9xIvYDrnpZPVmk"
+    },
+    {
+      "id": "2018-class_7-islam-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=14ixfN5Q-gJIr9smqWCQn6WMbhcCq2Uim"
+    },
+    {
+      "id": "2018-class_7-krm-o-jibnmuki-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1flMFI6ey9fadcKeYNTQ5CCf1SRAdty4f"
+    },
+    {
+      "id": "2018-class_7-krm-o-jibnmuki-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1tu7XWTe6P18vKePgdRHYMPKhAUGQNvRl"
+    },
+    {
+      "id": "2018-class_7-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1BB56eCRJtbBWaQ9-0jngQnBDjWME1bBZ"
+    },
+    {
+      "id": "2018-class_7-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1UasDBrtZgenc0-B05bmev9IzBkmIuC_-"
+    },
+    {
+      "id": "2018-class_7-krishi-shiksha-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17uF1qkvQiz_s6Q7S1SUiCizkyyNYUrE-"
+    },
+    {
+      "id": "2018-class_7-krishi-shiksha-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=14mB7btgK0iZgF3hcg3I1zX1oNey3g7m0"
+    },
+    {
+      "id": "2018-class_7-krishi-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "কৃষি শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1laW6xBQqbZ3SDriZa9Q-XQJcS5IXqVtq"
+    },
+    {
+      "id": "2018-class_7-koran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1euU8XEKBO_hjC1vhPpjdYe5_rvP_RMcd"
+    },
+    {
+      "id": "2018-class_7-kshudr-nrigoshthir-bhasha-o-sngskriti-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1LzMhDGFDqGRIGkBvrOCPdra7LouRKhuC"
+    },
+    {
+      "id": "2018-class_7-kshudr-nrigoshthir-bhasha-o-sngskriti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ক্ষুদ্র নৃগোষ্ঠীর ভাষা ও সংস্কৃতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1jbvhNXzitfRlxZZATHf4BkfC6rDwZ2Yn"
+    },
+    {
+      "id": "2018-class_7-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1yWgiHsgZG9kS05Reu2j11Rj3Bn1dNWss"
+    },
+    {
+      "id": "2018-class_7-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1_VUJPbCz6Pfd6wMt1avBXC54OMF1WDAv"
+    },
+    {
+      "id": "2018-class_7-gnit-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1509Gnk3moTzi2U-P_ikWWupjkU-r3ZMS"
+    },
+    {
+      "id": "2018-class_7-gnit-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=14U6yHDbIc0zo4_7UJCGUYimMG7K7lfJJ"
+    },
+    {
+      "id": "2018-class_7-gnit-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Wn_K5QG5pW9BGmyq8MLrlC5JUDXwuVJr"
+    },
+    {
+      "id": "2018-class_7-garhsthj-bijnan-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1bb7Rk1yVmXEkBonBwQ6kpA2-Kh2YIasQ"
+    },
+    {
+      "id": "2018-class_7-garhsthj-bijnan-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ciHGU5ESiZkfT7RWZtDB-lB_0OyK3TPe"
+    },
+    {
+      "id": "2018-class_7-garhsthj-bijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1slTmch4X-OXtqWZV7-shJp5V8MgFRV2Q"
+    },
+    {
+      "id": "2018-class_7-tthj-o-jogajog-prjukti-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1lv132DVEHUK5NqcosuVkbRnHZhXIJJVQ"
+    },
+    {
+      "id": "2018-class_7-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1NTBuINKvJEPrYj-3rY-GfdWxUrOX8hTy"
+    },
+    {
+      "id": "2018-class_7-tthj-o-jogajog-prjukti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1TIgGi-CqfWOtIGCIQeC7xX6O_sGh0qiU"
+    },
+    {
+      "id": "2018-class_7-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-ehthy8_V8W2p1HFfZiHumcxjXJM7DNP"
+    },
+    {
+      "id": "2018-class_7-bangla-bjkrn-o-nirmiti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1-ehthy8_V8W2p1HFfZiHumcxjXJM7DNP"
+    },
+    {
+      "id": "2018-class_7-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1AJkPb85WXQwN2Pvh97-v9vpNF4CFVNpJ"
+    },
+    {
+      "id": "2018-class_7-bangladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ty_IUq0Pkca5kshCzOU0xRMMtT9p6oEL"
+    },
+    {
+      "id": "2018-class_7-bangladesh-o-bishbprichj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1GWzP7MZYf7yxVffsVKO0DvbQnFsMJvX7"
+    },
+    {
+      "id": "2018-class_7-baladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বালাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1OzSBhFRKuA2Jt4s4yLY6vG1r5QjIutcn"
+    },
+    {
+      "id": "2018-class_7-bijnan-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1TEiy1q1VdVIunQLn7s373Qb_lNlaeZ70"
+    },
+    {
+      "id": "2018-class_7-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17PDE7QM4urGOyBhCzAfAO83Jr7qRgTpo"
+    },
+    {
+      "id": "2018-class_7-sharirik-shiksha-o-sbasthj-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=11F8IGJuw5XN5zuCHuX9CDwV9Z5vq-Vws"
+    },
+    {
+      "id": "2018-class_7-sharirik-shiksha-o-sbasthj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1WKjMLNbtdSs_JZChSGjlWIrP1Hyp5m0U"
+    },
+    {
+      "id": "2018-class_7-sptbrna-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dqZB9qmrd8c63DJN9McjHZhSZuTLnA-h"
+    },
+    {
+      "id": "2018-class_7-sptbrna-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1dqZB9qmrd8c63DJN9McjHZhSZuTLnA-h"
+    },
+    {
+      "id": "2018-class_7-sptbrna-bangla-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1zPI1ON8u3_31MmL4R5fpYL-GNiTSAk0k"
+    },
+    {
+      "id": "2018-class_8-english-grammar-and-composition-en",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1xI94164b_fcBi2mNa2VTM7z6xnShZ32M"
+    },
+    {
+      "id": "2018-class_8-english-grammer-and-composition-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1DYpk411h34K6GKPjvq59-fRTpvw32VhA"
+    },
+    {
+      "id": "2018-class_8-english-grammer-and-composition-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1DYpk411h34K6GKPjvq59-fRTpvw32VhA"
+    },
+    {
+      "id": "2018-class_8-english-for-today-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1US4ZF6tcF4agIcth114_79XQETP6Hsbz"
+    },
+    {
+      "id": "2018-class_8-english-for-today-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1US4ZF6tcF4agIcth114_79XQETP6Hsbz"
+    },
+    {
+      "id": "2018-class_8-english-for-today-en-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1WFGa8RfBP63CQxqb-FMCW38Ici1ZdFGh"
+    },
+    {
+      "id": "2018-class_8-annd-path-bangla-drut-pthn-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1V0SIQg2nFOCk0uDfMPF0dxsxdNn51OVB"
+    },
+    {
+      "id": "2018-class_8-annd-path-bangla-drut-pthn-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1V0SIQg2nFOCk0uDfMPF0dxsxdNn51OVB"
+    },
+    {
+      "id": "2018-class_8-al-akajed-ojal-phikh-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1SHY5JX4UsexSr6-gvxZGsVgL-3viMYZp"
+    },
+    {
+      "id": "2018-class_8-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1cN9JSxC06T9-S80bp3YNa_2I2oYggkyS"
+    },
+    {
+      "id": "2018-class_8-islam-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YQlaa6rsPxO3EVHZReghh9BQt1lW63-t"
+    },
+    {
+      "id": "2018-class_8-islam-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1SOsHO2SiKglp75hesxYIPHUv0L4BUF2P"
+    },
+    {
+      "id": "2018-class_8-krm-o-jibnmuki-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1cwMCSlb-bdhBUhmEKausu-NEWIhpFop2"
+    },
+    {
+      "id": "2018-class_8-krm-o-jibnmuki-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুকী শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1nF5n7G5G8bRDT0ichWyVPnC_sZ3A0CF6"
+    },
+    {
+      "id": "2018-class_8-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1zGoZ-5i_IKkBZsFc5QSLLKx7Ez_1881W"
+    },
+    {
+      "id": "2018-class_8-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1KoG_kye1LjppFPv_0yk-OKhxHA8S7G-7"
+    },
+    {
+      "id": "2018-class_8-krishi-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10N0QCM52NyOZhXR8t_qrRcjufgvsPhQw"
+    },
+    {
+      "id": "2018-class_8-krishi-shiksha-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1uuf_y4HJcZiNkyOoxEU32FtXr8W0hGFP"
+    },
+    {
+      "id": "2018-class_8-krishi-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1i1DktjJCB6B9YNX-U6hNPf8jp3Z68CxA"
+    },
+    {
+      "id": "2018-class_8-koran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1kTwFr765zHxYu7AyyQJAsEXS17HiKdyi"
+    },
+    {
+      "id": "2018-class_8-khrishtan-dhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "খ্রিষ্টান ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PP-5sdCAFEgObScFK41cGr5bpNWmd1J_"
+    },
+    {
+      "id": "2018-class_8-khrishtan-dhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "খ্রিষ্টান ধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1UVj7r1E1aY5Xt_gHS8IpexMkC44JgNl2"
+    },
+    {
+      "id": "2018-class_8-gnit-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=15oO-ygDQeXIyskE8-DlFSqEhu2r6Vmyp"
+    },
+    {
+      "id": "2018-class_8-gnit-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1zKt1vxlZ9zvMSbAl6MfuODBpt64Mz8Y2"
+    },
+    {
+      "id": "2018-class_8-gnit-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Zzwkko1nnUr7YCAPj0MFvAYP1x3n3zKm"
+    },
+    {
+      "id": "2018-class_8-garhsthj-bijnan-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Ud4jhd8iwskJ3DfmWpBedngFDyVBMKz6"
+    },
+    {
+      "id": "2018-class_8-garhsthj-bijnan-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1gFZhjj7PJORDPAWzTIg95BaJYvF48bxQ"
+    },
+    {
+      "id": "2018-class_8-garhsthj-bijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Fcys01g6T1AM-vCexV-dkZy_DmLpv9ll"
+    },
+    {
+      "id": "2018-class_8-charu-o-karukla-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1z-ld8tDD9e1bguacoTnOIwV2IjItmVFg"
+    },
+    {
+      "id": "2018-class_8-charu-o-karukla-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "চারু ও কারুকলা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1OryJao2AYpYlPseqZznP0ySawvRhBfMf"
+    },
+    {
+      "id": "2018-class_8-tthj-o-jogajog-prjukti-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1JHOy05cRGg3dYAa1ygB1g2mEHUqFqCYS"
+    },
+    {
+      "id": "2018-class_8-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-fdxYV-k0KdeLz5R2ekKY6T8_hFuUEg8"
+    },
+    {
+      "id": "2018-class_8-tthj-o-jogajog-prjukti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1E5kXkyLpOKVYVvhf_SbwA7uL7TnP5iI8"
+    },
+    {
+      "id": "2018-class_8-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1OfbpKNEIww609cB5OXeuRs03HlXHm89K"
+    },
+    {
+      "id": "2018-class_8-bangla-bjkrn-o-nirmiti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1OfbpKNEIww609cB5OXeuRs03HlXHm89K"
+    },
+    {
+      "id": "2018-class_8-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=15X5WUnhiRk_1FNcDBLzQPsicmBiy6wHW"
+    },
+    {
+      "id": "2018-class_8-bangladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1htkoe4mAWv5_NedcPUNIWK6NtvGCKm7P"
+    },
+    {
+      "id": "2018-class_8-bangladesh-o-bishbprichj-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1jaARNcMYZ5L7HuvuRmQ8UiieBW0pKKrK"
+    },
+    {
+      "id": "2018-class_8-bangladesh-o-bishbprichj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Wy3__v1lrhdqwcMfpyveBldb8h9bQ74S"
+    },
+    {
+      "id": "2018-class_8-bijnan-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Yk6-YxcVIQV_UuZLOnTwLyTUQZWOiZPV"
+    },
+    {
+      "id": "2018-class_8-bijnan-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1yonTlicE1P4f5Ejpr8ZgmrMIuL2oDkYx"
+    },
+    {
+      "id": "2018-class_8-bijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1h02LymsoQLVNZVkxntXu-_K7Dc-snY6a"
+    },
+    {
+      "id": "2018-class_8-bouddh-dhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বৌদ্ধ ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1cGKOJCsSZRvlopCCTl5hPmUL-PC7UqG5"
+    },
+    {
+      "id": "2018-class_8-bouddh-dhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বৌদ্ধ ধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1hA5D1nnKlt5SoV6bZ8nKDENtv4E0FVfH"
+    },
+    {
+      "id": "2018-class_8-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1BqA9lSm4vNnW6V3DZ0S5bVCjB5jEcr9H"
+    },
+    {
+      "id": "2018-class_8-sharirik-shiksha-o-sbasthj-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=16fsm3tpUnJo4dpI0HC7Ej6Pcj-pLjmj5"
+    },
+    {
+      "id": "2018-class_8-sharirik-shiksha-o-sbasthj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1W8jepbeCXTOvFM33yiEnl1RxaQkXaxx9"
+    },
+    {
+      "id": "2018-class_8-sahitj-knika-bangla-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "সাহিত্য কণিকা (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1VUGHNLKtirVPFHzzBdjq1bJZyy6Mw13c"
+    },
+    {
+      "id": "2018-class_8-sahitj-knika-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য কনিকা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1LYCHgF0csROBwwP1z0pv0fOTmMtGLKQE"
+    },
+    {
+      "id": "2018-class_8-sahitj-knika-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য কনিকা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1LYCHgF0csROBwwP1z0pv0fOTmMtGLKQE"
+    },
+    {
+      "id": "2018-class_8-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1sMk4Rr5pH3dvVOpq1261EfYccx95ZKgo"
+    },
+    {
+      "id": "2018-class_8-hindudhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=11B-ligSHgu_WuIPIAKY_zZZaMwQWuDiX"
+    },
+    {
+      "id": "2018-class_9-english-grammar-and-composition-en",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=13yXI0VLWJWWYEDIofc7fJ2t3hDqLcHIr"
+    },
+    {
+      "id": "2018-class_9-english-grammar-and-composition-en-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1x4Xbw6VUzPJVVEoquPet2Yzh5SREpcLN"
+    },
+    {
+      "id": "2018-class_9-english-for-toady-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English for Toady",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1WS_5YsT7e6vTvv3e1VFEixnOGM1FaTM3"
+    },
+    {
+      "id": "2018-class_9-english-for-toady-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English for Toady",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1WS_5YsT7e6vTvv3e1VFEixnOGM1FaTM3"
+    },
+    {
+      "id": "2018-class_9-english-for-today-en",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1A0auF9nm519ao4Bq28gK60Op-0fIRa09"
+    },
+    {
+      "id": "2018-class_9-enlish-grammer-and-composition-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "Enlish Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mqsaGSTiB5Z0a7jYkbrKuDpPGFEj4ga5"
+    },
+    {
+      "id": "2018-class_9-enlish-grammer-and-composition-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "Enlish Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1mqsaGSTiB5Z0a7jYkbrKuDpPGFEj4ga5"
+    },
+    {
+      "id": "2018-class_9-otomotibh-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অটোমোটিভ- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1gjMqfHEo6YJQEskXaNMTMSltRnFzsDu5"
+    },
+    {
+      "id": "2018-class_9-orthniti-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "অর্থনীতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1DskdTcZF5zOv8vTqJ6QEO5e5GCheWflQ"
+    },
+    {
+      "id": "2018-class_9-orthniti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "অর্থনীতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1D47PzLXIYmg7-hxyHNtgG7rPlbF1hMNP"
+    },
+    {
+      "id": "2018-class_9-akajed-o-phikh-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আকায়েদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1I5dqYsjxhHptjJCvi9QWxg_zQzLqre_J"
+    },
+    {
+      "id": "2018-class_9-al-akajed-ojal-phikh-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1plHoF2nZXnelWPc4H5YCWVS9DzBme6Y2"
+    },
+    {
+      "id": "2018-class_9-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=13FyFD7QEweoGxaxoz5i9NL8WDZCy6KvU"
+    },
+    {
+      "id": "2018-class_9-al-lugatul-arabijatul-ittesalija-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17qkkguBFXSUyc1qOzqqz1XuoGwr6uTrb"
+    },
+    {
+      "id": "2018-class_9-islam-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1SGuRZO5kt8F_zxc5b9RDLwUubiOfTf-S"
+    },
+    {
+      "id": "2018-class_9-islam-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1YIobMEj8PGbctRJKpH_eCkUZ2SuATu0E"
+    },
+    {
+      "id": "2018-class_9-islamer-itihas-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ইসলামের ইতিহাস",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Y4N2fnUCq_27MD73etruJAAlAKrAdppg"
+    },
+    {
+      "id": "2018-class_9-islamer-itihas-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ইসলামের ইতিহাস",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1tsKX9NF1OK312Ynftm8lLi5xqBYyMSBJ"
+    },
+    {
+      "id": "2018-class_9-uchchtr-gnit-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=18sfRcXZMjHsCwneAMpexsLDu5nQBKpQ2"
+    },
+    {
+      "id": "2018-class_9-uchchtr-gnit-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1gL8g0QrjMKYG1kRMsocm0ar9Cm6HxOYe"
+    },
+    {
+      "id": "2018-class_9-uchchtr-gnit-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1cUuDwrVJsc46dcgsxPCsBRvPYaf9AUur"
+    },
+    {
+      "id": "2018-class_9-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mcmsB6dP7oeeE7TK0RfYlEvVdGIa75vu"
+    },
+    {
+      "id": "2018-class_9-kaojaidul-lugatil-arabijjah-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_SV1JsNgYccXkc7Mrrv0ysjqF5yhVLNB"
+    },
+    {
+      "id": "2018-class_9-krishi-shiksha-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1sKKslQtZooMHcdso6v0B11hABpr9nHTd"
+    },
+    {
+      "id": "2018-class_9-krishi-shiksha-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PHJFz-oLhHraRJa48kacu2Ks1nTWgwT8"
+    },
+    {
+      "id": "2018-class_9-krishishiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "কৃষিশিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1nqK6IvBc3-RqJ9aDB279T0qSXULHjYoM"
+    },
+    {
+      "id": "2018-class_9-krishishiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "কৃষিশিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1ED_kinvTfmFOAZLp9dEudOwhBjEpqdCk"
+    },
+    {
+      "id": "2018-class_9-koran-majid-o-tajbhid-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1zlBEvzIsBkIMp2YKsiCB2skpo0WWpJNR"
+    },
+    {
+      "id": "2018-class_9-koran-majid-o-tajbhid-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1lEcoHqLKAZaHmYsOOXka3Ufte31w1sl8"
+    },
+    {
+      "id": "2018-class_9-kjarijar-edukeshn-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার এডুকেশন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1iWusPl4KTR8drhMnvs2Y8n-mZR8Tb8YP"
+    },
+    {
+      "id": "2018-class_9-kjarijar-edukeshn-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার এডুকেশন",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Uw3z-6Lr1Js4I9CgxZp0fcqjgp73m5Nl"
+    },
+    {
+      "id": "2018-class_9-kjarijar-shiksha-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1tecQEj-R9CUYXy_Rx29W2DHzz5cdkUqO"
+    },
+    {
+      "id": "2018-class_9-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1gxxiG2sUayax4QIhpAzWUJc4Y2MkA6F5"
+    },
+    {
+      "id": "2018-class_9-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1-pRYjPtFKS5pLqXJMPz93ud8EGRqgY3v"
+    },
+    {
+      "id": "2018-class_9-gnit-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1o527j6yRgxkykJMuv4X8Xz1mVQoYXEQZ"
+    },
+    {
+      "id": "2018-class_9-gnit-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=12E6qEgPnF9AwYDwRg24IYwfr8U82MnE5"
+    },
+    {
+      "id": "2018-class_9-gnit-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1H_0G-hzxutLgjlG9FmAE5tWo1pb5jc5N"
+    },
+    {
+      "id": "2018-class_9-garhsthj-bijnan-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1VLMdZWKsd6IV9ZN_WoAigMWReopoaUT_"
+    },
+    {
+      "id": "2018-class_9-garhsthj-bijnan-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Sr_6gXFsk349HpX27m9rLpckJir7Eqoj"
+    },
+    {
+      "id": "2018-class_9-garhsthj-bijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1ViGTF8p1NxN8q8ZRmpbNyp8GvVqOQQS4"
+    },
+    {
+      "id": "2018-class_9-charu-o-karukla-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1BorMFEXmJ48sE5O5_gOXt34OU_K36Ysy"
+    },
+    {
+      "id": "2018-class_9-charu-o-karukla-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "চারু ও কারুকলা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1ByfNJP4CKIuxku_QOWtyEYYjlBLyJBER"
+    },
+    {
+      "id": "2018-class_9-jib-bijnan-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "জীব বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1CIwAWn6MnTBVt_3iq1dNbfKECQl9DQrX"
+    },
+    {
+      "id": "2018-class_9-jibbijnan-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "জীববিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1DR37jrZTU7RgyAugr546F-KaUt2RLQlB"
+    },
+    {
+      "id": "2018-class_9-jibbijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "জীববিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1vYHk3EHsJAqIClpPPkcsUKMxebPXPF7M"
+    },
+    {
+      "id": "2018-class_9-jenarel-ilektrniks-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=18R3GKMsaFoSoioHcYZxm6jchUZcjwwB5"
+    },
+    {
+      "id": "2018-class_9-jenarel-ilektrniks-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1vPeqrpXQY3s1YPEbwARPeoCakkfUpd-x"
+    },
+    {
+      "id": "2018-class_9-jenarel-ilektrikjal-ojarks-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1jb-ygGnWbr-2LlehG4_IrQHS1bKDdcSu"
+    },
+    {
+      "id": "2018-class_9-jenarel-ilektrikjal-ojarks-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1p0MWLnrGenAzpjVDfLdTs0-gl-Fl5f0T"
+    },
+    {
+      "id": "2018-class_9-jenarel-mekaniks-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স- ১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1bGrtm8jDVFPt6Z5qYUjcrd8-YIaTWpjr"
+    },
+    {
+      "id": "2018-class_9-jenarel-mekaniks-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Z7xWD-w-jxGrt_AG8uo6cfud-qY0aGh9"
+    },
+    {
+      "id": "2018-class_9-jenarel-mekaniks-2-bn-2",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dYLuEhLuJmn45BdUckmKnW0cIWgBF3aD"
+    },
+    {
+      "id": "2018-class_9-dres-meking-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ড্রেস মেকিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_7BsJSx3k1tYxBpguaOx2s6mQkflwhpf"
+    },
+    {
+      "id": "2018-class_9-dres-meking-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ড্রেস মেকিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1LnJ9Ab6QMmku4A70kOTI4Yt45qyHbqZb"
+    },
+    {
+      "id": "2018-class_9-tthj-o-jogajog-prjukti-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1EwOUxnHcDZTEv60JTRveN5x39cM18Khs"
+    },
+    {
+      "id": "2018-class_9-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1zXAwRk211Mxtn8_wZ0Fd5fMYqkUQAyGK"
+    },
+    {
+      "id": "2018-class_9-tthj-o-jogajog-prjukti-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1yHD6oYdJBFViUUiHSk607xH-gyegVn5U"
+    },
+    {
+      "id": "2018-class_9-pdarth-bijnan-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পদার্থ বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Aqd8qTuQ6VigkFL_vUMDqo92oR15hWxp"
+    },
+    {
+      "id": "2018-class_9-pdarthbijnan-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পদার্থবিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=13_O8QxKeb-n1Uzedizp-DOF3W308ooH8"
+    },
+    {
+      "id": "2018-class_9-pdarthbijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পদার্থবিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1gqaW9xo1f6oETLQB51y3MEYya6_6tOtM"
+    },
+    {
+      "id": "2018-class_9-peshent-kejar-teknik-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-১",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2018-class_9-peshent-kejar-teknik-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-২",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2018-class_9-poltri-rijaring-ojand-pharming-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1SKzGp6NpYXc5Rhw8pVFQI2HQQGsLm-iV"
+    },
+    {
+      "id": "2018-class_9-poltri-rijaring-ojand-pharming-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1R9PBwjGkWX0hanQwUm0mlMB42ZsJdQUB"
+    },
+    {
+      "id": "2018-class_9-pourniti-o-nagrikta-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1EhsCLPHBOvH080-4PUm56xhlypM7iYGU"
+    },
+    {
+      "id": "2018-class_9-pourniti-o-nagrikta-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1OjWeo3H04-N9LIoElIX9rMQcZ0Mi6PLL"
+    },
+    {
+      "id": "2018-class_9-pourniti-o-nagrikta-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1jm9fjkvvRalxHqrGfdmO4BJy42gofIyS"
+    },
+    {
+      "id": "2018-class_9-phinjans-o-bjangking-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ফিন্যান্স ও ব্যাংকিং",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1VQIL3CigKSQDZgyXQ4Eg5qQwWP4ydB_Y"
+    },
+    {
+      "id": "2018-class_9-phinjans-o-bjangking-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ফিন্যান্স ও ব্যাংকিং",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1alHl-uUiRaCQdqKNR2dTLXKyg4pbtNgm"
+    },
+    {
+      "id": "2018-class_9-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1APuLjjlAlZQIvrrNUpVfkzEYXr7T0V_f"
+    },
+    {
+      "id": "2018-class_9-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ozYJxxO3H-88mT8IV1iDDMj76dyePWHm"
+    },
+    {
+      "id": "2018-class_9-bangla-bhashar-bjakrn-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যাকরণ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Lz44Rw9btpgvBONTWYtDiagkkBwj_QNw"
+    },
+    {
+      "id": "2018-class_9-bangla-bhashar-bjakrn-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যাকরণ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Lz44Rw9btpgvBONTWYtDiagkkBwj_QNw"
+    },
+    {
+      "id": "2018-class_9-bangla-shpath-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সহপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=18Ks9vG3sZZmsaYd9L5C43Di5mt_vfKQg"
+    },
+    {
+      "id": "2018-class_9-bangla-shpath-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সহপাঠ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Lz44Rw9btpgvBONTWYtDiagkkBwj_QNw"
+    },
+    {
+      "id": "2018-class_9-bangla-sahitj-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1klCy1_DGi0YiEE5J20xlT_DkWLVVGaN9"
+    },
+    {
+      "id": "2018-class_9-bangla-sahitj-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dOQAVB6usKCoZ7_4HXYvPq7Eb16ihi1z"
+    },
+    {
+      "id": "2018-class_9-bangla-sahitj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1dOQAVB6usKCoZ7_4HXYvPq7Eb16ihi1z"
+    },
+    {
+      "id": "2018-class_9-bangladesh-o-bishb-prichj-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্ব পরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Y0T-Fczzq8ya1QiKBSj002tmehf754fa"
+    },
+    {
+      "id": "2018-class_9-bangladesh-o-bishbprichj-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1uyR8Mv8elyfpCAMApgk9qH5OAX79qAI6"
+    },
+    {
+      "id": "2018-class_9-bangladesh-o-bishbprichj-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1WjwU8HfHqWxKtjPIb_imuftS6rS72ou-"
+    },
+    {
+      "id": "2018-class_9-bangladesher-itihas-o-bishbsbhjta-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1R2-EgZUQyoEn6o-FNAMkNbTDQ5-RsF3G"
+    },
+    {
+      "id": "2018-class_9-bangladesher-itihas-o-bishbsbhjta-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলাদেশের ইতিহাস ও বিশ্বসভ্যতা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1JFgWJCoizIJfIs-pEOTpkMNSvekGnqRu"
+    },
+    {
+      "id": "2018-class_9-bijnan-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dqBLi4oHTiduQTMIfb4Q3gP9eF9mpYA_"
+    },
+    {
+      "id": "2018-class_9-bijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1tz0naqydmplo5qce6_1-t9KOHpUxbiRV"
+    },
+    {
+      "id": "2018-class_9-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1r3StvhfdEZfmrNbWUrUSsiKCQy9-mOPJ"
+    },
+    {
+      "id": "2018-class_9-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Fc-LVHDJPK74pD90tc7fMgcelpozKuol"
+    },
+    {
+      "id": "2018-class_9-bjbsaj-udjog-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ব্যবসায় উদ্যোগ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dOrs-tzelAox1gZzQ9gcOg3yWlOCETbT"
+    },
+    {
+      "id": "2018-class_9-bjbsaj-udjog-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ব্যবসায় উদ্যোগ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1cDF5PNYvgbX5IzbpP0EubEpJ-fMMyGK0"
+    },
+    {
+      "id": "2018-class_9-bhugol-o-pribesh-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ভূগোল ও পরিবেশ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1a4CzNxSlT9-zsrH-B8yBwJPtxBxnES05"
+    },
+    {
+      "id": "2018-class_9-bhugol-o-pribesh-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ভূগোল ও পরিবেশ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1l4WMPO5cEI1pTxrS42lltxFvaNZSK5_x"
+    },
+    {
+      "id": "2018-class_9-mekanikjal-draphting-uith-kjad-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2018-class_9-mekanikjal-draphting-uith-kjad-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2018-class_9-meshin-tuls-opareshn-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন টুলস অপারেশন-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1tZnLdaapoaxOQxL3kqrgrH0vxkc5Hjx0"
+    },
+    {
+      "id": "2018-class_9-meshin-tuls-opareshn-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন টুলস অপারেশন-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1U6LotEwZo9pzI0cHtUgtMyQj888q43vA"
+    },
+    {
+      "id": "2018-class_9-rchna-smbhar-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রচনা সম্ভার",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1fN9JkQYADY_mcVvqTXohIYXTEkNZ98FN"
+    },
+    {
+      "id": "2018-class_9-rchnasmbhar-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রচনাসম্ভার",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1LasiQbTl2jpfhfF-Xarruc8BHY5ULrEZ"
+    },
+    {
+      "id": "2018-class_9-rchnasmbhar-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "রচনাসম্ভার",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1xDSbZ1MoB292vvokyKAYWso9DHdT1e9i"
+    },
+    {
+      "id": "2018-class_9-rchnasmbhar-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "রচনাসম্ভার",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1xDSbZ1MoB292vvokyKAYWso9DHdT1e9i"
+    },
+    {
+      "id": "2018-class_9-rsajn-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=14VoHnsrqk9pzvQwGWnCnDsQRcxNWvJsQ"
+    },
+    {
+      "id": "2018-class_9-rsajn-bn-2",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mmrqJcr5UC2FI8o0wz86EEwcoT5e9niU"
+    },
+    {
+      "id": "2018-class_9-rsajn-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1AEDsfC6i7e0m1c6nPvdv1ZoIVHsMMp16"
+    },
+    {
+      "id": "2018-class_9-rephrijareshn-ojand-ejarkndishning-1-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1D0qbDv62LbU_HEUbjMY-Gj5kBR_HVh9r"
+    },
+    {
+      "id": "2018-class_9-rephrijareshn-ojand-ejarkndishning-2-bn",
+      "year": 2018,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1hvPdujFpDcT-4DLkeWKIjXmwEvKgjEN4"
+    },
+    {
+      "id": "2018-class_9-sharirik-shiksha-sbasthj-bijnan-o-kheladhula-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "শারীরিক শিক্ষা, স্বাস্থ্য বিজ্ঞান ও খেলাধুলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10-H4s_2XQxi1hKWwv0nCfZ6Wm3k_DTXY"
+    },
+    {
+      "id": "2018-class_9-sharirik-shiksha-sbasthj-bijnan-o-kheladhula-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "শারীরিক শিক্ষা, স্বাস্থ্য বিজ্ঞান ও খেলাধুলা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1Uo55Vzx5JKwiUEliiI31ycQdIudwjSIs"
+    },
+    {
+      "id": "2018-class_9-sharirik-shiksha-sbasthjbijnan-o-kheladhula-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "শারীরিক শিক্ষা,স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_jo5X7HhitpM--fuAO-i48L38JbB6f1T"
+    },
+    {
+      "id": "2018-class_9-hadis-shrphi-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "হাদিস শরফি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1NogziMaWSg84he2xXeavTm_WAxIDoCx_"
+    },
+    {
+      "id": "2018-class_9-hadis-shriph-bn",
+      "year": 2018,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "হাদিস শরিফ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YBo1mRWpdR1JMm5bn4Rvb6fsCeIjxxPB"
+    },
+    {
+      "id": "2018-class_9-hindu-dhrm-o-noitik-shiksha-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Alql0pReE96mm3Cz_XhKuGuKGbFUSN78"
+    },
+    {
+      "id": "2018-class_9-hindu-dhrm-o-noitik-shiksha-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1nJWe95VWv4kLf56jD7xFIdYek3Ypc4fl"
+    },
+    {
+      "id": "2018-class_9-hisabbijnan-bn",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিসাববিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1gcJ2NbGABC52gRxMGFy8Ofp3iNU6IAwa"
+    },
+    {
+      "id": "2018-class_9-hisabbijnan-en",
+      "year": 2018,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিসাববিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1VISs8T0Db9mAZv0xSwvwj6gG53J_0dNu"
+    },
+    {
+      "id": "2018-class_11-english-for-today-en",
+      "year": 2018,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1Rt4XOOSiasPi2DtyU-HZn6BIGw9eGelz/view?usp=sharing"
+    },
+    {
+      "id": "2018-class_11-shpath-bn",
+      "year": 2018,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "সহপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=12DMrfgavWmTiHs17jNHslN3thMhZKJzl"
+    },
+    {
+      "id": "2018-class_11-sahitjpath-bn",
+      "year": 2018,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "সাহিত্যপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Dm4X7Vez7bIgIR_kxmbv8fYC6mXAEKUV"
+    },
+    {
+      "id": "2018-pre_primary-ambe-aro-do-bull-kruni-golpo-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "AMBE ARO DO&bull;KRUNI GOLPO",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1x3DXED8UNwYhGKG3oQpqxOQ1WcjAchGA"
+    },
+    {
+      "id": "2018-pre_primary-an-sengatani-atchu-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "AN.SENGATANI ATCHU",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=11d42j8IsYzm3pBVNJDjOiS7CPtBIRYYi"
+    },
+    {
+      "id": "2018-pre_primary-awang-bajalchi-re-anga-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "AWANG BAJALCHI RE.ANGA",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=15rcILjy1cEjSNBNwButTVe7cfAM7sqvd"
+    },
+    {
+      "id": "2018-pre_primary-bibal-balana-katchaani-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "BIBAL BALANA KATCHAANI",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1bts7IfFYqu8-__-Z3WgnDyo510Qy3fuA"
+    },
+    {
+      "id": "2018-pre_primary-borgoraja-o-trivujrani-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "BORGORAJA O TRIVUJRANI",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1HJ-_7kVgc1jeMCK7MloGnay1FVpwvQ0N"
+    },
+    {
+      "id": "2018-pre_primary-borgoraja-trivujrani-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Borgoraja Trivujrani",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1OZpQ3oj39qH5tYeQAgC925zuacUprlaZ"
+    },
+    {
+      "id": "2018-pre_primary-buju-ganang-sial-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Buju ganang sial",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1SldHD9ba831t7fgI6QhxdmV0sGje03qc"
+    },
+    {
+      "id": "2018-pre_primary-caca-bazare-jan-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Caca bazare jan",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1P2gbOIFSI_K2R3SImaf1uBiPnDqCUnFr"
+    },
+    {
+      "id": "2018-pre_primary-do-bull-pinchep-aro-uni-ripengrang-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "DO&bull;PINCHEP ARO UNI RIPENGRANG",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1JodsyjZuS72h1jnocx4p713G2AdfmQ-k"
+    },
+    {
+      "id": "2018-pre_primary-ful-fotar-anondo-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Ful Fotar anondo",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1oyeb5pUBvP2owDxBr2M2Ald09v97Mn1S"
+    },
+    {
+      "id": "2018-pre_primary-gong-bai-poyathop-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Gong bai Poyathop",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=154siXa2yzsh2cqZKBfp9STEEZw3gQrMi"
+    },
+    {
+      "id": "2018-pre_primary-hadulsa-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Hadulsa",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1LEWW9KJ_qNp4IEi-xmw_Eh62iZAyNOzQ"
+    },
+    {
+      "id": "2018-pre_primary-khusi-salsa-kusumpuro-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "KHUSI SALSA KUSUMPURO",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1xcQJcnQkEWTADDkdQyTBUbAUoQLTbgUa"
+    },
+    {
+      "id": "2018-pre_primary-kising-aro-chipu-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "KISING ARO CHIPU",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=19OtgOgWNKH111DeL3nI4mUU7TL0bSUKT"
+    },
+    {
+      "id": "2018-pre_primary-khusi-ek-din-kusupure-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Khusi ek din kusupure",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1bA4qK3bOqCQ2z60o3drrIc040EvRhb4p"
+    },
+    {
+      "id": "2018-pre_primary-masandwi-bai-mayung-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Masandwi bai Mayung",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1uf1EUu-shdVRYxknEseGW6n4yaxjSykq"
+    },
+    {
+      "id": "2018-pre_primary-mwsa-bai-kerang-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Mwsa bai Kerang",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1v1kEC07Gt5XsfLdAQpExgKouFuQLTMPQ"
+    },
+    {
+      "id": "2018-pre_primary-pakmari-aro-bibal-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "PAKMARI ARO BIBAL",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1UoeH60YxPXRMKJ-CU1d17gnrp-8zIJoy"
+    },
+    {
+      "id": "2018-pre_primary-sonani-bitchi-chi-gipa-gagak-gangsi-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "SONANI BITCHI CHI.GIPA GAGAK GANGSI",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=1fNzf5h20m-t8Ni6Q3ewavSRsdPTyfg7w"
+    },
+    {
+      "id": "2018-pre_primary-swicha-bai-tokla-en",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "Swicha bai Tokla",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/open?id=19v3LqhlPWCZSCftItfcGrqMPqVaTt7h6"
+    },
+    {
+      "id": "2018-pre_primary-otithi-pakhi-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "অতিথি পাখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1_aAeH6kSLuQVTvN9LkuFqAEHC-Wv6i_p"
+    },
+    {
+      "id": "2018-pre_primary-opuker-bilei-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "অপুকের বিলেই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1S3C6QmH0HWXs_LHhu8esBugzhJt6ll1J"
+    },
+    {
+      "id": "2018-pre_primary-amar-bi-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1WuloBalJaEz1_8_4tZ2ID4SpobFl58-7"
+    },
+    {
+      "id": "2018-pre_primary-amar-bi-bn-2",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1R0jdD8IeXkh1bJgGvV9K-JDVr_OQ33Jz"
+    },
+    {
+      "id": "2018-pre_primary-amar-bi-bn-3",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1abgbbTP5C6KZD4yc6W-vgSovF-vwpiHy"
+    },
+    {
+      "id": "2018-pre_primary-amar-bi-bn-4",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1abjHBaYBbMn_3ZgZlOOiffsQIxQ_WnMz"
+    },
+    {
+      "id": "2018-pre_primary-amar-bi-bn-5",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=15DaAmtsQj0VWAPhRk4tHHNAU-sjNJgPI"
+    },
+    {
+      "id": "2018-pre_primary-amar-bi-bn-6",
+      "year": 2018,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=13pnpan9P2ng5y55BbcMD_AefFK3100XC"
+    },
+    {
+      "id": "2018-pre_primary-rishi-ar-chutijar-gpp-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ঋষি আর চুটিয়ার গপ্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1co5tBj8rtyrvYjv5l0sVsTpgG-9hx4u5"
+    },
+    {
+      "id": "2018-pre_primary-eso-lkhite-shkhii-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "এসো লখিতে শখিি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1yxkZSrcxtiIsd8sTXlmozQm07C5y5kvR"
+    },
+    {
+      "id": "2018-pre_primary-eso-likhte-shikhi-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1RpT7h4hyEpsBNoAB5WdMzfgkGcq5nXMn"
+    },
+    {
+      "id": "2018-pre_primary-eso-likhte-shikhi-bn-2",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PjKiyhz-_gzcAkBXWeUBvNkMh_0vgwX9"
+    },
+    {
+      "id": "2018-pre_primary-eso-likhte-shikhi-bn-3",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1wszgGcC0mViNT66yHx4ansjmKT4E-UZ_"
+    },
+    {
+      "id": "2018-pre_primary-eso-likhte-shikhi-bn-4",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1NmE37SRND8kTcBQMZhxnrYPLpZh1jho_"
+    },
+    {
+      "id": "2018-pre_primary-eso-likhte-shikhi-bn-5",
+      "year": 2018,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YHWfC5xysZj84b2rnZIYX9MH1dUh1br2"
+    },
+    {
+      "id": "2018-pre_primary-kaha-hamar-maj-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "কাঁহা হামার মায়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10uk4UhusYDBqExalKlAhw82Xq2JtewoB"
+    },
+    {
+      "id": "2018-pre_primary-kak-hriner-bndhu-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "কাক হরিণের বন্ধু",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1dx-pf8LuJULpaWrIP736mpV3OS40IRc8"
+    },
+    {
+      "id": "2018-pre_primary-karam-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "কারাম",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1eCrx85U2xSS0D9kO1evtsVLhW_RClRZU"
+    },
+    {
+      "id": "2018-pre_primary-kuno-bjang-o-tuntuni-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "কুনো ব্যাঙ ও টুন্টুনি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1VbyMo4rMs-mVSBYrg1OPFen1N7hR-hQK"
+    },
+    {
+      "id": "2018-pre_primary-khushi-ekdin-kusumpure-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "খুশি একদিন কুসুমপুরে",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1MX6Z3Xz1BAi28CEJJJmMGO1hylqIv1J9"
+    },
+    {
+      "id": "2018-pre_primary-ghur-bedak-ek-din-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ঘুর বেড়াক এক দিন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ccTs-2kvI4wBQksgc5YOqA8Xr8fqXRQ7"
+    },
+    {
+      "id": "2018-pre_primary-chacha-bajaae-jan-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "চাচা বাজাাে যান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1jufEcQclUOk_qvEdkL1r4bmU2gprMM7a"
+    },
+    {
+      "id": "2018-pre_primary-char-bndhu-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "চার বন্ধু",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Ir8haQyqzA-psuZ6tRPbb1bMxkAz93ME"
+    },
+    {
+      "id": "2018-pre_primary-ting-tng-er-kand-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "টিং টং এর কান্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mshuVS7qiWwkWIFEf8-1Zn9tL9FknkAh"
+    },
+    {
+      "id": "2018-pre_primary-ting-tngker-kand-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "টিং টংকের কান্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1530-bjvz5p7wnNEfxznsXsgkOW6TkDQo"
+    },
+    {
+      "id": "2018-pre_primary-ting-tngker-glp-bn",
+      "year": 2018,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "টিং টংকের গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1fKJmAVQ2D_xIhU7JxV_0VReN2okSV2Qm"
+    },
+    {
+      "id": "2018-pre_primary-dulei-kumari-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "দুলেই কুমারী",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1R5uceLHLiv3sCaUkQem7snvVbnMAxkKA"
+    },
+    {
+      "id": "2018-pre_primary-phul-photar-an-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফুল ফোটার আন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Y-tsu4QIWbW9MvS5QGt11_yDfgVLclVs"
+    },
+    {
+      "id": "2018-pre_primary-phul-photar-annd-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফুল ফোটার আনন্দ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ISpvx0VlWV3kB3GerJDpCmbZDVZT46rk"
+    },
+    {
+      "id": "2018-pre_primary-phlpi-rchat-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্লপি র্চাট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Dw8SNxzmSZDB0bTJQgr7hOair8keM_yQ"
+    },
+    {
+      "id": "2018-pre_primary-phlip-chart-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1e8dWlUGRfiDVgb2ZFEKmqsthQZlkMh4r"
+    },
+    {
+      "id": "2018-pre_primary-phlip-chart-bn-2",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1h8zTg62QtNF2iGZ_t7Hn6NFIifRz0GxB"
+    },
+    {
+      "id": "2018-pre_primary-phlip-chart-bn-3",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-DQLxkPUY7FKuVvs-FgUqq50SZZGobpB"
+    },
+    {
+      "id": "2018-pre_primary-phlip-chart-bn-4",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=10nUX70wH8q9m92JeKMl7SMku6F6ptE_V"
+    },
+    {
+      "id": "2018-pre_primary-phlip-chart-bn-5",
+      "year": 2018,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YbeBTZBGk_8F-hZXPrGA7NFXbZzE8NI7"
+    },
+    {
+      "id": "2018-pre_primary-phljash-kard-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2018-pre_primary-phljash-kard-bn-2",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17QPOxJ1wUQINrh2-TXBkogPtihUmHJxB"
+    },
+    {
+      "id": "2018-pre_primary-phljash-kard-bn-3",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1ho0bnHqsGyVcJ3tCZlmy2USdC2iKiQ4l"
+    },
+    {
+      "id": "2018-pre_primary-phljash-kard-bn-4",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-uVYa8-8J0ti4b6wbtB_5r7JewoBBjKZ"
+    },
+    {
+      "id": "2018-pre_primary-phljash-kard-bn-5",
+      "year": 2018,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mMqdjfMUfJ8d3ZwIjXp5agFvQjWD5Ptm"
+    },
+    {
+      "id": "2018-pre_primary-phljash-rkad-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ র্কাড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=19bC_76qOtlrXujGuvQ9dMPyGPjvVgvDy"
+    },
+    {
+      "id": "2018-pre_primary-bker-glp-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "বকের গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1N2TmA6OScFz55r39QwdnBSmQkuycz6Py"
+    },
+    {
+      "id": "2018-pre_primary-bdjnke-snman-krte-hj-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "বড়জনকে সন্মান করতে হয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1V5vAYI5SzxDzm74s001mm8hHxC_ChDYI"
+    },
+    {
+      "id": "2018-pre_primary-brgraja-o-tribhjrani-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "বর্গরাজা ও ত্রিভজরানি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1xoO6UTwsv5op80K08wcccX-njjB5QtSq"
+    },
+    {
+      "id": "2018-pre_primary-brgraja-o-tribhujrani-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "বর্গরাজা ও ত্রিভুজরানি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=16BkgAUdHabbUWqgyePpP1pHa6rmazI5S"
+    },
+    {
+      "id": "2018-pre_primary-bagh-ar-shijar-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "বাঘ আর শিয়ার",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1-DrGotBzh3r6G_B3UpTxR8U2mclrmrmS"
+    },
+    {
+      "id": "2018-pre_primary-bandra-ar-kumhir-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "বানদরা আর কুমহির",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1QNxvd4vSiJ7KaYo6Xs197oELZ4N3Pwbq"
+    },
+    {
+      "id": "2018-pre_primary-bedanor-ekdin-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "বেড়ানোর একদিন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1DNaXesKP-d_MK4oxx_ZbRo6NYlRWr8wu"
+    },
+    {
+      "id": "2018-pre_primary-bjnjnchart-bn",
+      "year": 2018,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ব্যঞ্জণচার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YapmpgwHr4fdXKjz9sFd8ZIdqjNst11F"
+    },
+    {
+      "id": "2018-pre_primary-mjaker-mamu-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "মজাকের মামু",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1T60Y8rm4FgDWKoFC_qUu2lG26HWxT1VL"
+    },
+    {
+      "id": "2018-pre_primary-morg-o-kukurer-glp-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "মোরগ ও কুকুরের গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1yjEM81xeCk2id_0cA5BnosxSCX1BthML"
+    },
+    {
+      "id": "2018-pre_primary-lal-pokaker-gpp-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "লাল পোকাকের গপ্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1rkFzIxLS_p0Z_1KllZGbtbTFXMT_KOW1"
+    },
+    {
+      "id": "2018-pre_primary-lal-pokar-glp-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "লাল পোকার গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=19B6LMq7UHsOuAvplpzaou4M1jNtC5xcM"
+    },
+    {
+      "id": "2018-pre_primary-shkunraja-o-rajknjar-glp-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "শকুনরাজা ও রাজকন্যার গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1PVSp60rH80LOMvLAz-Syq3S2U2EP8OKl"
+    },
+    {
+      "id": "2018-pre_primary-shijaler-buddhi-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "শিয়ালের বুদ্ধি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1Tb7r-h8CIvCv8Y7SIme0JM8M3ecmtNZ_"
+    },
+    {
+      "id": "2018-pre_primary-shriphl-bn",
+      "year": 2018,
+      "level": "ethnic_minority",
+      "classId": "pre_primary",
+      "title": "শ্রীফল",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1xB30BcqB73PaI2TK1sLlNzGydFLHQetl"
+    },
+    {
+      "id": "2018-pre_primary-sbrbrn-chart-bn",
+      "year": 2018,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "স্বরবর্ণ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17F0yOZxR0U946R1OlYcCXVks0Ihn_vaO"
+    }
+  ]
+}

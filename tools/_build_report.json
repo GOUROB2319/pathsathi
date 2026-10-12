@@ -1,0 +1,2386 @@
+{
+ "total_html": 245,
+ "parsed_ok": 245,
+ "parse_errors": [],
+ "files_with_books": 244,
+ "files_kept_after_dedupe": 233,
+ "duplicate_files": [
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক",
+   "books_skipped": 14
+  },
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (চাকমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (চাকমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (চাকমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক",
+   "books_skipped": 14
+  },
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (ত্রিপুরা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (ত্রিপুরা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (ত্রিপুরা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক",
+   "books_skipped": 14
+  },
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (মারমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (মারমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (মারমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক",
+   "books_skipped": 15
+  },
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (সাদরি ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (সাদরি ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (সাদরি ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক",
+   "books_skipped": 14
+  },
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+   "books_skipped": 10
+  },
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির দ্বিতীয় শ্রেণির পাঠ্যপুস্তক",
+   "books_skipped": 15
+  },
+  {
+   "file": "2021\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির প্রথম শ্রেণির পাঠ্যপুস্তক",
+   "books_skipped": 15
+  },
+  {
+   "file": "2021\\২০২০-২১ শিক্ষাবর্ষের উচ্চ মাধ্যমিক স্তরের একাদশ-দ্বাদশ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2020\\২০২০-২১ শিক্ষাবর্ষের উচ্চ মাধ্যমিক স্তরের একাদশ-দ্বাদশ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২০-২১ শিক্ষাবর্ষের উচ্চ মাধ্যমিক স্তরের একাদশ-দ্বাদশ শ্রেণির পাঠ্যপুস্তক",
+   "books_skipped": 4
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2023\\২০২৪ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৪ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক",
+   "books_skipped": 18
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাক প্রাথমিক স্তরের পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের ক্ষুদ্র নৃ-গোষ্ঠীর প্রাক-প্রাথমিক স্তর.html",
+   "title": "২০২৫ শিক্ষাবর্ষের প্রাক প্রাথমিক স্তরের পাঠ্যপুস্তক",
+   "books_skipped": 2
+  }
+ ],
+ "clipped_files": [
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 19
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 19
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০১৮ শিক্ষাবর্ষের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 28
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের স্তরের ষষ্ঠ শ্রেণির বইয়ের পাঠ্যপুস্তক.html",
+   "title": "২০১৮ শিক্ষাবর্ষের স্তরের ষষ্ঠ শ্রেণির বইয়ের পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 30
+  },
+  {
+   "file": "2019\\২০১৯ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০১৯ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 17
+  },
+  {
+   "file": "2019\\২০১৯ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০১৯ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2019\\২০১৯ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০১৯ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 28
+  },
+  {
+   "file": "2019\\২০১৯ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির বইয়ের পাঠ্যপুস্তক.html",
+   "title": "২০১৯ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির বইয়ের পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 25
+  },
+  {
+   "file": "2020\\২০২০ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2020\\২০২০ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 28
+  },
+  {
+   "file": "2020\\২০২০ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির বইয়ের পাঠ্যপুস্তক.html",
+   "title": "২০২০ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির বইয়ের পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২১ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 30720,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 55
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২১ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২১ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 20480,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 52
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২১ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২২ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 17
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২২ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২২ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২২ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৩ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৩ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৪ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 20480,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 30
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৪ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 26
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৪ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের কারিগরি স্তরের ৯ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৫ শিক্ষাবর্ষের কারিগরি স্তরের ৯ম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 18
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের কারিগরি স্তরের ৯ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৬ শিক্ষাবর্ষের কারিগরি স্তরের ৯ম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 20480,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 41
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক",
+   "notes": [
+    {
+     "unclosed_table": true,
+     "incomplete_last_row_skipped": true,
+     "payload_bytes": 10240,
+     "payload_hits_10k_multiple": true
+    }
+   ],
+   "rows_recovered": 24
+  }
+ ],
+ "books_total": 3486,
+ "books_before_in_year_dedupe": 3549,
+ "in_year_duplicates_dropped": [
+  {
+   "title": "পেশেন্ট কেয়ার টেকনিক-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "পেশেন্ট কেয়ার টেকনিক-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1SKzGp6NpYXc5Rhw8pVFQI2HQQGsLm-iV",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1R9PBwjGkWX0hanQwUm0mlMB42ZsJdQUB",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "মেশিন টুলস অপারেশন-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1tZnLdaapoaxOQxL3kqrgrH0vxkc5Hjx0",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "মেশিন টুলস অপারেশন-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1U6LotEwZo9pzI0cHtUgtMyQj888q43vA",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1D0qbDv62LbU_HEUbjMY-Gj5kBR_HVh9r",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1hvPdujFpDcT-4DLkeWKIjXmwEvKgjEN4",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1p0MWLnrGenAzpjVDfLdTs0-gl-Fl5f0T",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "জেনারেল মেকানিক্স- ১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1bGrtm8jDVFPt6Z5qYUjcrd8-YIaTWpjr",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "জেনারেল ইলেকট্রনিক্স-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=18R3GKMsaFoSoioHcYZxm6jchUZcjwwB5",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "জেনারেল ইলেকট্রনিক্স-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1vPeqrpXQY3s1YPEbwARPeoCakkfUpd-x",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1jb-ygGnWbr-2LlehG4_IrQHS1bKDdcSu",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "ড্রেস মেকিং-১",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1_7BsJSx3k1tYxBpguaOx2s6mQkflwhpf",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "ড্রেস মেকিং-২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1LnJ9Ab6QMmku4A70kOTI4Yt45qyHbqZb",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "অটোমোটিভ- ২",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2018,
+   "pdfUrl": "https://drive.google.com/open?id=1gjMqfHEo6YJQEskXaNMTMSltRnFzsDu5",
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "classId": "class_4",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1n3TZcBdT8LQppREBDU3h6oOhTmlGlrY_/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_4",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1O6Uot8tmM1sktx875bablzbXoB83A1JK/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "classId": "class_2",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1VTG5E09kWhbMJGscXbbP0TUoxq_8DU64/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English for Today",
+   "language": "en",
+   "classId": "class_2",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1ztZFaOwbguKEwqZs_lvuyXsmJgMoUMgk/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "classId": "class_5",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1_l_RudEdfGF4bjPIAFHmkzkYpKPriFvK/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_5",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1mYMaa4iG8exP-HjtT_f7Jgss76o3Nd4H/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "classId": "class_1",
+   "year": 2025,
+   "pdfUrl": "http://drive.google.com/file/d/1XFeh1kDvWoBtYza8jft5cwrPVhEcseD5/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English for Today",
+   "language": "en",
+   "classId": "class_1",
+   "year": 2025,
+   "pdfUrl": "http://drive.google.com/file/d/1fEi4o-cRb-uIuXb0YllOylOLwPKg9003/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "classId": "class_8",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1fm9ocm4MA3n3SFRpX8KM8sNN0-8Wl_ap/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "classId": "class_8",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/117pXoJyf_LnJgxOy7R9-HcYMOGHeh2cq/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_8",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1N7E-_Dgd1xX5VC4GmJamf4Yo4VEzvTvu/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "classId": "class_8",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1MG0Kr84imLCw4gfAPKheQfxZo9JuQ611/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা সাহিত্য",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1EL_DZGQXh-w2qVVlHKo_BWOXkiPWGF3R/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা সহপাঠ",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1uNspy7qUYc8I8WffkaEVt9caBGlS_LCG/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/14pcG6SDel6AUzrPZk2qzUjJb_9HYt-sg/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_9",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1Y7ygihk1dAkbWcBbPG9oFU3F_CCZ1gGa/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "classId": "class_9",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1iVqQ5X3jw3UmnHKclSKkDyD4R2m9dY9J/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "চারুপাঠ",
+   "language": "bn",
+   "classId": "class_6",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1HMLLnPvoFbwdLUYOyuOYKkuTma6oI0gD/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_6",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1aX0Py2PLwSgh-NVUsTqfI0bqEplYo7WV/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "সপ্তবর্ণা",
+   "language": "bn",
+   "classId": "class_7",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/15IDsWA0wqIThNLuq8n9ijOsRwXUQJftp/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "classId": "class_7",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1CwvHeLDkUGJU8_r6ChsRSYNs2PBXhRCE/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "classId": "class_7",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1gWHxsoJk2BFQ03RmoPIkd-nn5-wZTvJC/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_7",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/1XTG6vE0RSM645eE5-XAKMirCzGUPPllz/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "classId": "class_7",
+   "year": 2025,
+   "pdfUrl": "https://drive.google.com/file/d/15Odrctw-rj3DAR94NKOZEq2jilXYvXw3/view?usp=drive_link",
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "classId": "class_3",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1Je1KylPoJBiYt-lW5qqaH8BszIk0VJVz/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_3",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1gy7q4njDpOKGULXzGQVvhq2ZGpZMOfif/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা সাহিত্য",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1yjdxHcyFeQLBKLD8tykuqGABh_CaCXIn/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা সহপাঠ",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1NqVcm3tt4olBGRPqi_tVksF__yknMNL8/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "classId": "class_9",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1yqoG73PYj6F8xlB-WTNfGSUk9Yf1z_tR/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_9",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/119HUFSrDZ9GrG_cLGAgVVzM4XMPkA_1g/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "classId": "class_9",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1bcIWidHEPsNpwx4Q9EXHdCbFA6HBQWbr/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "চারুপাঠ",
+   "language": "bn",
+   "classId": "class_6",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1jbIqeDMYPZMNIi0X54CLZ5DvJE_UChY9/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "classId": "class_6",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1tflfTwzd2s8maa45Vw7xjpShlQxQ3S0O/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "classId": "class_6",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1rQ3XbgX7azu9CWBvyWNtI8uB9PDa-DYX/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_6",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1MsLUFdmZoZ8qKSVH74rpXm-wQCHEESiB/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "classId": "class_6",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1WhdraA55PFWAigg2UcN9_LpQcy1lEMfe/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "সপ্তবর্ণা",
+   "language": "bn",
+   "classId": "class_7",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1ckEB1y0SGO10-pfmplYFbxEUlOAWZ6tx/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "classId": "class_7",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1Lny99FCqRPj0B1OkNE6TmuBVmlyIdht0/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "classId": "class_7",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1sjIDgfX268s2YwuFzVN9xD1-59V8el_L/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_7",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1Wtqc-MSvKsZoXX_oag7tTZpQ_VB8z8DG/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "classId": "class_7",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1ZGVzHw8KHYDxWTU_2m5JEDrhhW_bkyNF/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "সাহিত্য-কণিকা",
+   "language": "bn",
+   "classId": "class_8",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1CRDDFTH32XZoy78SrFQ3m8wUujbLeuFY/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "classId": "class_8",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1O0aS5cJsRDqc47nIWY2uVLqldAEZGtk-/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English For Today",
+   "language": "en",
+   "classId": "class_8",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1m7TlILofUr64YC61XBW96rhW0fvCI_dv/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html"
+  },
+  {
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "classId": "class_8",
+   "year": 2026,
+   "pdfUrl": "https://drive.google.com/file/d/1OfJd_F1uVMqE1KDaQHKhN3mQ-LcPm7rt/view?usp=drive_link",
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "same_as": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html"
+  }
+ ],
+ "written": [
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2017.json",
+   "year": 2017,
+   "books": 101
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2018.json",
+   "year": 2018,
+   "books": 437
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2019.json",
+   "year": 2019,
+   "books": 428
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2020.json",
+   "year": 2020,
+   "books": 469
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2021.json",
+   "year": 2021,
+   "books": 308
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2022.json",
+   "year": 2022,
+   "books": 391
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2023.json",
+   "year": 2023,
+   "books": 484
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2024.json",
+   "year": 2024,
+   "books": 292
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2025.json",
+   "year": 2025,
+   "books": 272
+  },
+  {
+   "file": "C:\\pathsathi\\assets\\data\\2026.json",
+   "year": 2026,
+   "books": 304
+  }
+ ],
+ "stats": {},
+ "skipped_navigation": [],
+ "no_link_rows": [
+  {
+   "file": "2017\\২০১৭ শিক্ষাবর্ষের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক গণিত",
+   "language": "bn",
+   "row": 2,
+   "col": 2
+  },
+  {
+   "file": "2017\\২০১৭ শিক্ষাবর্ষের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গার্হস্থ্য বিজ্ঞান",
+   "language": "bn",
+   "row": 14,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "পেশেন্ট কেয়ার টেকনিক-১",
+   "language": "bn",
+   "row": 1,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "পেশেন্ট কেয়ার টেকনিক-২",
+   "language": "bn",
+   "row": 2,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+   "language": "bn",
+   "row": 5,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+   "language": "bn",
+   "row": 6,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার)পাঠ্যপুস্তক.html",
+   "title": "ফ্ল্যাশ কার্ড",
+   "language": "bn",
+   "row": 3,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "পেশেন্ট কেয়ার টেকনিক-১",
+   "language": "bn",
+   "row": 1,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "পেশেন্ট কেয়ার টেকনিক-২",
+   "language": "bn",
+   "row": 2,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+   "language": "bn",
+   "row": 5,
+   "col": 2
+  },
+  {
+   "file": "2018\\২০১৮ শিক্ষাবর্ষের ভোকেশনাল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+   "language": "bn",
+   "row": 6,
+   "col": 2
+  },
+  {
+   "file": "2019\\২০১৯ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "ফ্ল্যাশ কার্ড",
+   "language": "bn",
+   "row": 3,
+   "col": 2
+  },
+  {
+   "file": "2019\\২০১৯ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (মারমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "গল্পের বই",
+   "language": "bn",
+   "row": 5,
+   "col": 0
+  },
+  {
+   "file": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "ফ্ল্যাশ কার্ড",
+   "language": "bn",
+   "row": 3,
+   "col": 2
+  },
+  {
+   "file": "2020\\২০২০ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (মারমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "গল্পের বই",
+   "language": "bn",
+   "row": 5,
+   "col": 0
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "পেশেন্ট কেয়ার টেকনিক-১",
+   "language": "bn",
+   "row": 1,
+   "col": 2
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "পেশেন্ট কেয়ার টেকনিক-২",
+   "language": "bn",
+   "row": 2,
+   "col": 2
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্লানিং অ্যান্ড পাইপ ফিটিং-১",
+   "language": "bn",
+   "row": 27,
+   "col": 2
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্লানিং অ্যান্ড পাইপ ফিটিং-২",
+   "language": "bn",
+   "row": 28,
+   "col": 2
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "রচনাসম্ভার",
+   "language": "bn",
+   "row": 8,
+   "col": 2
+  },
+  {
+   "file": "2021\\২০২১ শিক্ষাবর্ষের দাখিল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "রচনা সম্ভার",
+   "language": "bn",
+   "row": 23,
+   "col": 2
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "ফ্ল্যাশ কার্ড",
+   "language": "bn",
+   "row": 3,
+   "col": 2
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (মারমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "গল্পের বই",
+   "language": "bn",
+   "row": 5,
+   "col": 0
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "রচনাসম্ভার",
+   "language": "bn",
+   "row": 8,
+   "col": 2
+  },
+  {
+   "file": "2022\\২০২২ শিক্ষাবর্ষের দাখিল স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "রচনা সম্ভার",
+   "language": "bn",
+   "row": 23,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "মেশিন টুলস অপারেশন-১",
+   "language": "bn",
+   "row": 7,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "মেশিন টুলস অপারেশন-২",
+   "language": "bn",
+   "row": 8,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ড্রেস মেকিং-১",
+   "language": "bn",
+   "row": 17,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ড্রেস মেকিং-২",
+   "language": "bn",
+   "row": 18,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "অটোমোটিভ- ২",
+   "language": "bn",
+   "row": 19,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "অটোমোটিভ-১",
+   "language": "bn",
+   "row": 20,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আর্কিটেকচার ড্রাফট উইথ ক্যাড-১",
+   "language": "bn",
+   "row": 21,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আর্কিটেকচার ড্রাফট উইথ ক্যাড-২",
+   "language": "bn",
+   "row": 22,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আত্মকর্মসংস্থান ও ব্যবসায় উদ্যোগ",
+   "language": "bn",
+   "row": 23,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স-১",
+   "language": "bn",
+   "row": 24,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স-২",
+   "language": "bn",
+   "row": 25,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ইঞ্জিনিয়ারিং ড্রইং",
+   "language": "bn",
+   "row": 26,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্লানিং অ্যান্ড পাইপ ফিটিং-১",
+   "language": "bn",
+   "row": 27,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্লানিং অ্যান্ড পাইপ ফিটিং-২",
+   "language": "bn",
+   "row": 28,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফ্রুট এন্ড ভেজিটেবল কাল্টিভেশন-১",
+   "language": "bn",
+   "row": 29,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফ্রুট এন্ড ভেজিটেবল কাল্টিভেশন-২",
+   "language": "bn",
+   "row": 30,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "উইভিং-১",
+   "language": "bn",
+   "row": 31,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "উইভিং-২",
+   "language": "bn",
+   "row": 32,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফার্ম মেশিনারি-২",
+   "language": "bn",
+   "row": 33,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফার্ম মেশিনারি-১",
+   "language": "bn",
+   "row": 34,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "উড ওয়ার্কিং-১",
+   "language": "bn",
+   "row": 35,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "উড ওয়ার্কিং-২",
+   "language": "bn",
+   "row": 36,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফুড প্রসেসিং অ্যান্ড প্রিজার্ভেশন- ১",
+   "language": "bn",
+   "row": 37,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফুড প্রসেসিং অ্যান্ড প্রিজার্ভেশন ২",
+   "language": "bn",
+   "row": 38,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "এগ্রোবেসড্ ফুড -১",
+   "language": "bn",
+   "row": 39,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "এগ্রোবেসড্ ফুড -২",
+   "language": "bn",
+   "row": 40,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ওয়েল্ডিং অ্যান্ড ফেব্রিকেশন-১",
+   "language": "bn",
+   "row": 41,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ওয়েল্ডিং অ্যান্ড ফেব্রিকেশন-২",
+   "language": "bn",
+   "row": 42,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "লাইভস্টক রিয়ারিং এন্ড ফার্মিং-১",
+   "language": "bn",
+   "row": 43,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "লাইভস্টক রিয়ারিং এন্ড ফার্মিং-২",
+   "language": "bn",
+   "row": 44,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "কম্পিউটার ও তথ্য প্রযুক্তি- ২",
+   "language": "bn",
+   "row": 45,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "কম্পিউটার ও তথ্য প্রযুক্তি-১",
+   "language": "bn",
+   "row": 46,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "কম্পিউটার এ্যাপ্লিকেশন",
+   "language": "bn",
+   "row": 47,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "নিটিং-১",
+   "language": "bn",
+   "row": 48,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "নিটিং-২",
+   "language": "bn",
+   "row": 49,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফিস কালচার অ্যান্ড ব্রিডিং-১",
+   "language": "bn",
+   "row": 50,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ফিস কালচার অ্যান্ড ব্রিডিং-২",
+   "language": "bn",
+   "row": 51,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বিল্ডিং মেইনটেন্যান্স -১",
+   "language": "bn",
+   "row": 52,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বিল্ডিং মেইনটেন্যান্স -২",
+   "language": "bn",
+   "row": 53,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (গারো ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "ফ্ল্যাশ কার্ড",
+   "language": "bn",
+   "row": 3,
+   "col": 2
+  },
+  {
+   "file": "2023\\২০২৩ শিক্ষাবর্ষের ক্ষুদ্র নৃগোষ্ঠির (মারমা ভাষার) প্রাক-প্রাথমিক শিক্ষার পাঠ্যপুস্তক.html",
+   "title": "গল্পের বই",
+   "language": "bn",
+   "row": 5,
+   "col": 0
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "অটোমোটিভ- ২",
+   "language": "bn",
+   "row": 19,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের এসএসসি(ভোকেশনাল) স্তরের নবম ও দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "অটোমোটিভ-১",
+   "language": "bn",
+   "row": 20,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "কোরআন মাজিদ ও তাজভিদ",
+   "language": "bn",
+   "row": 1,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আল আকায়েদ ওয়াল ফিক্হ",
+   "language": "bn",
+   "row": 2,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+   "language": "bn",
+   "row": 3,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+   "language": "bn",
+   "row": 4,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 5,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 6,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "কৃষি শিক্ষা",
+   "language": "bn",
+   "row": 7,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ইসলামের ইতিহাস",
+   "language": "bn",
+   "row": 8,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল (ভোকেশনাল) স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "হাদিস শরিফ",
+   "language": "bn",
+   "row": 9,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের দাখিল স্তরের নবম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "জীবন ও জীবিকা",
+   "language": "bn",
+   "row": 14,
+   "col": 2
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "row": 1,
+   "col": 4
+  },
+  {
+   "file": "2024\\২০২৪ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক গণিত",
+   "language": "bn",
+   "row": 3,
+   "col": 4
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক গণিত",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক বিজ্ঞান",
+   "language": "bn",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ইসলাম শিক্ষা",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "হিন্দুধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বৌদ্ধধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের চতুর্থ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "খ্রিষ্টধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 9,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English for Today",
+   "language": "en",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের দ্বিতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক গণিত",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক গণিত",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক বিজ্ঞান",
+   "language": "bn",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ইসলাম শিক্ষা",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "হিন্দুধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বৌদ্ধধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের পঞ্চম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "খ্রিষ্টধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 9,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English for Today",
+   "language": "en",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের প্রাথমিক স্তরের প্রথম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক গণিত",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "সাহিত্য-কণিকা",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের অষ্টম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা সাহিত্য",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা সহপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বিজ্ঞান",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "চারুপাঠ",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "সপ্তবর্ণা",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2025\\২০২৫ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আমার বাংলা বই",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক গণিত",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "প্রাথমিক বিজ্ঞান",
+   "language": "bn",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "ইসলাম শিক্ষা",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "হিন্দুধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বৌদ্ধধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের প্রাথমিক স্তরের তৃতীয় শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "খ্রিষ্টধর্ম শিক্ষা",
+   "language": "bn",
+   "row": 9,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা সাহিত্য",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা সহপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ভাষার ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের নবম-দশম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বিজ্ঞান",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "চারুপাঠ",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ষষ্ঠ শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "সপ্তবর্ণা",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের সপ্তম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "সাহিত্য-কণিকা",
+   "language": "bn",
+   "row": 1,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "আনন্দপাঠ",
+   "language": "bn",
+   "row": 2,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+   "language": "bn",
+   "row": 3,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English For Today",
+   "language": "en",
+   "row": 4,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "English Grammar and Composition",
+   "language": "en",
+   "row": 5,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "গণিত",
+   "language": "bn",
+   "row": 6,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+   "language": "bn",
+   "row": 7,
+   "col": 3
+  },
+  {
+   "file": "2026\\২০২৬ শিক্ষাবর্ষের মাধ্যমিক স্তরের ৮ম শ্রেণির পাঠ্যপুস্তক.html",
+   "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+   "language": "bn",
+   "row": 8,
+   "col": 3
+  }
+ ],
+ "non_pdf_rows": []
+}

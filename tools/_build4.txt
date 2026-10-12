@@ -1,0 +1,18 @@
+﻿kept files        : 233  dropped duplicates: 11
+books before dedupe: 3549
+in-year dups dropped: 63
+books total       : 3486
+written files     : 10
+   C:\pathsathi\assets\data\2017.json  books=101
+   C:\pathsathi\assets\data\2018.json  books=437
+   C:\pathsathi\assets\data\2019.json  books=428
+   C:\pathsathi\assets\data\2020.json  books=469
+   C:\pathsathi\assets\data\2021.json  books=308
+   C:\pathsathi\assets\data\2022.json  books=391
+   C:\pathsathi\assets\data\2023.json  books=484
+   C:\pathsathi\assets\data\2024.json  books=292
+   C:\pathsathi\assets\data\2025.json  books=272
+   C:\pathsathi\assets\data\2026.json  books=304
+skipped navigation: 0
+rows without link : 177
+stats             : {}

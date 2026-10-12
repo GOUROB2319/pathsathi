@@ -1,0 +1,2782 @@
+{
+  "year": 2021,
+  "books": [
+    {
+      "id": "2021-class_1-english-for-today-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1H1t707L_Z1ssLzeuFAAcx-Hvm2FT42nQ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-english-for-today-en",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1SLaLGlKn-4v4yn04JgGENGb9wh5OphZY/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-english-for-today-en-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "http://drive.google.com/file/d/1H1t707L_Z1ssLzeuFAAcx-Hvm2FT42nQ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-akaid-o-phikh-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HqYgh4WgcDhszTtmXF7YN00TIHAAVuS1/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-ad-durusul-arabijjah-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1QRQE_IFUkkOSNgRfpLfSskR5MeB1VtCw/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-amar-bangla-bi-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/11sQzp294o0JF9VtCCcBUz6gyQyzpds-p/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-amar-bangla-bi-bn-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1YAC42sxSW9_29z7EmfvBGQu9RKjA5o6_/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-amar-bangla-bi-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1YAC42sxSW9_29z7EmfvBGQu9RKjA5o6_/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-kuran-majid-o-tajbhid-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1AlVJXVWLzeM_chPOY-lGq2cM4muPL9M5/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-gnit-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_1",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1YI7-qt-MoLD968YNrZCBbo10FpcuhrDP/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-prathmik-gnit-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1fC7dHWx5umIinAbYQRmfjMhg4w2yRaAx/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_1-prathmik-gnit-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_1",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1lCFQ6kldKZxcZwT4okA7WTxav9DNRg88/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-english-for-today-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1GynjQvqH0Lp8u2fJhL38ddhhKfAmtNF1/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-english-for-today-en",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1uvoxqGDt6EpFUyHf0KxjV_srKBRdP7-7/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-english-for-today-en-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1GynjQvqH0Lp8u2fJhL38ddhhKfAmtNF1/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-akaid-o-phikh-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DuGXUsZZPyzzVnWUtSlD1e8jCTmYiNNz/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-ad-durusul-arabijjah-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1wv517PfKAIA3ECvGvF0KaVboiTPkUERI/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-amar-bangla-bi-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/12bGY-5-mbDUFgSgNt-2ikML024Qze3Pt/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-amar-bangla-bi-bn-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/17oAOAB4OHhpWq8DtgnYbysMCD73OlpKn/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-amar-bangla-bi-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/17oAOAB4OHhpWq8DtgnYbysMCD73OlpKn/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-islam-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EopCnWPU-iGk5vPMnkdb6fUqnpStxrGr/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-islam-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1EopCnWPU-iGk5vPMnkdb6fUqnpStxrGr/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-kuran-majid-o-tajbhid-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1gy9AE7e4E4RLhD2Kygb45iksC8EED2nB/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/14S6nEgnbN0hF2r2EFPj4Ck-7A6V5u_2r/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1eW0a4vQu5DsM3J5Gtqt5crJMRnWK4Oi6/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-gnit-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1fxuhcaUSw2TVTtu5YGenbPAftM5dqfdk/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-prathmik-gnit-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MjchGZHjkyzAp0clRMQPZsFqE4PDRm0M/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-prathmik-gnit-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1NISr1nMUTu8veu8FKgvt4ovloLwDWC6l/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-prathmik-bijnan-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1B35OFY6Ze050EO0Rym01rtmz-rJjjI0v/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-prathmik-bijnan-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1W92AjST4fhb6yjyCrZtOwDb5EzdqbBM3/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-bangladesh-o-bishbprichj-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/12gRZaY-o9l74Jg6KEcxb92ZdFZXllVKv/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-bangladesh-o-bishbprichj-bn-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1TyxIqxfFuS2T96OOz2MuzvIOviA5fsVh/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-bangladesh-o-bishbprichj-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1GF-3UKFYWT1po0ukbH84vXJYvGmZOIP3/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-bijnan-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_3",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/15S3BziMo8DodwjGaY4xqApWTiZ47L2we/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ucnyyGZNDtSxtEgTae8Wqy5nb4N5nrDo/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1oy8qOQpAZBYQkhxYMbZ2Wap7zdvvon9M/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1LgdgDsaZSmS62NIZ0UpMbOVg_8pcY3mB/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_3-hindudhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_3",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1MHe-Er8QAHU-MVN9Acg16F05IoZ4EnS6/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-english-for-today-en",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1opEUVgBdIbe_9BoeWYwCnw3RbD32xhbk/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-akaid-o-phikh-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Qj4bO3I8NZSJLWP4C92poZlEHpBUZIdt/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-ad-durusul-arabijjah-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1pSnrQ7jvNKlNZ6WbVYc2SWvBmiW-5Z2W/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-amar-bangla-bi-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ox_-1RQjNNGdqeYZ5ywAVBfkWeiwIigp/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-kuran-majid-o-tajbhid-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MLie8ZJ2DYhKh_MbSv4hjuIG4QtWCi4o/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-gnit-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1JWEWBFxGqqkgtS_C2yBTP6ZK1_aiVZQF/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-bangladesh-o-bishbprichj-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/16FsYfMPfdi0kN7vDZSh66F8Tsv99gA8R/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_4-bijnan-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_4",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-v-3k1VJcWASyp2O5PhQ0NYwOk85AQpb/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-english-for-today-en",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "English For Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1JLZqU5BxREGj_y9DT6gi7VDX5Ygdag_h/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-english-for-today-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1kCnyERAJiP8enX2Dwm8ee2TLWtE01JHB/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-english-for-today-en-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1kCnyERAJiP8enX2Dwm8ee2TLWtE01JHB/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-akaid-o-phikh-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আকাইদ ও ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1B-6V-RlC8Gm9nQUXytspHBV8HY9YZEFm/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-ad-durusul-arabijjah-ojal-kaojajed-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আদ্ দুরূসুল আরাবিয়্যাহ্ ওয়াল কাওয়ায়েদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1VGZ5BLWxS_cwvf56BAAsNbOZXOrT9g1o/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-amar-bangla-bi-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1IjVFMk4LHNtpaaVnbGKiCwm_kfrqbAvk/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-amar-bangla-bi-bn-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BZHgbqzUEu17_tPAiAQArB_niU_L-cF0/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-amar-bangla-bi-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "আমার বাংলা বই",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1BZHgbqzUEu17_tPAiAQArB_niU_L-cF0/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-islam-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sAVJVdihKJQeVuYpMAzHbJUn-BzK3aat/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-islam-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/19Gu8KlYiguQecvVftK42oRy70l6lyVbF/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-kuran-majid-o-tajbhid-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "কুরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1aSkSw6kaGq5AE_z80PfBF_83i48bVX-A/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1P55uhtmiC8VNKD51v2rbIXpO2kp-RaR6/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1Na0wF1LPEFF_5j7TJzCopmYOs9Y1s7cM/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-gnit-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1s3S2_6DsfhjgU-s5g5U5a62fj4_UC44g/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-prathmik-gnit-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/11CRVsW4i9fuo3H9fO76N3hXLvLqlo4cg/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-prathmik-gnit-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1yGMzE-ALFPDgr639BpbnQQ5DBjc3UQ1D/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-prathmik-bijnan-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BszeK3WHZjKg3gDRfCT9uVzvAN6pOe3H/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-prathmik-bijnan-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "প্রাথমিক বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1yzZJgwR2mXLQaNjdykvBNUNDsuQdyNwr/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-bangladesh-o-bishbprichj-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1lWF7HZSY3_K-C76z1ulJEFpjti7xcllv/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-bangladesh-o-bishbprichj-bn-2",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Pz7fnpRjKbA4oliwIp9SeEBzL6KXw2Q3/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-bangladesh-o-bishbprichj-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1aRnH4fLzRLY91NJsvGcHgcT2EZSqkdiO/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-bijnan-bn",
+      "year": 2021,
+      "level": "ebtedayi",
+      "classId": "class_5",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18JxJJQwoi2a0X6uw4Pl15MfafBJxuy3D/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iD7kD6ahLvn7u-Tt_C246RzbfvjSl2o-/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1_Fygpbz1o-7g9BfYVub7uV4N9QQZ8H5R/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-hindudhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1o4YekRA-eKjtSPHX80QvxAWkmCAMacMI/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_5-hindudhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "primary",
+      "classId": "class_5",
+      "title": "হিন্দুধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1gwRRlonzxMOpTzM4spDCtZyoqsqckg-_/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-english-grammar-and-composition-en",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1NV87udfIAVOspZCdadnUfkzVCKJCY4Wu/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-english-for-today-en",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1H1Q2uHnovSJUvWoU0ZODhkP0_2-YWJEm/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-al-akajed-ojal-phikh-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ADjn_sMqJ-oZJUviGeUD_JJwbwMiKgIC/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1M5SJN7ZZAJ8PlN0iUmLe6PpaANw0iOqw/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1a18fPyQeY8r8li6WeSYZPcDxsl96A1Hb/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MDG8YYT_6cF6L_VRGo68ghDUuEKJcH1W/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-krishi-shiksha-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_YboeS41Oh72KWfKLFRgDiAPmeb1fr0b/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-koran-mjid-o-tajbhid-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "কোরআন মজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vSy2ao56w1cQsGmKeAsLNM_-_cSg5lR0/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-gnit-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/10Z9MoLXuGS_HrTz8UxMEmdUupRgbKpz-/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-garhsthj-bijnan-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_3iIBxdrSJJlQ_BYSe5P7LR0wUnfvY8m/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-charupath-bangla-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "চারুপাঠ (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/19vHNnI14vwU7VEgZCNCBGzwSxo6E6dJx/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-tthj-o-jogajog-prjukti-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vgJP2nu7WSUUhN98AM5X6BSgOqa2Vp4-/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/13ktaaWohXLfdrEsIhDzTzx99ZqvD6unK/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-bangladesh-o-bishbprichj-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HzJAZwr1sm5aKGJtNSX-vdD_qRRtEKus/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1O5YRUaVUN1sWJfC5yFR2hsFeM-yMB1qY/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_6-sadharn-bijnan-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_6",
+      "title": "সাধারণ বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18_UKoNqzivs5qXUQjD9aGBJd2flou3Ya/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-english-grammer-and-composition-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/167PXWcwxDubYwnDdlU72iKsv9VXMCWrZ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-english-grammer-and-composition-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/167PXWcwxDubYwnDdlU72iKsv9VXMCWrZ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-english-for-today-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/19EQ4BSXK0KwQ707lgiYgC4Gn8mcLEFLv/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-english-for-today-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/19EQ4BSXK0KwQ707lgiYgC4Gn8mcLEFLv/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-annd-path-bangla-drut-pthn-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iQD504okYVdd_bDOaL4ZfkxBVdO_QBRD/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-annd-path-bangla-drut-pthn-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1iQD504okYVdd_bDOaL4ZfkxBVdO_QBRD/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-islam-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hI1-FGFDmYjIRb-d1hn6p4_8Q8ZaUHkh/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-islam-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1SAlWNWyikLDD4SqakSgllGmyW3DhABfe/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-gnit-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18nWsSZHMFU78WEuiOvVA5dUxjUWhV0Gf/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-gnit-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1JHvBo90MMVk52E3TSHy_dsu_fO---Rgc/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-garhsthj-bijnan-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/15dyrqIyTIjvkdey5r-FY9fh5EEmLHIhg/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-garhsthj-bijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1hI9DlnLVI36a0Obd09MRIraNbzkoulNs/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-charu-o-karukla-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Q8SH3EDAs4XxCEQl7T7U0uBvmuHdoym5/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-charu-o-karukla-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "চারু ও কারুকলা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1sI4T3adPkER9QsnqAeIHktxh3oT1iK8x/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-tthj-o-jogajog-prjukti-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sdo1u5WWIsaQevd07V_JUac57WbM6UYu/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-tthj-o-jogajog-prjukti-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1nhnp3L8cF2Bd7XO3_cHwuQMz5UfapQKs/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1OqeMP4rNe9LfytZQo1FL2Wnbnji-wK_n/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-bangla-bjkrn-o-nirmiti-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1OqeMP4rNe9LfytZQo1FL2Wnbnji-wK_n/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-bangladesh-o-bishbprichj-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1uzm3gnjXoeYgDg3-wE8EANjkYvIoNtZh/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-bangladesh-o-bishbprichj-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1mZ9p4ZKdGlEh15kRN762NdYBrmJ50NTp/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-bijnan-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1NVZ254G0t48dnpsVrTlPtd5lzXd_gprW/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-bijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1sV7DqoImVqjWnagiecKeZUq5bvOgrTQU/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1I_VpXHkw5tqQN67lJAYmKvph4E8X9-MQ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-sharirik-shiksha-o-sbasthj-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1DxGRgawxSMjzvPFWuEG5pBwRNRNswh8i/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-sptbrna-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ZDWqXq7linCY7XQ50YKTPHbAiFsYOhOY/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_7-sptbrna-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_7",
+      "title": "সপ্তবর্ণা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ZDWqXq7linCY7XQ50YKTPHbAiFsYOhOY/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-english-grammar-and-composition-en",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/10d7863EAz7fxeQthKoKOsuylEZiIZmDs/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-english-grammer-and-composition-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1XnA5VMaSOneH4_khfap-MUu4Wht4FNxC/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-english-grammer-and-composition-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1XnA5VMaSOneH4_khfap-MUu4Wht4FNxC/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-english-for-today-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-U9RNNDMgDyKyX5zS2M4Qqd5XmSP38sP/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-english-for-today-en",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1CS27WrggBh28zGjn5sxlUcNw0iEFeXG4/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-english-for-today-en-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1-U9RNNDMgDyKyX5zS2M4Qqd5XmSP38sP/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-annd-path-bangla-drut-pthn-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/18YdNnVgJEF7AfCeGEOvnc7yJW26xu-Do/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-annd-path-bangla-drut-pthn-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "আনন্দ পাঠ(বাংলা দ্রুত পঠন)",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/18YdNnVgJEF7AfCeGEOvnc7yJW26xu-Do/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-al-akajed-ojal-phikh-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vhx5xxrnkytJux9DbxfWJ1OpQp3GEty4/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BFQGggUy9FNJ9c_lZEMI1s7uw667rQUt/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-krm-o-jibnmukhi-shiksha-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1D4hTD5XMisgeiEUV5oCvDQYUcemvUvoW/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-krm-o-jibnmukhi-shiksha-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1LxPyq2nWSyd682c6H8cDYgwoaOpUxwVd/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-krm-o-jibnmukhi-shiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কর্ম ও জীবনমুখী শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/122c1IWLsj7wyh2Jw8TQmEjZq9eUwRbEN/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1LET1WWM228ce4UvAjRSPkV6VqvpH-Wi7/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-krishi-shiksha-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/17VfYq7SnXqyW4pqVfGiE01FBFJLb7W_G/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-krishi-shiksha-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1rpwXLBk3qR80duoOF08UFRPlMtNfI_7t/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-krishi-shiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "কৃষি শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1kES_BpY5TlXPFNUdn2kEqsdvNRhDscyL/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-koran-majid-o-tajbhid-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vV6yKchTvLkmlB4OgRIdCfXePE9ymk42/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-gnit-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1a--tSbsMWXLQ1UVlnLpbk2evm2X90QG-/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-garhsthj-bijnan-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/16KBGiANAUuwKgIdGV_R0-pdN0M0GN2lq/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-garhsthj-bijnan-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Ha0NxRzmxAxC_ncjfNuvCcXJaQZEe_HP/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-garhsthj-bijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1Ym6wLhtwjAN-T_Kk3lxt264iJ53yb-03/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-charu-o-karukla-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "চারু ও কারুকলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/19W2aWZeHZbKZGAhfKTPP26LKifKmIZM1/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-charu-o-karukla-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "চারু ও কারুকলা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1lnfYQ0tay3iN-FCYt5ATiP2xqgKk43cX/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-tthj-o-jogajog-prjukti-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1rX2BTqpzHK92icxBgSREhVDEjImnS0NI/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WwyG5X4VYjuKcUoSmiRcxChR8qvQ6pAN/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-tthj-o-jogajog-prjukti-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1foyGYHHHtTOtkYX_0aFyZlmqeK63kqqc/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bangla-bjkrn-o-nirmiti-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1zTw5G7woi-Z4lsFniUA3PDBBRV08vTm_/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bangla-bjkrn-o-nirmiti-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলা ব্যকরণ ও নির্মিতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1zTw5G7woi-Z4lsFniUA3PDBBRV08vTm_/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ZPBqisr8bl_p4wOVNFPnmLfbSrwaa9zP/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bangladesh-o-bishbprichj-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hQRWFtMkCea9Ht-P1xA1J1eAlLMW2z5g/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bangladesh-o-bishbprichj-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1buj6haFp9JD8iJjBYiRi--eJR-0BXfrJ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bangladesh-o-bishbprichj-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1kEDpG915lCR5aIR0Uk4yW8X_0KJU-OU2/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bijnan-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1StkTWWxTSetlsmBEQFAIUs94H_dhFlB_/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bijnan-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/128kPJwBOlZCd6IiOD-K8gZ-yIaD8EcZ5/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-bijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1FGGxOSWOXBfY23gwkXzucG20Be4bkMPp/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-sharirik-shiksha-o-sbasthj-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1PrHItizeHUot78C3EAwsWV6VeAMkGsbK/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-sharirik-shiksha-o-sbasthj-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1M-rStMeHDbsb9T4j8OafjU9otqQmBI92/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-sharirik-shiksha-o-sbasthj-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1BNzTS3X0JpFvBZHM6_7IlnFMA8549TLS/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-sahitj-knika-bangla-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_8",
+      "title": "সাহিত্য কণিকা (বাংলা)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1iuIqn3DNvN-ZoTJGAMLrlMNg1f8vOx8Q/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-sahitj-knika-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য কনিকা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1dgqku8x0dGUqniJCR6sbUORMig0PaINN/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_8-sahitj-knika-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_8",
+      "title": "সাহিত্য কনিকা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1dgqku8x0dGUqniJCR6sbUORMig0PaINN/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-english-grammar-and-composition-en",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/18ANzWQ-dXms8BxnqZx-rw_n3J_LrCIKE/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-english-grammar-and-composition-en-2",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English Grammar and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1EZsyd9UnKi63-1bK_rszk5ON-W08Abqj/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-english-for-toady-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English for Toady",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/11lva9_ej6ruzl24tjaWYJRFcNE2x7eR8/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-english-for-toady-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "English for Toady",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/11lva9_ej6ruzl24tjaWYJRFcNE2x7eR8/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-english-for-today-en",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1xMOI6Lk5ZCX4BGCuNxiqLd1Uq_p3piQo/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-enlish-grammer-and-composition-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "Enlish Grammer and Composition",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DVzPkADGWkNwH4gwtZQ1jLnXc1goXX39/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-enlish-grammer-and-composition-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "Enlish Grammer and Composition",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1DVzPkADGWkNwH4gwtZQ1jLnXc1goXX39/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-otomotibh-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অটোমোটিভ- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hRCpLZazuzpwva207E2nzlaq_ZMJyOb-/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-otomotibh-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "অটোমোটিভ-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BLeG20yK6AoQM-9EHcAT-sMqSPlQDGQm/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-orthniti-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "অর্থনীতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1mGuQZh4_fPzlDHctsd2g25hQilX6EOww/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-orthniti-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "অর্থনীতি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/13ipFfwoWv5bGaPTvJWebysrHI1PPBzpq/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-akajed-o-phikh-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আকায়েদ ও ফিকহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/13fthJIVMuD9oiosjAHlpiEVeOCZjZSuO/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-atmkrmsngsthan-o-bjbsaj-udjog-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "আত্মকর্মসংস্থান ও ব্যবসায় উদ্যোগ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/15IdefWpyTun0EY4PWVQBJkTu1eU2Kq5q/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-arkitekchar-drapht-uith-kjad-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "আর্কিটেকচার ড্রাফট উইথ ক্যাড-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/11_sv9r0aDJZunzcO6RSwwHNjG2lv9Y1l/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-arkitekchar-drapht-uith-kjad-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "আর্কিটেকচার ড্রাফট উইথ ক্যাড-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1T8U5ObLkWio68zv9BnJAnwmQvCda4SRV/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-al-akajed-ojal-phikh-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল আকায়েদ ওয়াল ফিক্হ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ih5tYBBlTEZMUwYm6OWIZcSuM5knaMhN/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-al-lugatul-arabijatul-ittesalija-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1jADZSwIDfvNq8QK4lhVyt3tQyZCjVKJV/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-al-lugatul-arabijatul-ittesalija-bn-2",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "আল লুগাতুল আরাবিয়াতুল ইত্তেসালিয়া",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/11aTwogMv4OKVHZf6vu1WgiCDw0fOPVp6/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-injinijaring-dring-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ইঞ্জিনিয়ারিং ড্রইং",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Mz2k47EnXJJub6Vnv8RVkRkNSI5TrReO/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-ilektrikjal-meintenjans-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1-uo70keUvQFm1UrQXgw2PvOF-dIhSm5z/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-ilektrikjal-meintenjans-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ইলেকট্রিক্যাল মেইনটেন্যান্স-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1m9mL4dp-yL4eKDpk5TDj-xhhLZO_-H12/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-islam-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1fgsYK4Zv88nkAONuVrpM-sXf8hf6pu-1/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-islam-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ইসলাম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1DtxonwHOyCR96wouaoblS__5l0-ivH4G/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-islamer-itihas-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ইসলামের ইতিহাস",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1twyzMX5hRlgglDEQGm5rkk7rJ01Y5l4s/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-islamer-itihas-bn-2",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ইসলামের ইতিহাস",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1JZ12ts0IHA081CJCsAj-lcHlPxrgCJpQ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-uibhing-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "উইভিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1oGO8qr3vLmz5FRhxFNl9JMBL1VbPdp0n/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-uibhing-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "উইভিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1sVm68l0LDzKP2mGqsn2TkIgreAqamTV5/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-uchchtr-gnit-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HqVCB2uc6p0v-_epX3UDPOWKieBQz5nK/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-uchchtr-gnit-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1qk4AVHQ1beaGmH1rHgSbUpULZ0cR-29D/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-uchchtr-gnit-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "উচ্চতর গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ztesEZ8NFnFteIFlLM1XQnslPPlQmdDi/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-ud-ojarking-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "উড ওয়ার্কিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_tK0CCIQi8oDsi69k4gR4D1LRakj4x4w/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-ud-ojarking-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "উড ওয়ার্কিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CKrRbUtYypBLc95kUtWWhZClj_K32aoA/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-egrobesd-phud-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "এগ্রোবেসড্ ফুড -১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/131qVHLyKveh5Ow_PmUGLGwaXQbRs1w9V/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-egrobesd-phud-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "এগ্রোবেসড্ ফুড -২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1AmYMWsIQdhC9mTFPabjvoJECVnVpP6Bk/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-ojelding-ojand-phebrikeshn-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ওয়েল্ডিং অ্যান্ড ফেব্রিকেশন-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CSG6RSRVEp2G7spFxf89g5oRPFpYdk8c/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-ojelding-ojand-phebrikeshn-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ওয়েল্ডিং অ্যান্ড ফেব্রিকেশন-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WqeFp4IYlA9_vyHNBslG7UJgnV7XGIrM/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kmpiutar-ejaplikeshn-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "কম্পিউটার এ্যাপ্লিকেশন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/14ZcjWDPGa5w236LIP69tkrWJ3vVpNbgn/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kmpiutar-o-tthj-prjukti-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "কম্পিউটার ও তথ্য প্রযুক্তি- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1UG1B_--6kcFL7r6fQWi-Wczwh3H7uooM/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kmpiutar-o-tthj-prjukti-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "কম্পিউটার ও তথ্য প্রযুক্তি-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Y-8NsshS0aibkXQEkKYn3J5uFInyCQaK/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kaojaidul-lugatil-arabijjah-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1wPwYALPb1YIj7VsFcSmD2MoiHLkR7awn/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kaojaidul-lugatil-arabijjah-bn-2",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কাওয়াইদুল লুগাতিল আরাবিয়্যাহ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1WNv97NTeC7jNTix3JbhvcicsX3CdK79w/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-krishi-shiksha-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1KL66s9d3hIVqINmZfZ-s1PqKBhXi0XW1/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-krishi-shiksha-bn-2",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কৃষি শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DTCQx2HQ84G09qFK1ZPbybkeLgE4gY49/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-krishishiksha-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "কৃষিশিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1JCcIhtMIr2KM2S55u1vlssdugBF7FtGZ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-krishishiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "কৃষিশিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/15RgRDcQH5F00hB9eDW4h2qjcuL-AnmGB/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-koran-majid-o-tajbhid-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1z_jn6DK1E9vjbTlum7CO4GEXXAWT3K2S/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-koran-majid-o-tajbhid-bn-2",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "কোরআন মাজিদ ও তাজভিদ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1evsFhy2R7oTymil-n8DyQHEqD579pS4E/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kjarijar-edukeshn-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার এডুকেশন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1_My4umhGCKyZlGhhLrIt-kI5R-aP-7xq/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kjarijar-edukeshn-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার এডুকেশন",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1i02xElmGkUlAK59hs3_StgthRD5mGp5M/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-kjarijar-shiksha-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "ক্যারিয়ার শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1r_VzCMjGDHeJ5eKvYt_ofDFMmzj08gcl/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-khrishtdhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/17lgFYpwDcXpr9SmhdPWjnQVg9BWlAAqC/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-khrishtdhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "খ্রিষ্টধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ck_azfQkWSMB89QuFsXq1Xz7GJTZrfVF/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-gnit-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/14gOagB3OPd0JR2nhQvDBGn-TnlgYmOBi/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-gnit-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DE4hAq2Tf3JH10AFJMrAQNBS5LkI4LPw/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-gnit-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গণিত",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1FOD6Sfgxe9KNxj2BqlbLe2-yrf6fBFuB/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-garhsthj-bijnan-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/15IV7EpNsRdC0_czjv29JJCwcE09gejtu/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-garhsthj-bijnan-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1kgytmCJZPFq_PmjMnZXEK8XxWr7H_63A/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-garhsthj-bijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "গার্হস্থ্য বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1a8FM9IAATBvzO0qUuJbL4Xsvnyg8s_HD/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jib-bijnan-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "জীব বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1omhZ18FSJ6CzmOqTrO-eNYvNhi-Orf-H/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jibbijnan-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "জীববিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1e8Ekz9AYtJ4NZtQgKkiwvyGoYCQXqDSy/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jibbijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "জীববিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1CMSSKi9pO-FOMWoLyn5DkfK_UoCHl2tl/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jenarel-ilektrniks-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CBM3PZiHgO7o7Un7yNbirBcLqxFE8Hbz/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jenarel-ilektrniks-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রনিক্স-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hCWI_be8e6dKDrMGPMEDlh1njCaFiSQl/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jenarel-ilektrikjal-ojarks-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1MOgenRT5_NVjFGr3FSQ2KV8ichHhw2qY/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jenarel-ilektrikjal-ojarks-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল ইলেকট্রিক্যাল ওয়ার্কস-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Wlv0e3r3m5ohDNbJrNWRn5s0uAk0nNUS/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jenarel-mekaniks-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স- ১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Z0nhwARGWw-f0lmavqk0ZZKxQi1LuGqx/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-jenarel-mekaniks-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "জেনারেল মেকানিক্স- ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1qSoEH9P0nf80T2Psd1VetbWWdYac7eE9/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-dres-meking-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ড্রেস মেকিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HwyeyVNorI8wZezb8-lOgAXFTnlqEnL-/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-dres-meking-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ড্রেস মেকিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1XMAYBvX8rJtElxuuAiJ71bIYPUP9UGE2/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-tthj-o-jogajog-prjukti-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1hzM8R9X0CHPjs4b8UMlKoeP2iZ4m7X_w/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-tthj-o-jogajog-prjukti-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1aZIs8coUNKoENEpGVuua2LMNSZDeNnI9/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-tthj-o-jogajog-prjukti-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ty-RALxbJZJD6AE1DSEXDoLeaSc2Tjsq/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-niting-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "নিটিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EQwst1zpjIingqE1GhxVHcUYmhj2f0AW/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-niting-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "নিটিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1wn95arYiogNoYDUy8IraV6Zt-R7izRnz/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-pdarth-bijnan-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পদার্থ বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1unePvRQ6e9ZbXWkEtH_RigzQJNuVVy9Q/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-pdarthbijnan-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পদার্থবিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1eQbwIS_i8X3ec0uiRmVIoNkE-CfuxfSl/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-pdarthbijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পদার্থবিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1tbgMxb9xCvRENZJShoHGwbAV3V1ZX_oG/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-peshent-kejar-teknik-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-১",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2021-class_9-peshent-kejar-teknik-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পেশেন্ট কেয়ার টেকনিক-২",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2021-class_9-poltri-rijaring-ojand-pharming-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1kycpMPvCRJrt4I3S-oSU9YRzhbJMI-9i/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-poltri-rijaring-ojand-pharming-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "পোল্ট্রি রিয়ারিং অ্যান্ড ফার্মিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1OLpQqXaDkdZSoFaLChR-zGr7rdcOJa4i/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-pourniti-o-nagrikta-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1EJc5ia0tMtR9ovUJKrT9eC_16uu-KvKA/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-pourniti-o-nagrikta-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1vu8xvKPjgn-i5XwbEkQJ73BuaMh__lWV/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-pourniti-o-nagrikta-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "পৌরনীতি ও নাগরিকতা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1P8EuwcVl4A_b9Fm8-8V5nHJdKLNwvR_H/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-planing-ojand-paip-phiting-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "প্লানিং অ্যান্ড পাইপ ফিটিং-১",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2021-class_9-planing-ojand-paip-phiting-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "প্লানিং অ্যান্ড পাইপ ফিটিং-২",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2021-class_9-pharm-meshinari-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফার্ম মেশিনারি-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/12TSEH8cObDl-Fd4mjjL49-ZU0tZVbPhX/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-pharm-meshinari-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফার্ম মেশিনারি-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/118gQ4PDBNeCjnULWUyr8WlIg3M6lSguc/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phinjans-o-bjangking-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ফিন্যান্স ও ব্যাংকিং",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DMa7pTBE2fBaU0SVPjLAPYtO6MfDqN-_/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phinjans-o-bjangking-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ফিন্যান্স ও ব্যাংকিং",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1DiGeCwjRZdumnAHnerGubI5rBW5FUDej/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phis-kalchar-ojand-briding-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফিস কালচার অ্যান্ড ব্রিডিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1apfBO5xhjefOI0Qf81Hv2A6NctXAlyeL/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phis-kalchar-ojand-briding-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফিস কালচার অ্যান্ড ব্রিডিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1q6c23S8uSFbleTovpFRvayeC9eXJQoZk/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phud-prsesing-ojand-prijarbheshn-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফুড প্রসেসিং অ্যান্ড প্রিজার্ভেশন ২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BebKSNWwrm_djx695nK1Hq8Y94hBTY1Q/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phud-prsesing-ojand-prijarbheshn-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফুড প্রসেসিং অ্যান্ড প্রিজার্ভেশন- ১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1RZnQzOlmEtje2tGCc3ybZN6sA9jRL-Af/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phrut-end-bhejitebl-kaltibheshn-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফ্রুট এন্ড ভেজিটেবল কাল্টিভেশন-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1NEk-yX6BKq4qEVSFrBEqZLnl_psVDSwV/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-phrut-end-bhejitebl-kaltibheshn-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "ফ্রুট এন্ড ভেজিটেবল কাল্টিভেশন-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/14G6kI_ykQJZkC3m1ryd3VKq-q1fMCt2q/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-bjakrn-o-nirmiti-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1KTrn1Uh6__q7efVjXByQhI-f8jdC9dSW/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-bjakrn-o-nirmiti-bn-2",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা ব্যাকরণ ও নির্মিতি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1awhUHB56jGzAcRvU4tB3t3M_h7gkxGwr/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-bhashar-bjakrn-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যাকরণ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1U_aysYyNnbW3V3UpmiOp-rZX9ATTL4Ux/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-bhashar-bjakrn-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা ভাষার ব্যাকরণ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1U_aysYyNnbW3V3UpmiOp-rZX9ATTL4Ux/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-shpath-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সহপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1HP62exgzvcxj5XQUO7S34obFGsdlaY-n/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-shpath-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সহপাঠ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1HP62exgzvcxj5XQUO7S34obFGsdlaY-n/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-sahitj-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Y0w6wcbiUER-uPllFO9ipstL-0hAT4Iz/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-sahitj-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1VIEpnnOALa4AFpk5UjxZrACr1PbsPuNr/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangla-sahitj-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলা সাহিত্য",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1VIEpnnOALa4AFpk5UjxZrACr1PbsPuNr/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangladesh-o-bishb-prichj-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্ব পরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1DKwV5j9gvanxAc9Wnc1bOmEOSVs2MtKG/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangladesh-o-bishbprichj-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BZybuVvzvRqJlsXxgar_iFBdJArMO8bz/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bangladesh-o-bishbprichj-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1DvDJHli-XpDeNXfA-pgLFiSoNLyufckz/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bijnan-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1BGpraKVA9lMYklXXvRsmMHn21NNb0N3H/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1Nua4GQViCIk36NZfIOJxBRdIUZqOii18/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bilding-meintenjans-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "বিল্ডিং মেইনটেন্যান্স -১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Y-Lin7y1KWwO5gFsT5o3zgWFXk6ZeRga/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bilding-meintenjans-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "বিল্ডিং মেইনটেন্যান্স -২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1c1qql9TDErHDhGfmzx9U00wWE-xPhQjM/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bouddhdhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1nihi2rO2iAO0Tjk7vNHpvu_0bUIDC_1l/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bouddhdhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1zxGhlo5JQSTIenpa5vuYk95IS-bowTG6/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bjbsaj-udjog-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ব্যবসায় উদ্যোগ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ObZafml3djbedWu2KtRazp2uLJsvW77D/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bjbsaj-udjog-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ব্যবসায় উদ্যোগ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/19XlVkiM7MpthpXmmWh_1L1gfhqmGdayQ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bhugol-o-pribesh-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ভূগোল ও পরিবেশ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1phWHytzE2H6gWZd0688EkFFb_5JzwIO7/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-bhugol-o-pribesh-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "ভূগোল ও পরিবেশ",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1t3ZRbCByvB0NvIywdz4hrIpFYuhkv4_i/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-mekanikjal-draphting-uith-kjad-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/11uEuK1FyxsMO4SlZkKnlni_pUgS9iPgH/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-mekanikjal-draphting-uith-kjad-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেকানিক্যাল ড্রাফটিং উইথ ক্যাড-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1a7jd1mAYAoI1MwzmUtBO95kbBfR9-_XV/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-meshin-tuls-opareshn-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন টুলস অপারেশন-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1KT5iYgL5GuXY7kwp-wMWUnQ03xgBuuQl/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-meshin-tuls-opareshn-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "মেশিন টুলস অপারেশন-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1xu0PztcUOOmjsAY4XtdKrYHrlx3Aunva/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-rchna-smbhar-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রচনা সম্ভার",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2021-class_9-rchnasmbhar-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রচনাসম্ভার",
+      "language": "bn",
+      "pdfUrl": ""
+    },
+    {
+      "id": "2021-class_9-rsajn-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1P0aBqjEt0mKBWGWfcJfOtYD8TMmz_xeI/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-rsajn-bn-2",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1s-uOPLgnPxYr5EA8rakkmXTFL5Ch9MXV/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-rsajn-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "রসায়ন",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1wG5af8o7xEfQLDMzc7Wp8bAkUH1lMQ3d/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-rephrijareshn-ojand-ejarkndishning-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CpXHzg5t89x6CREQ1VdmBWS2I3xL6Z40/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-rephrijareshn-ojand-ejarkndishning-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "রেফ্রিজারেশন অ্যান্ড এয়ারকন্ডিশনিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1s_pmueimNP4PztpLAOh7j_KxcvQN5dLi/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-laibhstk-rijaring-end-pharming-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "লাইভস্টক রিয়ারিং এন্ড ফার্মিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ZEkYube-QPpyAhEjnX0QB7H-DZEMom_B/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-laibhstk-rijaring-end-pharming-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "লাইভস্টক রিয়ারিং এন্ড ফার্মিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1RChjr3D8xUSGOmkZRocrcpI9ckgCuJnI/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-sharirik-shiksha-sbasthjbijnan-o-kheladhula-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "শারীরিক শিক্ষা,স্বাস্থ্যবিজ্ঞান ও খেলাধুলা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ImhJsqgDidt4oE2pYLgExQwNS59u_G0u/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-shrimp-kalchar-end-briding-1-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "শ্রিম্প কালচার এন্ড ব্রিডিং-১",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Xcmi1YcsKtDR5yvArApSdG194E1grDUi/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-shrimp-kalchar-end-briding-2-bn",
+      "year": 2021,
+      "level": "technical",
+      "classId": "class_9",
+      "title": "শ্রিম্প কালচার এন্ড ব্রিডিং-২",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1dM05aWarK0gFKE7Ocl9n1eKDoX3KwEY7/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-hadis-shrphi-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "হাদিস শরফি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CaaofxIUsbOUvX_8CyFuOkb3R-rbMX10/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-hadis-shriph-bn",
+      "year": 2021,
+      "level": "dakhil",
+      "classId": "class_9",
+      "title": "হাদিস শরিফ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1cwBt6X8JFrhmUZUq-qkNsMwDzLOi8UXu/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-hindu-dhrm-o-noitik-shiksha-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1ZULe4C2k3ppkwavT6wpnr36uxKquCImi/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-hindu-dhrm-o-noitik-shiksha-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিন্দু ধর্ম ও নৈতিক শিক্ষা",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1O9NE-ZR4-CD92d8i3MTuNT9CcdsJ--to/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-hisabbijnan-bn",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিসাববিজ্ঞান",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1gXBeHvfaiHqeJTTL4Tbg5l6sgSKJACzJ/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_9-hisabbijnan-en",
+      "year": 2021,
+      "level": "secondary",
+      "classId": "class_9",
+      "title": "হিসাববিজ্ঞান",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1hr1T473uUl7DPbWXIeZDJUxnjwGG-Lhq/view?usp=sharing"
+    },
+    {
+      "id": "2021-class_11-english-for-today-en",
+      "year": 2021,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "English for Today",
+      "language": "en",
+      "pdfUrl": "https://drive.google.com/file/d/1ObslLPmaF3w_td-eW4uh_t9Vg-sqOBnH/view?usp=share_link",
+      "academicYear": "2021-2022"
+    },
+    {
+      "id": "2021-class_11-tthj-o-jogajog-prjukti-bn",
+      "year": 2021,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/19f1pFirqOmxDhb1po9an8TMCRatvo7Su/view?usp=share_link",
+      "academicYear": "2021-2022"
+    },
+    {
+      "id": "2021-class_11-tthj-o-jogajog-prjukti-inglish-bharsn-bn",
+      "year": 2021,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি (ইংলিশ ভার্সন)",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1Xyflfns0thpGaFlqCIHfurLvG_1JzHMj/view?usp=share_link",
+      "academicYear": "2021-2022"
+    },
+    {
+      "id": "2021-class_11-shpath-bn",
+      "year": 2021,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "সহপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1CuetUIJnTx8ljJ9KT-jhwhwDiiZjfDtn/view?usp=share_link",
+      "academicYear": "2021-2022"
+    },
+    {
+      "id": "2021-class_11-sahitjpath-bn",
+      "year": 2021,
+      "level": "higher_secondary",
+      "classId": "class_11",
+      "title": "সাহিত্যপাঠ",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1srPOlSfVZl9RMd3qlAT-hW3Pb-R8Ex7k/view?usp=share_link",
+      "academicYear": "2021-2022"
+    },
+    {
+      "id": "2021-pre_primary-amar-bi-bn",
+      "year": 2021,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "আমার বই",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/1zFRzRnB6LYHCNorFpCZ1W0ms7tEjw8dT/view?usp=sharing"
+    },
+    {
+      "id": "2021-pre_primary-eso-likhte-shikhi-bn",
+      "year": 2021,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "এসো লিখতে শিখি",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/file/d/13p56p62eZaZDBaIh_2WaH9_1YudUu25_/view?usp=sharing"
+    },
+    {
+      "id": "2021-pre_primary-ting-tngker-glp-bn",
+      "year": 2021,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "টিং টংকের গল্প",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1fKJmAVQ2D_xIhU7JxV_0VReN2okSV2Qm"
+    },
+    {
+      "id": "2021-pre_primary-phlip-chart-bn",
+      "year": 2021,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্লিপ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YbeBTZBGk_8F-hZXPrGA7NFXbZzE8NI7"
+    },
+    {
+      "id": "2021-pre_primary-phljash-kard-bn",
+      "year": 2021,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ফ্ল্যাশ কার্ড",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1mMqdjfMUfJ8d3ZwIjXp5agFvQjWD5Ptm"
+    },
+    {
+      "id": "2021-pre_primary-bjnjnchart-bn",
+      "year": 2021,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "ব্যঞ্জণচার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=1YapmpgwHr4fdXKjz9sFd8ZIdqjNst11F"
+    },
+    {
+      "id": "2021-pre_primary-sbrbrn-chart-bn",
+      "year": 2021,
+      "level": "pre_primary",
+      "classId": "pre_primary",
+      "title": "স্বরবর্ণ চার্ট",
+      "language": "bn",
+      "pdfUrl": "https://drive.google.com/open?id=17F0yOZxR0U946R1OlYcCXVks0Ihn_vaO"
+    }
+  ]
+}
